@@ -561,7 +561,7 @@
     <kwrd>Children</kwrd>
     <kwrd>Injuries</kwrd>
     <kwrd>Prevention</kwrd>
-    <kwrd>Youth�</kwrd>
+    <kwrd>Youth</kwrd>
   </statement>
   <statement>
     <name>Preventing unintentional injuries in Indigenous children and youth in Canada</name>
@@ -593,7 +593,7 @@
     <kwrd>Community-acquired infections</kwrd>
     <kwrd>Indigenous populations</kwrd>
     <kwrd>Methicillin-resistant S. aureus (MRSA)</kwrd>
-    <kwrd>SSTI�</kwrd>
+    <kwrd>SSTI</kwrd>
   </statement>
   <statement>
     <name>The ?picky eater?: The toddler or preschooler who does not eat</name>
@@ -608,7 +608,7 @@
     <kwrd>Poor eating</kwrd>
     <kwrd>Refusal to eat</kwrd>
     <kwrd>Toddler</kwrd>
-    <kwrd>Unrealistic parental expectations�</kwrd>
+    <kwrd>Unrealistic parental expectations</kwrd>
   </statement>
   <statement>
     <name>The toddler who is falling off the growth chart</name>
@@ -805,7 +805,7 @@
     <DOI>10.1093/pch/18.6.311</DOI>
     <kwrd>Antibiotics</kwrd>
     <kwrd>Azithromycin</kwrd>
-    <kwrd>�Infections</kwrd>
+    <kwrd>Infections</kwrd>
     <kwrd>Macrolides</kwrd>
     <kwrd>Resistance</kwrd>
     <kwrd>Treatment</kwrd>
@@ -1395,7 +1395,10 @@
     <changed>16-Nov-20</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxx012</DOI>
-    <kwrd>Congenital infection, Microcephaly, Teratogen, Zika virus</kwrd>
+    <kwrd>Congenital infection</kwrd>
+    <kwrd>Microcephaly</kwrd>
+    <kwrd>Teratogen</kwrd>
+    <kwrd>Zika virus</kwrd>
   </statement>
   <statement>
     <name>Caring for children and youth from Canadian military families: Special considerations</name>
@@ -1406,7 +1409,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/pxx021</DOI>
-    <kwrd>Behaviour, Mental health, Military deployment, Military families, Stress</kwrd>
+    <kwrd>Behaviour</kwrd>
+    <kwrd>Mental health</kwrd>
+    <kwrd>Military deployment</kwrd>
+    <kwrd>Military families</kwrd>
+    <kwrd>Stress</kwrd>
   </statement>
   <statement>
     <name>Cannabis and Canada?s children and youth</name>
@@ -1417,7 +1424,12 @@
     <changed>16-Feb-21</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/pxx017 </DOI>
-    <kwrd>Adolescents, CUD, CWS, Neurodevelopment, THC, Youth</kwrd>
+    <kwrd>Adolescents</kwrd>
+    <kwrd>CUD</kwrd>
+    <kwrd>CWS</kwrd>
+    <kwrd>Neurodevelopment</kwrd>
+    <kwrd>THC</kwrd>
+    <kwrd>Youth</kwrd>
   </statement>
   <statement>
     <name>Acute management of croup in the emergency department</name>
@@ -1428,7 +1440,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Acute Care Committee</Committee>
     <DOI>10.1093/pch/pxx019 </DOI>
-    <kwrd>Corticosteroids, Croup, Dexamethasone, Epinephrine, Heliox</kwrd>
+    <kwrd>Corticosteroids</kwrd>
+    <kwrd>Croup</kwrd>
+    <kwrd>Dexamethasone</kwrd>
+    <kwrd>Epinephrine</kwrd>
+    <kwrd>Heliox</kwrd>
   </statement>
   <statement>
     <name>Management of term infants at increased risk for early onset bacterial sepsis</name>
@@ -1453,7 +1469,12 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxx073</DOI>
-    <kwrd>AEFI, BGTD, CAEFISS, IMPACT, NACI, Vaccine safety</kwrd>
+    <kwrd>AEFI</kwrd>
+    <kwrd>BGTD</kwrd>
+    <kwrd>CAEFISS</kwrd>
+    <kwrd>IMPACT</kwrd>
+    <kwrd>NACI</kwrd>
+    <kwrd>Vaccine safety</kwrd>
   </statement>
   <statement>
     <name>Recommendations for the use of rotavirus vaccines in infants</name>
@@ -1464,7 +1485,12 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxx072</DOI>
-    <kwrd>Acute�gastroenteritis,�Diarrhea,�Intussusception,�Oral vaccine,�Rotavirus,�Vaccine</kwrd>
+    <kwrd>Acute gastroenteritis</kwrd>
+    <kwrd>Diarrhea</kwrd>
+    <kwrd>Intussusception</kwrd>
+    <kwrd>Oral vaccine</kwrd>
+    <kwrd>Rotavirus</kwrd>
+    <kwrd>Vaccine</kwrd>
   </statement>
   <statement>
     <name>Update for Canadian NRP providers: A case-based review</name>
@@ -2120,7 +2146,7 @@
     <kwrd>Break of contact</kwrd>
     <kwrd>Latent tuberculosis infection</kwrd>
     <kwrd>Mycobacterium tuberculosis</kwrd>
-    <kwrd>Tuberculosis �</kwrd>
+    <kwrd>Tuberculosis</kwrd>
   </statement>
   <statement>
     <name>Risk of acute hyponatremia in hospitalized children and youth receiving maintenance intravenous fluids</name>
@@ -2175,6 +2201,7 @@
     <changed>05-May-21</changed>
     <Committee>Acute Care Committee</Committee>
     <DOI />
+    <kwrd />
   </statement>
   <statement>
     <name>Timing of introduction of allergenic solids for infants at high risk</name>
@@ -2508,7 +2535,14 @@
     <changed>15-Nov-20</changed>
     <Committee>First Nations, Inuit and Métis Health Committee</Committee>
     <DOI>10.1093/pch/pxz183</DOI>
-    <kwrd>First Nations, Inuit, M�tis, Indigenous, child health, tuberculosis, LTBI, social determinants</kwrd>
+    <kwrd>First Nations</kwrd>
+    <kwrd>Inuit</kwrd>
+    <kwrd>Métis</kwrd>
+    <kwrd>Indigenous</kwrd>
+    <kwrd>child health</kwrd>
+    <kwrd>tuberculosis</kwrd>
+    <kwrd>LTBI</kwrd>
+    <kwrd>social determinants</kwrd>
   </statement>
   <statement>
     <name>School nutrition: Support for providing healthy food and beverage choices in schools</name>
@@ -2607,6 +2641,7 @@
     <changed>30-Mar-20</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI />
+    <kwrd />
   </statement>
   <statement>
     <name>Paediatric asthma and COVID-19</name>
@@ -2619,6 +2654,7 @@
     <Committee>Drug Therapy and Hazardous Substances Committee</Committee>
     <Committee>Respiratory Health Section</Committee>
     <DOI />
+    <kwrd />
   </statement>
   <statement>
     <name>NICU care for infants born to mothers with suspected or confirmed COVID-19</name>
@@ -2629,6 +2665,7 @@
     <changed>16-Aug-21</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI />
+    <kwrd />
   </statement>
   <statement>
     <name>Delivery room considerations for infants born to mothers with suspected or confirmed COVID-19</name>
@@ -2639,6 +2676,7 @@
     <changed>16-Aug-21</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI />
+    <kwrd />
   </statement>
   <statement>
     <name>Breastfeeding and COVID-19</name>
@@ -2649,6 +2687,7 @@
     <changed>10-Aug-21</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI />
+    <kwrd />
   </statement>
   <statement>
     <name>The medical evaluation of pre-pubertal children with suspected sexual abuse</name>
@@ -2688,6 +2727,7 @@
     <changed>14-Sep-20</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI />
+    <kwrd />
   </statement>
   <statement>
     <name>What paediatricians can do to support children and youth during the COVID-19 pandemic</name>
@@ -2698,6 +2738,7 @@
     <changed>27-May-20</changed>
     <Committee>Social Paediatrics Section</Committee>
     <DOI />
+    <kwrd />
   </statement>
   <statement>
     <name>Counselling adolescents and parents about cannabis: A primer for health professionals</name>
@@ -3014,7 +3055,7 @@
     <Reaffirmed />
     <updated />
     <changed>15-Jun-21</changed>
-    <Committee>First Nations, Inuit and M�tis Health Committee</Committee>
+    <Committee>First Nations, Inuit and Métis Health Committee</Committee>
     <DOI>10.1093/pch/pxab023</DOI>
     <kwrd>AI/AN, American Indian/Alaska Native</kwrd>
     <kwrd> CRA, caries risk assessment</kwrd>
@@ -3037,6 +3078,7 @@
     <changed>12-Jul-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI />
+    <kwrd />
   </statement>
   <statement>
     <name>Adrenal suppression from exogenous glucocorticoids: Recognizing risk factors and preventing morbidity</name>
