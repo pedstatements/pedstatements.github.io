@@ -9,7 +9,7 @@
     <changed>02-Feb-21</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI>10.1093/pch/7.8.569</DOI>
-    <Keywords />
+    <kwrd />
   </statement>
   <statement>
     <name>Guidelines for genetic testing of healthy children</name>
@@ -20,7 +20,7 @@
     <changed>30-Jan-17</changed>
     <Committee>Bioethics Committee</Committee>
     <DOI>10.1093/pch/8.1.42</DOI>
-    <Keywords />
+    <kwrd />
   </statement>
   <statement>
     <name>Dieting in adolescence</name>
@@ -31,7 +31,7 @@
     <changed>02-Feb-21</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/9.7.487</DOI>
-    <Keywords />
+    <kwrd />
   </statement>
   <statement>
     <name>Management of primary nocturnal enuresis</name>
@@ -42,7 +42,7 @@
     <changed>02-Feb-21</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/10.10.611</DOI>
-    <Keywords />
+    <kwrd />
   </statement>
   <statement>
     <name>Perinatal brachial plexus palsy</name>
@@ -53,7 +53,7 @@
     <changed>06-Apr-18</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/11.2.111</DOI>
-    <Keywords />
+    <kwrd />
   </statement>
   <statement>
     <name>Prevention and management of pain in the neonate: An update</name>
@@ -64,7 +64,7 @@
     <changed>30-Jan-17</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1542/peds.2006-2277 </DOI>
-    <Keywords />
+    <kwrd />
   </statement>
   <statement>
     <name>Guidelines for detection, management and prevention of hyperbilirubinemia in term and late preterm newborn infants</name>
@@ -75,11 +75,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/12.5.401</DOI>
-    <Keywords>35 weeks? gestation</Keywords>
-    <Keywords>Hyperbilirubinemia</Keywords>
-    <Keywords>Jaundice</Keywords>
-    <Keywords>Preterm newborn</Keywords>
-    <Keywords>Term newborn</Keywords>
+    <kwrd>35 weeks? gestation</kwrd>
+    <kwrd>Hyperbilirubinemia</kwrd>
+    <kwrd>Jaundice</kwrd>
+    <kwrd>Preterm newborn</kwrd>
+    <kwrd>Term newborn</kwrd>
   </statement>
   <statement>
     <name>Vitamin D supplementation: Recommendations for Canadian mothers and infants</name>
@@ -90,7 +90,7 @@
     <changed>02-Feb-21</changed>
     <Committee>First Nations, Inuit and Métis Health Committee</Committee>
     <DOI>10.1093/pch/12.7.583</DOI>
-    <Keywords />
+    <kwrd />
   </statement>
   <statement>
     <name>Transition to adult care for youth with special health care needs</name>
@@ -101,7 +101,7 @@
     <changed>02-Feb-21</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/12.9.785</DOI>
-    <Keywords />
+    <kwrd />
   </statement>
   <statement>
     <name>Harm reduction: An approach to reducing risky health behaviours in adolescents</name>
@@ -112,7 +112,7 @@
     <changed>05-Oct-18</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/13.1.53</DOI>
-    <Keywords />
+    <kwrd />
   </statement>
   <statement>
     <name>Multidisciplinary Guidelines on the Identification, Investigation and Management of Suspected Abusive Head Trauma</name>
@@ -123,7 +123,7 @@
     <changed>08-Jan-13</changed>
     <Committee>Child and Youth Maltreatment Section</Committee>
     <DOI>10.1093/pch/13.2.1</DOI>
-    <Keywords />
+    <kwrd />
   </statement>
   <statement>
     <name>Ethical issues in health research in children</name>
@@ -134,9 +134,9 @@
     <changed>02-Feb-21</changed>
     <Committee>Bioethics Committee</Committee>
     <DOI>10.1093/pch/13.8.707</DOI>
-    <Keywords>Children</Keywords>
-    <Keywords>Ethics</Keywords>
-    <Keywords>Research</Keywords>
+    <kwrd>Children</kwrd>
+    <kwrd>Ethics</kwrd>
+    <kwrd>Research</kwrd>
   </statement>
   <statement>
     <name>Advance care planning for paediatric patients</name>
@@ -147,9 +147,9 @@
     <changed>02-Feb-21</changed>
     <Committee>Bioethics Committee</Committee>
     <DOI>10.1093/pch/13.9.791</DOI>
-    <Keywords>Advance directives</Keywords>
-    <Keywords>Consent</Keywords>
-    <Keywords>Palliative care</Keywords>
+    <kwrd>Advance directives</kwrd>
+    <kwrd>Consent</kwrd>
+    <kwrd>Palliative care</kwrd>
   </statement>
   <statement>
     <name>Vision screening in infants, children and youth</name>
@@ -160,7 +160,7 @@
     <changed>08-May-18</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/14.4.246</DOI>
-    <Keywords />
+    <kwrd />
   </statement>
   <statement>
     <name>Congenital syphilis: No longer just of historical interest</name>
@@ -171,7 +171,7 @@
     <changed>06-Apr-18</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/14.5.337</DOI>
-    <Keywords />
+    <kwrd />
   </statement>
   <statement>
     <name>Family-based treatment of children and adolescents with anorexia nervosa: Guidelines for the community physician</name>
@@ -182,11 +182,11 @@
     <changed>29-Jan-21</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/15.1.31</DOI>
-    <Keywords>Anorexia nervosa</Keywords>
-    <Keywords>Child and adolescent</Keywords>
-    <Keywords>Eating disorder</Keywords>
-    <Keywords>Family therapy</Keywords>
-    <Keywords>Outpatient</Keywords>
+    <kwrd>Anorexia nervosa</kwrd>
+    <kwrd>Child and adolescent</kwrd>
+    <kwrd>Eating disorder</kwrd>
+    <kwrd>Family therapy</kwrd>
+    <kwrd>Outpatient</kwrd>
   </statement>
   <statement>
     <name>Promoting optimal monitoring of child growth in Canada: Using the new World Health Organization growth charts</name>
@@ -197,7 +197,7 @@
     <changed>02-Feb-21</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI>10.1093/pch/15.2.77</DOI>
-    <Keywords />
+    <kwrd />
   </statement>
   <statement>
     <name>Management of HIV-exposed and HIV-infected children</name>
@@ -208,7 +208,7 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/15.6.379</DOI>
-    <Keywords />
+    <kwrd />
   </statement>
   <statement>
     <name>Inhalant abuse</name>
@@ -219,10 +219,10 @@
     <changed>02-Feb-21</changed>
     <Committee>First Nations, Inuit and Métis Health Committee</Committee>
     <DOI>10.1093/pch/15.7.443</DOI>
-    <Keywords>Abuse</Keywords>
-    <Keywords>Inhalant</Keywords>
-    <Keywords>Solvent</Keywords>
-    <Keywords>Volatile substance</Keywords>
+    <kwrd>Abuse</kwrd>
+    <kwrd>Inhalant</kwrd>
+    <kwrd>Solvent</kwrd>
+    <kwrd>Volatile substance</kwrd>
   </statement>
   <statement>
     <name>Emergency treatment of anaphylaxis in infants and children</name>
@@ -233,12 +233,12 @@
     <changed>07-Aug-19</changed>
     <Committee>Acute Care Committee</Committee>
     <DOI>10.1093/pch/16.1.35</DOI>
-    <Keywords>Anaphylaxis</Keywords>
-    <Keywords>Children</Keywords>
-    <Keywords>Emergency</Keywords>
-    <Keywords>Infant</Keywords>
-    <Keywords>Paediatric</Keywords>
-    <Keywords>Treatment</Keywords>
+    <kwrd>Anaphylaxis</kwrd>
+    <kwrd>Children</kwrd>
+    <kwrd>Emergency</kwrd>
+    <kwrd>Infant</kwrd>
+    <kwrd>Paediatric</kwrd>
+    <kwrd>Treatment</kwrd>
   </statement>
   <statement>
     <name>A harmonized immunization schedule for Canada: A call to action</name>
@@ -249,11 +249,11 @@
     <changed>06-Apr-18</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/16.1.29</DOI>
-    <Keywords>Adolescent</Keywords>
-    <Keywords>Canada</Keywords>
-    <Keywords>Children</Keywords>
-    <Keywords>Immunization</Keywords>
-    <Keywords>Vaccine schedule</Keywords>
+    <kwrd>Adolescent</kwrd>
+    <kwrd>Canada</kwrd>
+    <kwrd>Children</kwrd>
+    <kwrd>Immunization</kwrd>
+    <kwrd>Vaccine schedule</kwrd>
   </statement>
   <statement>
     <name>Management of community-associated methicillin-resistant Staphylococcus aureus skin abscesses in children</name>
@@ -264,9 +264,9 @@
     <changed>07-Feb-20</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/16.2.115</DOI>
-    <Keywords>Methicillin-resistant</Keywords>
-    <Keywords>Skin abscess</Keywords>
-    <Keywords>Staphylococcus aureus</Keywords>
+    <kwrd>Methicillin-resistant</kwrd>
+    <kwrd>Skin abscess</kwrd>
+    <kwrd>Staphylococcus aureus</kwrd>
   </statement>
   <statement>
     <name>Premedication for endotracheal intubation in the newborn infant</name>
@@ -277,13 +277,13 @@
     <changed>06-Apr-18</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/16.3.159</DOI>
-    <Keywords>Bradycardia</Keywords>
-    <Keywords>Endotracheal intubation</Keywords>
-    <Keywords>Hypertension</Keywords>
-    <Keywords>Hypoxia</Keywords>
-    <Keywords>Newborn</Keywords>
-    <Keywords>Pain</Keywords>
-    <Keywords>Premedication </Keywords>
+    <kwrd>Bradycardia</kwrd>
+    <kwrd>Endotracheal intubation</kwrd>
+    <kwrd>Hypertension</kwrd>
+    <kwrd>Hypoxia</kwrd>
+    <kwrd>Newborn</kwrd>
+    <kwrd>Pain</kwrd>
+    <kwrd>Premedication </kwrd>
   </statement>
   <statement>
     <name>Withholding and withdrawing artificial nutrition and hydration</name>
@@ -294,10 +294,10 @@
     <changed>06-Apr-18</changed>
     <Committee>Bioethics Committee</Committee>
     <DOI>10.1093/pch/16.4.241</DOI>
-    <Keywords>Artificial nutrition and hydration</Keywords>
-    <Keywords>Ethics</Keywords>
-    <Keywords>Paediatric end-of-life care</Keywords>
-    <Keywords>Palliative care</Keywords>
+    <kwrd>Artificial nutrition and hydration</kwrd>
+    <kwrd>Ethics</kwrd>
+    <kwrd>Paediatric end-of-life care</kwrd>
+    <kwrd>Palliative care</kwrd>
   </statement>
   <statement>
     <name>Ethical participation of children and youth in medical education</name>
@@ -308,12 +308,12 @@
     <changed>02-Feb-21</changed>
     <Committee>Bioethics Committee</Committee>
     <DOI>10.1093/pch/16.4.223</DOI>
-    <Keywords>Children and youth</Keywords>
-    <Keywords>Ethics</Keywords>
-    <Keywords>Medical education</Keywords>
-    <Keywords>Paediatric patients</Keywords>
-    <Keywords>Respect for patients</Keywords>
-    <Keywords>Truth telling</Keywords>
+    <kwrd>Children and youth</kwrd>
+    <kwrd>Ethics</kwrd>
+    <kwrd>Medical education</kwrd>
+    <kwrd>Paediatric patients</kwrd>
+    <kwrd>Respect for patients</kwrd>
+    <kwrd>Truth telling</kwrd>
   </statement>
   <statement>
     <name>Universal newborn hearing screening</name>
@@ -324,10 +324,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/16.5.301</DOI>
-    <Keywords>Deafness</Keywords>
-    <Keywords>Early intervention</Keywords>
-    <Keywords>Hearing screening</Keywords>
-    <Keywords>Newborns</Keywords>
+    <kwrd>Deafness</kwrd>
+    <kwrd>Early intervention</kwrd>
+    <kwrd>Hearing screening</kwrd>
+    <kwrd>Newborns</kwrd>
   </statement>
   <statement>
     <name>The sexual abuse of young people with a disability or chronic health condition</name>
@@ -338,12 +338,12 @@
     <changed>08-May-18</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/16.6.365</DOI>
-    <Keywords>Adolescent</Keywords>
-    <Keywords>Sexual abuse</Keywords>
-    <Keywords>Prevention</Keywords>
-    <Keywords>Disability</Keywords>
-    <Keywords>Chronic condition</Keywords>
-    <Keywords>Sexual health</Keywords>
+    <kwrd>Adolescent</kwrd>
+    <kwrd>Sexual abuse</kwrd>
+    <kwrd>Prevention</kwrd>
+    <kwrd>Disability</kwrd>
+    <kwrd>Chronic condition</kwrd>
+    <kwrd>Sexual health</kwrd>
   </statement>
   <statement>
     <name>Positional plagiocephaly</name>
@@ -354,10 +354,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/16.8.493</DOI>
-    <Keywords>Craniosynostosis</Keywords>
-    <Keywords>Deformational plagiocephaly</Keywords>
-    <Keywords>Moulding therapy</Keywords>
-    <Keywords>Supine position</Keywords>
+    <kwrd>Craniosynostosis</kwrd>
+    <kwrd>Deformational plagiocephaly</kwrd>
+    <kwrd>Moulding therapy</kwrd>
+    <kwrd>Supine position</kwrd>
   </statement>
   <statement>
     <name>Treating cough and cold: Guidance for caregivers of children and youth</name>
@@ -368,10 +368,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Drug Therapy and Hazardous Substances Committee</Committee>
     <DOI>10.1093/pch/16.9.564 </DOI>
-    <Keywords>Children</Keywords>
-    <Keywords>Cough and cold</Keywords>
-    <Keywords>Medications</Keywords>
-    <Keywords>Over-the-counter (OTC) medications</Keywords>
+    <kwrd>Children</kwrd>
+    <kwrd>Cough and cold</kwrd>
+    <kwrd>Medications</kwrd>
+    <kwrd>Over-the-counter (OTC) medications</kwrd>
   </statement>
   <statement>
     <name>Drug research and treatment for children in Canada: A challenge</name>
@@ -382,10 +382,10 @@
     <changed>25-Feb-19</changed>
     <Committee>Drug Therapy and Hazardous Substances Committee</Committee>
     <DOI>10.1093/pch/16.9.560 </DOI>
-    <Keywords>Canada</Keywords>
-    <Keywords>Children</Keywords>
-    <Keywords>Drugs</Keywords>
-    <Keywords>Research</Keywords>
+    <kwrd>Canada</kwrd>
+    <kwrd>Children</kwrd>
+    <kwrd>Drugs</kwrd>
+    <kwrd>Research</kwrd>
   </statement>
   <statement>
     <name>Measuring in support of early childhood development</name>
@@ -396,10 +396,10 @@
     <changed>14-Mar-13</changed>
     <Committee>Early Years Task Force</Committee>
     <DOI>10.1093/pch/16.10.655</DOI>
-    <Keywords>Early childhood development</Keywords>
-    <Keywords>Longitudinal data</Keywords>
-    <Keywords>Population health</Keywords>
-    <Keywords>Social determinants</Keywords>
+    <kwrd>Early childhood development</kwrd>
+    <kwrd>Longitudinal data</kwrd>
+    <kwrd>Population health</kwrd>
+    <kwrd>Social determinants</kwrd>
   </statement>
   <statement>
     <name>Managing functional constipation in children</name>
@@ -410,10 +410,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/16.10.661</DOI>
-    <Keywords>Constipation</Keywords>
-    <Keywords>Encopresis</Keywords>
-    <Keywords>Laxative</Keywords>
-    <Keywords>Paediatric</Keywords>
+    <kwrd>Constipation</kwrd>
+    <kwrd>Encopresis</kwrd>
+    <kwrd>Laxative</kwrd>
+    <kwrd>Paediatric</kwrd>
   </statement>
   <statement>
     <name>Getting it right at 18 months: In support of an enhanced well-baby visit</name>
@@ -424,11 +424,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Early Years Task Force</Committee>
     <DOI>10.1093/pch/16.10.647</DOI>
-    <Keywords>Anticipatory guidance</Keywords>
-    <Keywords>Early child development</Keywords>
-    <Keywords>Population health measurement</Keywords>
-    <Keywords>Primary care</Keywords>
-    <Keywords>Well-baby visit</Keywords>
+    <kwrd>Anticipatory guidance</kwrd>
+    <kwrd>Early child development</kwrd>
+    <kwrd>Population health measurement</kwrd>
+    <kwrd>Primary care</kwrd>
+    <kwrd>Well-baby visit</kwrd>
   </statement>
   <statement>
     <name>Skiing and snowboarding injury prevention</name>
@@ -439,11 +439,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Injury Prevention Committee</Committee>
     <DOI>10.1093/pch/17.1.35</DOI>
-    <Keywords>Helmet</Keywords>
-    <Keywords>Injury</Keywords>
-    <Keywords>Skiing</Keywords>
-    <Keywords>Snowboarding</Keywords>
-    <Keywords>Wrist guard</Keywords>
+    <kwrd>Helmet</kwrd>
+    <kwrd>Injury</kwrd>
+    <kwrd>Skiing</kwrd>
+    <kwrd>Snowboarding</kwrd>
+    <kwrd>Wrist guard</kwrd>
   </statement>
   <statement>
     <name>Preventing choking and suffocation in children</name>
@@ -454,11 +454,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Injury Prevention Committee</Committee>
     <DOI>10.1093/pch/17.2.91</DOI>
-    <Keywords>Anticipatory guidance</Keywords>
-    <Keywords>Choking</Keywords>
-    <Keywords>Injury prevention</Keywords>
-    <Keywords>Strangulation</Keywords>
-    <Keywords>Suffocation</Keywords>
+    <kwrd>Anticipatory guidance</kwrd>
+    <kwrd>Choking</kwrd>
+    <kwrd>Injury prevention</kwrd>
+    <kwrd>Strangulation</kwrd>
+    <kwrd>Suffocation</kwrd>
   </statement>
   <statement>
     <name>Psychosocial aspects of child and adolescent obesity</name>
@@ -469,10 +469,10 @@
     <changed>04-Apr-16</changed>
     <Committee>Healthy Active Living Committee</Committee>
     <DOI>10.1093/pch/17.4.205</DOI>
-    <Keywords>Child</Keywords>
-    <Keywords>Mental health</Keywords>
-    <Keywords>Obesity</Keywords>
-    <Keywords>Psychosocial</Keywords>
+    <kwrd>Child</kwrd>
+    <kwrd>Mental health</kwrd>
+    <kwrd>Obesity</kwrd>
+    <kwrd>Psychosocial</kwrd>
   </statement>
   <statement>
     <name>Kangaroo care for the preterm infant and family</name>
@@ -483,10 +483,10 @@
     <changed>06-Feb-20</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/17.3.141</DOI>
-    <Keywords>Family-centred care</Keywords>
-    <Keywords>Kangaroo care</Keywords>
-    <Keywords>Preterm infant</Keywords>
-    <Keywords>Skin-to-skin care</Keywords>
+    <kwrd>Family-centred care</kwrd>
+    <kwrd>Kangaroo care</kwrd>
+    <kwrd>Preterm infant</kwrd>
+    <kwrd>Skin-to-skin care</kwrd>
   </statement>
   <statement>
     <name>Healthy active living: Physical activity guidelines for children and adolescents</name>
@@ -497,12 +497,12 @@
     <changed>02-Feb-21</changed>
     <Committee>Healthy Active Living Committee</Committee>
     <DOI>10.1093/pch/17.4.209 </DOI>
-    <Keywords>Adolescents</Keywords>
-    <Keywords>Children</Keywords>
-    <Keywords>Obesity</Keywords>
-    <Keywords>Physical activity</Keywords>
-    <Keywords>Screen time</Keywords>
-    <Keywords>Sedentary behaviour</Keywords>
+    <kwrd>Adolescents</kwrd>
+    <kwrd>Children</kwrd>
+    <kwrd>Obesity</kwrd>
+    <kwrd>Physical activity</kwrd>
+    <kwrd>Screen time</kwrd>
+    <kwrd>Sedentary behaviour</kwrd>
   </statement>
   <statement>
     <name>Managing the paediatric patient with an acute asthma exacerbation</name>
@@ -513,11 +513,11 @@
     <changed>07-Aug-19</changed>
     <Committee>Acute Care Committee</Committee>
     <DOI>10.1093/pch/17.5.251</DOI>
-    <Keywords>Asthma</Keywords>
-    <Keywords>Disposition</Keywords>
-    <Keywords>Emergency management</Keywords>
-    <Keywords>Paediatrics</Keywords>
-    <Keywords>Preschoolers</Keywords>
+    <kwrd>Asthma</kwrd>
+    <kwrd>Disposition</kwrd>
+    <kwrd>Emergency management</kwrd>
+    <kwrd>Paediatrics</kwrd>
+    <kwrd>Preschoolers</kwrd>
   </statement>
   <statement>
     <name>The Baby-Friendly Initiative: Protecting, promoting and supporting breastfeeding</name>
@@ -529,9 +529,9 @@
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <Committee>Hospital Paediatrics Section</Committee>
     <DOI>10.1093/pch/17.6.317</DOI>
-    <Keywords>Baby-Friendly Initiative</Keywords>
-    <Keywords>Breastfeeding</Keywords>
-    <Keywords>Breast milk</Keywords>
+    <kwrd>Baby-Friendly Initiative</kwrd>
+    <kwrd>Breastfeeding</kwrd>
+    <kwrd>Breast milk</kwrd>
   </statement>
   <statement>
     <name>Melatonin for the management of sleep disorders in children and adolescents</name>
@@ -542,11 +542,11 @@
     <changed>25-Aug-21</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/17.6.331</DOI>
-    <Keywords>Attention-deficit hyperactivity disorder</Keywords>
-    <Keywords>Autism</Keywords>
-    <Keywords>Developmental disabilities</Keywords>
-    <Keywords>Melatonin</Keywords>
-    <Keywords>Sleep disorders</Keywords>
+    <kwrd>Attention-deficit hyperactivity disorder</kwrd>
+    <kwrd>Autism</kwrd>
+    <kwrd>Developmental disabilities</kwrd>
+    <kwrd>Melatonin</kwrd>
+    <kwrd>Sleep disorders</kwrd>
   </statement>
   <statement>
     <name>Preventing injuries from all-terrain vehicles</name>
@@ -557,11 +557,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Injury Prevention Committee</Committee>
     <DOI>10.1093/pch/17.7.NP</DOI>
-    <Keywords>All terrain vehicles</Keywords>
-    <Keywords>Children</Keywords>
-    <Keywords>Injuries</Keywords>
-    <Keywords>Prevention</Keywords>
-    <Keywords>Youth�</Keywords>
+    <kwrd>All terrain vehicles</kwrd>
+    <kwrd>Children</kwrd>
+    <kwrd>Injuries</kwrd>
+    <kwrd>Prevention</kwrd>
+    <kwrd>Youth�</kwrd>
   </statement>
   <statement>
     <name>Preventing unintentional injuries in Indigenous children and youth in Canada</name>
@@ -572,13 +572,13 @@
     <changed>06-Feb-20</changed>
     <Committee>First Nations, Inuit and Métis Health Committee</Committee>
     <DOI>10.1093/pch/17.7.393</DOI>
-    <Keywords>Death</Keywords>
-    <Keywords>Determinants of health</Keywords>
-    <Keywords>Disability</Keywords>
-    <Keywords>Indigenous</Keywords>
-    <Keywords>Injury</Keywords>
-    <Keywords>Injury prevention</Keywords>
-    <Keywords>Surveillance</Keywords>
+    <kwrd>Death</kwrd>
+    <kwrd>Determinants of health</kwrd>
+    <kwrd>Disability</kwrd>
+    <kwrd>Indigenous</kwrd>
+    <kwrd>Injury</kwrd>
+    <kwrd>Injury prevention</kwrd>
+    <kwrd>Surveillance</kwrd>
   </statement>
   <statement>
     <name>Community-associated methicillin-resistant Staphylococcus aureus in Indigenous communities in Canada</name>
@@ -589,11 +589,11 @@
     <changed>02-Feb-21</changed>
     <Committee>First Nations, Inuit and Métis Health Committee</Committee>
     <DOI>10.1093/pch/17.7.395</DOI>
-    <Keywords>Canada</Keywords>
-    <Keywords>Community-acquired infections</Keywords>
-    <Keywords>Indigenous populations</Keywords>
-    <Keywords>Methicillin-resistant S. aureus (MRSA)</Keywords>
-    <Keywords>SSTI�</Keywords>
+    <kwrd>Canada</kwrd>
+    <kwrd>Community-acquired infections</kwrd>
+    <kwrd>Indigenous populations</kwrd>
+    <kwrd>Methicillin-resistant S. aureus (MRSA)</kwrd>
+    <kwrd>SSTI�</kwrd>
   </statement>
   <statement>
     <name>The ?picky eater?: The toddler or preschooler who does not eat</name>
@@ -604,11 +604,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI>10.1093/pch/17.8.455</DOI>
-    <Keywords>Picky eating</Keywords>
-    <Keywords>Poor eating</Keywords>
-    <Keywords>Refusal to eat</Keywords>
-    <Keywords>Toddler</Keywords>
-    <Keywords>Unrealistic parental expectations�</Keywords>
+    <kwrd>Picky eating</kwrd>
+    <kwrd>Poor eating</kwrd>
+    <kwrd>Refusal to eat</kwrd>
+    <kwrd>Toddler</kwrd>
+    <kwrd>Unrealistic parental expectations�</kwrd>
   </statement>
   <statement>
     <name>The toddler who is falling off the growth chart</name>
@@ -619,10 +619,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI>10.1093/pch/17.8.447</DOI>
-    <Keywords>Appetite</Keywords>
-    <Keywords>Growth</Keywords>
-    <Keywords>Nutritional intervention</Keywords>
-    <Keywords>Toddler</Keywords>
+    <kwrd>Appetite</kwrd>
+    <kwrd>Growth</kwrd>
+    <kwrd>Nutritional intervention</kwrd>
+    <kwrd>Toddler</kwrd>
   </statement>
   <statement>
     <name>Child and youth injury prevention: A public health approach</name>
@@ -633,12 +633,12 @@
     <changed>07-Feb-20</changed>
     <Committee>Injury Prevention Committee</Committee>
     <DOI>10.1093/pch/17.9.511</DOI>
-    <Keywords>Canada</Keywords>
-    <Keywords>Children</Keywords>
-    <Keywords>Injury</Keywords>
-    <Keywords>Prevention</Keywords>
-    <Keywords>Public health</Keywords>
-    <Keywords>Youth</Keywords>
+    <kwrd>Canada</kwrd>
+    <kwrd>Children</kwrd>
+    <kwrd>Injury</kwrd>
+    <kwrd>Prevention</kwrd>
+    <kwrd>Public health</kwrd>
+    <kwrd>Youth</kwrd>
   </statement>
   <statement>
     <name>Bodychecking in youth ice hockey</name>
@@ -649,12 +649,12 @@
     <changed>02-Feb-21</changed>
     <Committee>Healthy Active Living Committee</Committee>
     <DOI>10.1093/pch/17.9.509</DOI>
-    <Keywords>Bodychecking</Keywords>
-    <Keywords>Concussion</Keywords>
-    <Keywords>Ice hockey</Keywords>
-    <Keywords>Injury</Keywords>
-    <Keywords>Sport</Keywords>
-    <Keywords>Youth�</Keywords>
+    <kwrd>Bodychecking</kwrd>
+    <kwrd>Concussion</kwrd>
+    <kwrd>Ice hockey</kwrd>
+    <kwrd>Injury</kwrd>
+    <kwrd>Sport</kwrd>
+    <kwrd>Youth�</kwrd>
   </statement>
   <statement>
     <name>Using probiotics in the paediatric population</name>
@@ -665,12 +665,12 @@
     <changed>18-Jun-19</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI>10.1093/pch/17.10.575</DOI>
-    <Keywords>Bifidobacteria</Keywords>
-    <Keywords>Diarrhea</Keywords>
-    <Keywords>Lactobacilli</Keywords>
-    <Keywords>Microflora</Keywords>
-    <Keywords>Probiotics</Keywords>
-    <Keywords>Saccharomyces�</Keywords>
+    <kwrd>Bifidobacteria</kwrd>
+    <kwrd>Diarrhea</kwrd>
+    <kwrd>Lactobacilli</kwrd>
+    <kwrd>Microflora</kwrd>
+    <kwrd>Probiotics</kwrd>
+    <kwrd>Saccharomyces�</kwrd>
   </statement>
   <statement>
     <name>Oral health care for children ? a call for action</name>
@@ -681,14 +681,14 @@
     <changed>02-Feb-21</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/18.1.37</DOI>
-    <Keywords>Aboriginal communities</Keywords>
-    <Keywords>Early childhood caries</Keywords>
-    <Keywords>Fluoride</Keywords>
-    <Keywords>Immigrants</Keywords>
-    <Keywords>Oral health</Keywords>
-    <Keywords>Prevention</Keywords>
-    <Keywords>Public health policy</Keywords>
-    <Keywords>Social determinants</Keywords>
+    <kwrd>Aboriginal communities</kwrd>
+    <kwrd>Early childhood caries</kwrd>
+    <kwrd>Fluoride</kwrd>
+    <kwrd>Immigrants</kwrd>
+    <kwrd>Oral health</kwrd>
+    <kwrd>Prevention</kwrd>
+    <kwrd>Public health policy</kwrd>
+    <kwrd>Social determinants</kwrd>
   </statement>
   <statement>
     <name>Acute otitis externa</name>
@@ -699,8 +699,8 @@
     <changed>06-Apr-18</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/18.2.96</DOI>
-    <Keywords>Acute otitis externa</Keywords>
-    <Keywords>Swimmer?s ear</Keywords>
+    <kwrd>Acute otitis externa</kwrd>
+    <kwrd>Swimmer?s ear</kwrd>
   </statement>
   <statement>
     <name>Minimizing infection risks after paediatric organ transplants: Advice for practitioners</name>
@@ -711,11 +711,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/18.3.143</DOI>
-    <Keywords>Antibiotics</Keywords>
-    <Keywords>Immunosuppression</Keywords>
-    <Keywords>Infection</Keywords>
-    <Keywords>Transplantation</Keywords>
-    <Keywords>Vaccines</Keywords>
+    <kwrd>Antibiotics</kwrd>
+    <kwrd>Immunosuppression</kwrd>
+    <kwrd>Infection</kwrd>
+    <kwrd>Transplantation</kwrd>
+    <kwrd>Vaccines</kwrd>
   </statement>
   <statement>
     <name>Weaning from the breast</name>
@@ -726,11 +726,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/18.4.210</DOI>
-    <Keywords>Breastfeeding</Keywords>
-    <Keywords>Breast milk</Keywords>
-    <Keywords>Complementary foods</Keywords>
-    <Keywords>Infant</Keywords>
-    <Keywords>Weaning</Keywords>
+    <kwrd>Breastfeeding</kwrd>
+    <kwrd>Breast milk</kwrd>
+    <kwrd>Complementary foods</kwrd>
+    <kwrd>Infant</kwrd>
+    <kwrd>Weaning</kwrd>
   </statement>
   <statement>
     <name>Sport nutrition for young athletes</name>
@@ -741,11 +741,11 @@
     <changed>03-Feb-21</changed>
     <Committee>Paediatric Sports and Exercise Medicine Section</Committee>
     <DOI>10.1093/pch/18.4.200</DOI>
-    <Keywords>Adolescents</Keywords>
-    <Keywords>Athletes</Keywords>
-    <Keywords>Children</Keywords>
-    <Keywords>Nutrition</Keywords>
-    <Keywords>Sports</Keywords>
+    <kwrd>Adolescents</kwrd>
+    <kwrd>Athletes</kwrd>
+    <kwrd>Children</kwrd>
+    <kwrd>Nutrition</kwrd>
+    <kwrd>Sports</kwrd>
   </statement>
   <statement>
     <name>Nutrition for healthy term infants, birth to six months: An overview</name>
@@ -756,13 +756,13 @@
     <changed>02-Feb-21</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI>10.1093/pch/18.4.206</DOI>
-    <Keywords>Breastfeeding</Keywords>
-    <Keywords>Evidence-based</Keywords>
-    <Keywords>Feeding</Keywords>
-    <Keywords>Growth</Keywords>
-    <Keywords>Infants</Keywords>
-    <Keywords>Nutrition</Keywords>
-    <Keywords>Vitamin D</Keywords>
+    <kwrd>Breastfeeding</kwrd>
+    <kwrd>Evidence-based</kwrd>
+    <kwrd>Feeding</kwrd>
+    <kwrd>Growth</kwrd>
+    <kwrd>Infants</kwrd>
+    <kwrd>Nutrition</kwrd>
+    <kwrd>Vitamin D</kwrd>
   </statement>
   <statement>
     <name>Management of the paediatric patient with acute head trauma</name>
@@ -773,11 +773,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Acute Care Committee</Committee>
     <DOI>10.1093/pch/18.5.253</DOI>
-    <Keywords>CT scan</Keywords>
-    <Keywords>Head trauma</Keywords>
-    <Keywords>Skull x-rays</Keywords>
-    <Keywords>Prevention</Keywords>
-    <Keywords>Traumatic brain injury</Keywords>
+    <kwrd>CT scan</kwrd>
+    <kwrd>Head trauma</kwrd>
+    <kwrd>Skull x-rays</kwrd>
+    <kwrd>Prevention</kwrd>
+    <kwrd>Traumatic brain injury</kwrd>
   </statement>
   <statement>
     <name>Meeting the health care needs of street-involved youth</name>
@@ -788,11 +788,11 @@
     <changed>08-May-18</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/18.6.317</DOI>
-    <Keywords>Health problems</Keywords>
-    <Keywords>Homelessness</Keywords>
-    <Keywords>SIY</Keywords>
-    <Keywords>Street</Keywords>
-    <Keywords>Youth</Keywords>
+    <kwrd>Health problems</kwrd>
+    <kwrd>Homelessness</kwrd>
+    <kwrd>SIY</kwrd>
+    <kwrd>Street</kwrd>
+    <kwrd>Youth</kwrd>
   </statement>
   <statement>
     <name>Azithromycin use in paediatrics: A practical overview</name>
@@ -803,12 +803,12 @@
     <changed>02-Feb-21</changed>
     <Committee>Drug Therapy and Hazardous Substances Committee</Committee>
     <DOI>10.1093/pch/18.6.311</DOI>
-    <Keywords>Antibiotics</Keywords>
-    <Keywords>Azithromycin</Keywords>
-    <Keywords>�Infections</Keywords>
-    <Keywords>Macrolides</Keywords>
-    <Keywords>Resistance</Keywords>
-    <Keywords>Treatment</Keywords>
+    <kwrd>Antibiotics</kwrd>
+    <kwrd>Azithromycin</kwrd>
+    <kwrd>�Infections</kwrd>
+    <kwrd>Macrolides</kwrd>
+    <kwrd>Resistance</kwrd>
+    <kwrd>Treatment</kwrd>
   </statement>
   <statement>
     <name>Supporting the mental health of children and youth of separating parents</name>
@@ -819,10 +819,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Mental Health and Developmental Disabilities Committee</Committee>
     <DOI>10.1093/pch/18.7.373</DOI>
-    <Keywords>Divorce</Keywords>
-    <Keywords>Mental health</Keywords>
-    <Keywords>Outcome</Keywords>
-    <Keywords>Separating parents</Keywords>
+    <kwrd>Divorce</kwrd>
+    <kwrd>Mental health</kwrd>
+    <kwrd>Outcome</kwrd>
+    <kwrd>Separating parents</kwrd>
   </statement>
   <statement>
     <name>The medical assessment of bruising in suspected child maltreatment cases: A clinical perspective</name>
@@ -833,12 +833,12 @@
     <changed>15-Feb-17</changed>
     <Committee>Child and Youth Maltreatment Section</Committee>
     <DOI>10.1093/pch/18.8.433</DOI>
-    <Keywords>Bruise</Keywords>
-    <Keywords>Bruising</Keywords>
-    <Keywords>Child abuse</Keywords>
-    <Keywords>Children</Keywords>
-    <Keywords>Coagulopathy</Keywords>
-    <Keywords>Maltreatment</Keywords>
+    <kwrd>Bruise</kwrd>
+    <kwrd>Bruising</kwrd>
+    <kwrd>Child abuse</kwrd>
+    <kwrd>Children</kwrd>
+    <kwrd>Coagulopathy</kwrd>
+    <kwrd>Maltreatment</kwrd>
   </statement>
   <statement>
     <name>The importance of child and youth death review</name>
@@ -850,10 +850,10 @@
     <Committee>Child and Youth Maltreatment Section</Committee>
     <Committee>Injury Prevention Committee</Committee>
     <DOI>10.1093/pch/18.8.425</DOI>
-    <Keywords>Canada</Keywords>
-    <Keywords>Child death review</Keywords>
-    <Keywords>Injury prevention</Keywords>
-    <Keywords>Youth</Keywords>
+    <kwrd>Canada</kwrd>
+    <kwrd>Child death review</kwrd>
+    <kwrd>Injury prevention</kwrd>
+    <kwrd>Youth</kwrd>
   </statement>
   <statement>
     <name>Use of selective serotonin reuptake inhibitor medications for the treatment of child and adolescent mental illness</name>
@@ -864,12 +864,12 @@
     <changed>05-Aug-21</changed>
     <Committee>Mental Health and Developmental Disabilities Committee</Committee>
     <DOI>10.1093/pch/18.9.487</DOI>
-    <Keywords>Adolescent</Keywords>
-    <Keywords>Antidepressant</Keywords>
-    <Keywords>Anxiety</Keywords>
-    <Keywords>Depression</Keywords>
-    <Keywords>Psychopharmacology</Keywords>
-    <Keywords>SSRI</Keywords>
+    <kwrd>Adolescent</kwrd>
+    <kwrd>Antidepressant</kwrd>
+    <kwrd>Anxiety</kwrd>
+    <kwrd>Depression</kwrd>
+    <kwrd>Psychopharmacology</kwrd>
+    <kwrd>SSRI</kwrd>
   </statement>
   <statement>
     <name>Bicycle helmet use in Canada: The need for legislation to reduce the risk of head injury</name>
@@ -880,9 +880,9 @@
     <changed>02-Feb-21</changed>
     <Committee>Injury Prevention Committee</Committee>
     <DOI>10.1093/pch/18.9.475</DOI>
-    <Keywords>Bicycle helmet</Keywords>
-    <Keywords>Head injuries</Keywords>
-    <Keywords>Legislation</Keywords>
+    <kwrd>Bicycle helmet</kwrd>
+    <kwrd>Head injuries</kwrd>
+    <kwrd>Legislation</kwrd>
   </statement>
   <statement>
     <name>Going home: Facilitating discharge of the preterm infant</name>
@@ -893,11 +893,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/19.1.31</DOI>
-    <Keywords>Apnea</Keywords>
-    <Keywords>Bradycardia</Keywords>
-    <Keywords>NICU</Keywords>
-    <Keywords>Screening</Keywords>
-    <Keywords>Thermoregulation</Keywords>
+    <kwrd>Apnea</kwrd>
+    <kwrd>Bradycardia</kwrd>
+    <kwrd>NICU</kwrd>
+    <kwrd>Screening</kwrd>
+    <kwrd>Thermoregulation</kwrd>
   </statement>
   <statement>
     <name>Clostridium difficile in paediatric populations</name>
@@ -908,14 +908,14 @@
     <changed>05-Mar-20</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/19.1.43</DOI>
-    <Keywords>CDI</Keywords>
-    <Keywords>Colitis</Keywords>
-    <Keywords>Diarrhea</Keywords>
-    <Keywords>Immunocompromise</Keywords>
-    <Keywords>Megacolon</Keywords>
-    <Keywords>Metronidazole</Keywords>
-    <Keywords>NAP1</Keywords>
-    <Keywords>Vancomycin</Keywords>
+    <kwrd>CDI</kwrd>
+    <kwrd>Colitis</kwrd>
+    <kwrd>Diarrhea</kwrd>
+    <kwrd>Immunocompromise</kwrd>
+    <kwrd>Megacolon</kwrd>
+    <kwrd>Metronidazole</kwrd>
+    <kwrd>NAP1</kwrd>
+    <kwrd>Vancomycin</kwrd>
   </statement>
   <statement>
     <name>Health research involving First Nations, Inuit and M�tis children and their communities</name>
@@ -926,10 +926,10 @@
     <changed>31-Jan-20</changed>
     <Committee>First Nations, Inuit and Métis Health Committee</Committee>
     <DOI>10.1093/pch/19.2.99</DOI>
-    <Keywords>Community-based participatory research</Keywords>
-    <Keywords>Indigenous</Keywords>
-    <Keywords>Research methods</Keywords>
-    <Keywords>Social determinants of health</Keywords>
+    <kwrd>Community-based participatory research</kwrd>
+    <kwrd>Indigenous</kwrd>
+    <kwrd>Research methods</kwrd>
+    <kwrd>Social determinants of health</kwrd>
   </statement>
   <statement>
     <name>Red blood cell transfusion in newborn infants</name>
@@ -940,12 +940,12 @@
     <changed>02-Feb-21</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/19.4.213 </DOI>
-    <Keywords>Anemia</Keywords>
-    <Keywords>Blood grouping</Keywords>
-    <Keywords>Cross-matching</Keywords>
-    <Keywords>Erythrocyte</Keywords>
-    <Keywords>Hemorrhagic shock</Keywords>
-    <Keywords>Hyperkalemia</Keywords>
+    <kwrd>Anemia</kwrd>
+    <kwrd>Blood grouping</kwrd>
+    <kwrd>Cross-matching</kwrd>
+    <kwrd>Erythrocyte</kwrd>
+    <kwrd>Hemorrhagic shock</kwrd>
+    <kwrd>Hyperkalemia</kwrd>
   </statement>
   <statement>
     <name>Antimicrobial stewardship in daily practice: Managing an important resource</name>
@@ -956,12 +956,12 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/19.5.261 </DOI>
-    <Keywords>AOM</Keywords>
-    <Keywords>C difficile</Keywords>
-    <Keywords>E coli</Keywords>
-    <Keywords>Pneumonia</Keywords>
-    <Keywords>Superbugs</Keywords>
-    <Keywords>UTIs</Keywords>
+    <kwrd>AOM</kwrd>
+    <kwrd>C difficile</kwrd>
+    <kwrd>E coli</kwrd>
+    <kwrd>Pneumonia</kwrd>
+    <kwrd>Superbugs</kwrd>
+    <kwrd>UTIs</kwrd>
   </statement>
   <statement>
     <name>Urinary tract infection in infants and children: Diagnosis and management</name>
@@ -973,15 +973,15 @@
     <Committee>Community Paediatrics Committee</Committee>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/19.6.315 </DOI>
-    <Keywords>Bacteremia</Keywords>
-    <Keywords>Cefixime</Keywords>
-    <Keywords>Cystitis</Keywords>
-    <Keywords>Gentamicin</Keywords>
-    <Keywords>Pyelonephritis</Keywords>
-    <Keywords>Pyuria</Keywords>
-    <Keywords>Sepsis</Keywords>
-    <Keywords>UTI</Keywords>
-    <Keywords>VUR</Keywords>
+    <kwrd>Bacteremia</kwrd>
+    <kwrd>Cefixime</kwrd>
+    <kwrd>Cystitis</kwrd>
+    <kwrd>Gentamicin</kwrd>
+    <kwrd>Pyelonephritis</kwrd>
+    <kwrd>Pyuria</kwrd>
+    <kwrd>Sepsis</kwrd>
+    <kwrd>UTI</kwrd>
+    <kwrd>VUR</kwrd>
   </statement>
   <statement>
     <name>Preventing mosquito and tick bites: A Canadian update</name>
@@ -992,12 +992,12 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/19.6.326</DOI>
-    <Keywords>DEET</Keywords>
-    <Keywords>Icaridin</Keywords>
-    <Keywords>Lyme disease</Keywords>
-    <Keywords>Permethrin</Keywords>
-    <Keywords>Picaridin</Keywords>
-    <Keywords>West Nile virus</Keywords>
+    <kwrd>DEET</kwrd>
+    <kwrd>Icaridin</kwrd>
+    <kwrd>Lyme disease</kwrd>
+    <kwrd>Permethrin</kwrd>
+    <kwrd>Picaridin</kwrd>
+    <kwrd>West Nile virus</kwrd>
   </statement>
   <statement>
     <name>Bronchiolitis: Recommendations for diagnosis, monitoring and management of children one to 24 months of age</name>
@@ -1009,10 +1009,10 @@
     <Committee>Acute Care Committee</Committee>
     <Committee>Drug Therapy and Hazardous Substances Committee</Committee>
     <DOI>10.1093/pch/19.9.485 </DOI>
-    <Keywords>Respiratory distress</Keywords>
-    <Keywords>RSV</Keywords>
-    <Keywords>URTI</Keywords>
-    <Keywords>Wheezing</Keywords>
+    <kwrd>Respiratory distress</kwrd>
+    <kwrd>RSV</kwrd>
+    <kwrd>URTI</kwrd>
+    <kwrd>Wheezing</kwrd>
   </statement>
   <statement>
     <name>Nutrition for healthy term infants, six to 24 months: An overview</name>
@@ -1023,11 +1023,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI>10.1093/pch/19.10.547</DOI>
-    <Keywords>Breastfeeding</Keywords>
-    <Keywords>Iron</Keywords>
-    <Keywords>NHTI</Keywords>
-    <Keywords>Responsive feeding</Keywords>
-    <Keywords>Vitamin D</Keywords>
+    <kwrd>Breastfeeding</kwrd>
+    <kwrd>Iron</kwrd>
+    <kwrd>NHTI</kwrd>
+    <kwrd>Responsive feeding</kwrd>
+    <kwrd>Vitamin D</kwrd>
   </statement>
   <statement>
     <name>Prophylactic antibiotics for children with recurrent urinary tract infections</name>
@@ -1039,11 +1039,11 @@
     <Committee>Community Paediatrics Committee</Committee>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/20.1.45</DOI>
-    <Keywords>Antibiotic resistance</Keywords>
-    <Keywords>Antibiotic stewardship</Keywords>
-    <Keywords>Renal scarring</Keywords>
-    <Keywords>UTI</Keywords>
-    <Keywords>VUR</Keywords>
+    <kwrd>Antibiotic resistance</kwrd>
+    <kwrd>Antibiotic stewardship</kwrd>
+    <kwrd>Renal scarring</kwrd>
+    <kwrd>UTI</kwrd>
+    <kwrd>VUR</kwrd>
   </statement>
   <statement>
     <name>Managing type 1 diabetes in school: Recommendations for policy and practice</name>
@@ -1054,9 +1054,9 @@
     <changed>24-Jun-21</changed>
     <Committee />
     <DOI>10.1093/pch/20.1.35</DOI>
-    <Keywords>Education</Keywords>
-    <Keywords>Policy</Keywords>
-    <Keywords>Type 1 diabetes</Keywords>
+    <kwrd>Education</kwrd>
+    <kwrd>Policy</kwrd>
+    <kwrd>Type 1 diabetes</kwrd>
   </statement>
   <statement>
     <name>Preventing ophthalmia neonatorum</name>
@@ -1067,12 +1067,12 @@
     <changed>21-Jan-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/20.2.93</DOI>
-    <Keywords>Chlamydia</Keywords>
-    <Keywords>Gonococcus</Keywords>
-    <Keywords>Neonatal ophthalmia</Keywords>
-    <Keywords>Prophylaxis</Keywords>
-    <Keywords>Screening in pregnancy</Keywords>
-    <Keywords>STIs</Keywords>
+    <kwrd>Chlamydia</kwrd>
+    <kwrd>Gonococcus</kwrd>
+    <kwrd>Neonatal ophthalmia</kwrd>
+    <kwrd>Prophylaxis</kwrd>
+    <kwrd>Screening in pregnancy</kwrd>
+    <kwrd>STIs</kwrd>
   </statement>
   <statement>
     <name>Ankyloglossia and breastfeeding</name>
@@ -1083,11 +1083,11 @@
     <changed>25-Aug-21</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/20.4.209</DOI>
-    <Keywords>Ankyloglossia</Keywords>
-    <Keywords>Breastfeeding</Keywords>
-    <Keywords>Frenotomy</Keywords>
-    <Keywords>Infant</Keywords>
-    <Keywords>Tongue-tie</Keywords>
+    <kwrd>Ankyloglossia</kwrd>
+    <kwrd>Breastfeeding</kwrd>
+    <kwrd>Frenotomy</kwrd>
+    <kwrd>Infant</kwrd>
+    <kwrd>Tongue-tie</kwrd>
   </statement>
   <statement>
     <name>The interfacility transport of critically ill newborns</name>
@@ -1098,10 +1098,10 @@
     <changed>21-Jan-21</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/20.5.265</DOI>
-    <Keywords>Interfacility transport</Keywords>
-    <Keywords>Intramural</Keywords>
-    <Keywords>Newborn</Keywords>
-    <Keywords>Transport medicine</Keywords>
+    <kwrd>Interfacility transport</kwrd>
+    <kwrd>Intramural</kwrd>
+    <kwrd>Newborn</kwrd>
+    <kwrd>Transport medicine</kwrd>
   </statement>
   <statement>
     <name>Suicidal ideation and behaviour</name>
@@ -1112,11 +1112,11 @@
     <changed>21-Jan-21</changed>
     <Committee>Mental Health and Developmental Disabilities Committee</Committee>
     <DOI>10.1093/pch/20.5.257</DOI>
-    <Keywords>Adolescents</Keywords>
-    <Keywords>Mental health</Keywords>
-    <Keywords>Prevention</Keywords>
-    <Keywords>Risk assessment</Keywords>
-    <Keywords>Suicide</Keywords>
+    <kwrd>Adolescents</kwrd>
+    <kwrd>Mental health</kwrd>
+    <kwrd>Prevention</kwrd>
+    <kwrd>Risk assessment</kwrd>
+    <kwrd>Suicide</kwrd>
   </statement>
   <statement>
     <name>Preventing hospitalizations for respiratory syncytial virus infection</name>
@@ -1127,13 +1127,13 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/20.6.321 </DOI>
-    <Keywords>At-risk infants</Keywords>
-    <Keywords>Chronic lung disease</Keywords>
-    <Keywords>Congenital heart disease</Keywords>
-    <Keywords>Palivizumab</Keywords>
-    <Keywords>Prematurity</Keywords>
-    <Keywords>Prophylaxis</Keywords>
-    <Keywords>RSV</Keywords>
+    <kwrd>At-risk infants</kwrd>
+    <kwrd>Chronic lung disease</kwrd>
+    <kwrd>Congenital heart disease</kwrd>
+    <kwrd>Palivizumab</kwrd>
+    <kwrd>Prematurity</kwrd>
+    <kwrd>Prophylaxis</kwrd>
+    <kwrd>RSV</kwrd>
   </statement>
   <statement>
     <name>Newborn male circumcision</name>
@@ -1145,13 +1145,13 @@
     <Committee>Fetus and Newborn Committee</Committee>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/20.6.311</DOI>
-    <Keywords>Circumcision</Keywords>
-    <Keywords>HIV</Keywords>
-    <Keywords>HPV</Keywords>
-    <Keywords>HSV</Keywords>
-    <Keywords>Infant</Keywords>
-    <Keywords>STI</Keywords>
-    <Keywords>UTI</Keywords>
+    <kwrd>Circumcision</kwrd>
+    <kwrd>HIV</kwrd>
+    <kwrd>HPV</kwrd>
+    <kwrd>HSV</kwrd>
+    <kwrd>Infant</kwrd>
+    <kwrd>STI</kwrd>
+    <kwrd>UTI</kwrd>
   </statement>
   <statement>
     <name>Scabies</name>
@@ -1162,12 +1162,12 @@
     <changed>02-Feb-21</changed>
     <Committee>First Nations, Inuit and Métis Health Committee</Committee>
     <DOI>10.1093/pch/22.7.395</DOI>
-    <Keywords>Crusted scabies</Keywords>
-    <Keywords>Indigenous communities</Keywords>
-    <Keywords>Infestations</Keywords>
-    <Keywords>Norwegian scabies</Keywords>
-    <Keywords>Poverty</Keywords>
-    <Keywords>Pruritus</Keywords>
+    <kwrd>Crusted scabies</kwrd>
+    <kwrd>Indigenous communities</kwrd>
+    <kwrd>Infestations</kwrd>
+    <kwrd>Norwegian scabies</kwrd>
+    <kwrd>Poverty</kwrd>
+    <kwrd>Pruritus</kwrd>
   </statement>
   <statement>
     <name>Housing need in Canada: Healthy lives start at home</name>
@@ -1178,11 +1178,11 @@
     <changed>25-Aug-21</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/20.7.403</DOI>
-    <Keywords>Determinants of health</Keywords>
-    <Keywords>Health advocacy</Keywords>
-    <Keywords>Housing</Keywords>
-    <Keywords>Public health</Keywords>
-    <Keywords>Social paediatrics</Keywords>
+    <kwrd>Determinants of health</kwrd>
+    <kwrd>Health advocacy</kwrd>
+    <kwrd>Housing</kwrd>
+    <kwrd>Public health</kwrd>
+    <kwrd>Social paediatrics</kwrd>
   </statement>
   <statement>
     <name>Diagnosis and management of asthma in preschoolers: A Canadian Thoracic Society and Canadian Paediatric Society position paper</name>
@@ -1193,13 +1193,13 @@
     <changed>07-Aug-19</changed>
     <Committee />
     <DOI>10.1093/pch/20.7.353 </DOI>
-    <Keywords>Asthma</Keywords>
-    <Keywords>Child</Keywords>
-    <Keywords>Criteria</Keywords>
-    <Keywords>Diagnosis</Keywords>
-    <Keywords>Disease management</Keywords>
-    <Keywords>Preschool</Keywords>
-    <Keywords>Therapeutic trial</Keywords>
+    <kwrd>Asthma</kwrd>
+    <kwrd>Child</kwrd>
+    <kwrd>Criteria</kwrd>
+    <kwrd>Diagnosis</kwrd>
+    <kwrd>Disease management</kwrd>
+    <kwrd>Preschool</kwrd>
+    <kwrd>Therapeutic trial</kwrd>
   </statement>
   <statement>
     <name>Minimizing blood loss and the need for transfusions in very premature infants</name>
@@ -1210,14 +1210,14 @@
     <changed>21-Jan-21</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/20.8.451</DOI>
-    <Keywords>Anemia</Keywords>
-    <Keywords>Bilirubin</Keywords>
-    <Keywords>Blood CO2</Keywords>
-    <Keywords>Cord clamping</Keywords>
-    <Keywords>Cord milking</Keywords>
-    <Keywords>Erythropoietin</Keywords>
-    <Keywords>RoP</Keywords>
-    <Keywords>Supplementary iron</Keywords>
+    <kwrd>Anemia</kwrd>
+    <kwrd>Bilirubin</kwrd>
+    <kwrd>Blood CO2</kwrd>
+    <kwrd>Cord clamping</kwrd>
+    <kwrd>Cord milking</kwrd>
+    <kwrd>Erythropoietin</kwrd>
+    <kwrd>RoP</kwrd>
+    <kwrd>Supplementary iron</kwrd>
   </statement>
   <statement>
     <name>Management of acute otitis media in children six months of age and older</name>
@@ -1228,11 +1228,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/21.1.39 </DOI>
-    <Keywords>AOM</Keywords>
-    <Keywords>MEE</Keywords>
-    <Keywords>OME</Keywords>
-    <Keywords>PCV13</Keywords>
-    <Keywords>TM</Keywords>
+    <kwrd>AOM</kwrd>
+    <kwrd>MEE</kwrd>
+    <kwrd>OME</kwrd>
+    <kwrd>PCV13</kwrd>
+    <kwrd>TM</kwrd>
   </statement>
   <statement>
     <name>Is the medical use of cannabis a therapeutic option for children?</name>
@@ -1243,12 +1243,12 @@
     <changed>08-Feb-16</changed>
     <Committee>Drug Therapy and Hazardous Substances Committee</Committee>
     <DOI>10.1093/pch/21.1.31</DOI>
-    <Keywords>Cannabinoids</Keywords>
-    <Keywords>Children</Keywords>
-    <Keywords>Epilepsy</Keywords>
-    <Keywords>Medical marijuana</Keywords>
-    <Keywords>Nabiximols</Keywords>
-    <Keywords>Smoking</Keywords>
+    <kwrd>Cannabinoids</kwrd>
+    <kwrd>Children</kwrd>
+    <kwrd>Epilepsy</kwrd>
+    <kwrd>Medical marijuana</kwrd>
+    <kwrd>Nabiximols</kwrd>
+    <kwrd>Smoking</kwrd>
   </statement>
   <statement>
     <name>Retinopathy of prematurity: An update on screening and management</name>
@@ -1259,9 +1259,9 @@
     <changed>07-Aug-19</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/21.2.101</DOI>
-    <Keywords>Anti-VEGF therapy</Keywords>
-    <Keywords>Retinopathy of prematurity</Keywords>
-    <Keywords>ROP screening</Keywords>
+    <kwrd>Anti-VEGF therapy</kwrd>
+    <kwrd>Retinopathy of prematurity</kwrd>
+    <kwrd>ROP screening</kwrd>
   </statement>
   <statement>
     <name>Mental health problems in children with neuromotor disabilities</name>
@@ -1272,12 +1272,12 @@
     <changed>11-Oct-16</changed>
     <Committee>Mental Health and Developmental Disabilities Committee</Committee>
     <DOI>10.1093/pch/21.2.93</DOI>
-    <Keywords>CP</Keywords>
-    <Keywords>Disability</Keywords>
-    <Keywords>HRQOL</Keywords>
-    <Keywords>ICF</Keywords>
-    <Keywords>Mental health</Keywords>
-    <Keywords>Spina bifida</Keywords>
+    <kwrd>CP</kwrd>
+    <kwrd>Disability</kwrd>
+    <kwrd>HRQOL</kwrd>
+    <kwrd>ICF</kwrd>
+    <kwrd>Mental health</kwrd>
+    <kwrd>Spina bifida</kwrd>
   </statement>
   <statement>
     <name>Folate and neural tube defects: The role of supplements and food fortification</name>
@@ -1288,11 +1288,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Drug Therapy and Hazardous Substances Committee</Committee>
     <DOI>10.1093/pch/21.3.145</DOI>
-    <Keywords>Folate</Keywords>
-    <Keywords>Folic acid</Keywords>
-    <Keywords>Fortification</Keywords>
-    <Keywords>NTD</Keywords>
-    <Keywords>Supplementation</Keywords>
+    <kwrd>Folate</kwrd>
+    <kwrd>Folic acid</kwrd>
+    <kwrd>Fortification</kwrd>
+    <kwrd>NTD</kwrd>
+    <kwrd>Supplementation</kwrd>
   </statement>
   <statement>
     <name>Assessment of cardiorespiratory stability using the infant car seat challenge before discharge in preterm infants (&lt;37 weeks? gestational age)</name>
@@ -1303,12 +1303,12 @@
     <changed>01-Apr-16</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/21.3.155 </DOI>
-    <Keywords>Apnea</Keywords>
-    <Keywords>Bradycardia</Keywords>
-    <Keywords>Desaturation</Keywords>
-    <Keywords>ICSC</Keywords>
-    <Keywords>Neonate</Keywords>
-    <Keywords>PSG</Keywords>
+    <kwrd>Apnea</kwrd>
+    <kwrd>Bradycardia</kwrd>
+    <kwrd>Desaturation</kwrd>
+    <kwrd>ICSC</kwrd>
+    <kwrd>Neonate</kwrd>
+    <kwrd>PSG</kwrd>
   </statement>
   <statement>
     <name>Strategies to promote smoking cessation among adolescents</name>
@@ -1319,12 +1319,12 @@
     <changed>02-Feb-21</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/21.4.201</DOI>
-    <Keywords>Adolescents</Keywords>
-    <Keywords>CBT</Keywords>
-    <Keywords>Counselling</Keywords>
-    <Keywords>NRT</Keywords>
-    <Keywords>Smoking cessation</Keywords>
-    <Keywords>Tobacco</Keywords>
+    <kwrd>Adolescents</kwrd>
+    <kwrd>CBT</kwrd>
+    <kwrd>Counselling</kwrd>
+    <kwrd>NRT</kwrd>
+    <kwrd>Smoking cessation</kwrd>
+    <kwrd>Tobacco</kwrd>
   </statement>
   <statement>
     <name>Preventing smoking in children and adolescents: Recommendations for practice and policy</name>
@@ -1335,12 +1335,12 @@
     <changed>02-Feb-21</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/21.4.209</DOI>
-    <Keywords>Adolescents</Keywords>
-    <Keywords>Children</Keywords>
-    <Keywords>Counselling</Keywords>
-    <Keywords>Nicotine</Keywords>
-    <Keywords>Prevention</Keywords>
-    <Keywords>Smoking</Keywords>
+    <kwrd>Adolescents</kwrd>
+    <kwrd>Children</kwrd>
+    <kwrd>Counselling</kwrd>
+    <kwrd>Nicotine</kwrd>
+    <kwrd>Prevention</kwrd>
+    <kwrd>Smoking</kwrd>
   </statement>
   <statement>
     <name>Meeting the needs of adolescent parents and their children</name>
@@ -1351,11 +1351,11 @@
     <changed>18-Nov-16</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/21.5.273</DOI>
-    <Keywords>Adolescent mothers</Keywords>
-    <Keywords>Adolescent parenting</Keywords>
-    <Keywords>Social determinants of health</Keywords>
-    <Keywords>Social inequities</Keywords>
-    <Keywords>Teen pregnancy</Keywords>
+    <kwrd>Adolescent mothers</kwrd>
+    <kwrd>Adolescent parenting</kwrd>
+    <kwrd>Social determinants of health</kwrd>
+    <kwrd>Social inequities</kwrd>
+    <kwrd>Teen pregnancy</kwrd>
   </statement>
   <statement>
     <name>An update to the Greig Health Record: Preventive health care visits for children and adolescents aged 6 to 17 years ? Technical report</name>
@@ -1366,7 +1366,7 @@
     <changed>14-Sep-20</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/21.5.265</DOI>
-    <Keywords />
+    <kwrd />
   </statement>
   <statement>
     <name>An update to the Greig Health Record: Executive summary</name>
@@ -1377,14 +1377,14 @@
     <changed>18-Nov-16</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI />
-    <Keywords>Adolescents</Keywords>
-    <Keywords>Children</Keywords>
-    <Keywords>Counselling</Keywords>
-    <Keywords>Evidence-based practice</Keywords>
-    <Keywords>Forms and records</Keywords>
-    <Keywords>Preventive health services</Keywords>
-    <Keywords>Primary prevention</Keywords>
-    <Keywords>Screening</Keywords>
+    <kwrd>Adolescents</kwrd>
+    <kwrd>Children</kwrd>
+    <kwrd>Counselling</kwrd>
+    <kwrd>Evidence-based practice</kwrd>
+    <kwrd>Forms and records</kwrd>
+    <kwrd>Preventive health services</kwrd>
+    <kwrd>Primary prevention</kwrd>
+    <kwrd>Screening</kwrd>
   </statement>
   <statement>
     <name>Zika virus: What does a physician caring for children in Canada need to know?</name>
@@ -1395,7 +1395,7 @@
     <changed>16-Nov-20</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxx012</DOI>
-    <Keywords>Congenital infection, Microcephaly, Teratogen, Zika virus</Keywords>
+    <kwrd>Congenital infection, Microcephaly, Teratogen, Zika virus</kwrd>
   </statement>
   <statement>
     <name>Caring for children and youth from Canadian military families: Special considerations</name>
@@ -1406,7 +1406,7 @@
     <changed>02-Feb-21</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/pxx021</DOI>
-    <Keywords>Behaviour, Mental health, Military deployment, Military families, Stress</Keywords>
+    <kwrd>Behaviour, Mental health, Military deployment, Military families, Stress</kwrd>
   </statement>
   <statement>
     <name>Cannabis and Canada?s children and youth</name>
@@ -1417,7 +1417,7 @@
     <changed>16-Feb-21</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/pxx017 </DOI>
-    <Keywords>Adolescents, CUD, CWS, Neurodevelopment, THC, Youth</Keywords>
+    <kwrd>Adolescents, CUD, CWS, Neurodevelopment, THC, Youth</kwrd>
   </statement>
   <statement>
     <name>Acute management of croup in the emergency department</name>
@@ -1428,7 +1428,7 @@
     <changed>02-Feb-21</changed>
     <Committee>Acute Care Committee</Committee>
     <DOI>10.1093/pch/pxx019 </DOI>
-    <Keywords>Corticosteroids, Croup, Dexamethasone, Epinephrine, Heliox</Keywords>
+    <kwrd>Corticosteroids, Croup, Dexamethasone, Epinephrine, Heliox</kwrd>
   </statement>
   <statement>
     <name>Management of term infants at increased risk for early onset bacterial sepsis</name>
@@ -1439,10 +1439,10 @@
     <changed>16-Nov-20</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/pxx023 </DOI>
-    <Keywords>Chorioamnionitis</Keywords>
-    <Keywords>Early-onset sepsis</Keywords>
-    <Keywords>Group B streptococcus</Keywords>
-    <Keywords>Newborn</Keywords>
+    <kwrd>Chorioamnionitis</kwrd>
+    <kwrd>Early-onset sepsis</kwrd>
+    <kwrd>Group B streptococcus</kwrd>
+    <kwrd>Newborn</kwrd>
   </statement>
   <statement>
     <name>Canada?s eight-component vaccine safety system: A primer for health care workers</name>
@@ -1453,7 +1453,7 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxx073</DOI>
-    <Keywords>AEFI, BGTD, CAEFISS, IMPACT, NACI, Vaccine safety</Keywords>
+    <kwrd>AEFI, BGTD, CAEFISS, IMPACT, NACI, Vaccine safety</kwrd>
   </statement>
   <statement>
     <name>Recommendations for the use of rotavirus vaccines in infants</name>
@@ -1464,7 +1464,7 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxx072</DOI>
-    <Keywords>Acute�gastroenteritis,�Diarrhea,�Intussusception,�Oral vaccine,�Rotavirus,�Vaccine</Keywords>
+    <kwrd>Acute�gastroenteritis,�Diarrhea,�Intussusception,�Oral vaccine,�Rotavirus,�Vaccine</kwrd>
   </statement>
   <statement>
     <name>Update for Canadian NRP providers: A case-based review</name>
@@ -1475,7 +1475,7 @@
     <changed>16-Nov-20</changed>
     <Committee>Neonatal Resuscitation Program Education Subcommittee</Committee>
     <DOI>10.1093/pch/pxx095 </DOI>
-    <Keywords>Debriefing, Education, Guidelines, Neonatal resuscitation, Resuscitation training, Simulation</Keywords>
+    <kwrd>Debriefing, Education, Guidelines, Neonatal resuscitation, Resuscitation training, Simulation</kwrd>
   </statement>
   <statement>
     <name>The relationship between paediatric practitioners and ?industry?</name>
@@ -1486,7 +1486,7 @@
     <changed>16-Nov-20</changed>
     <Committee>Bioethics Committee</Committee>
     <DOI>10.1093/pch/pxx096</DOI>
-    <Keywords>Beneficence, COI, Gifting, Non-maleficence</Keywords>
+    <kwrd>Beneficence, COI, Gifting, Non-maleficence</kwrd>
   </statement>
   <statement>
     <name>Counselling and management for anticipated extremely preterm birth</name>
@@ -1497,7 +1497,7 @@
     <changed>16-Nov-20</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/pxx058</DOI>
-    <Keywords>ANCS, Decision making, Extremely preterm infant, NDD, QOL, SDM</Keywords>
+    <kwrd>ANCS, Decision making, Extremely preterm infant, NDD, QOL, SDM</kwrd>
   </statement>
   <statement>
     <name>Tobacco use and misuse among Indigenous children and youth in Canada</name>
@@ -1508,12 +1508,12 @@
     <changed>16-Nov-20</changed>
     <Committee>First Nations, Inuit and Métis Health Committee</Committee>
     <DOI>10.1093/pch/pxx124 </DOI>
-    <Keywords>Aboriginal</Keywords>
-    <Keywords>Children</Keywords>
-    <Keywords>Indigenous</Keywords>
-    <Keywords>Smoking </Keywords>
-    <Keywords>Tobacco</Keywords>
-    <Keywords>Youth</Keywords>
+    <kwrd>Aboriginal</kwrd>
+    <kwrd>Children</kwrd>
+    <kwrd>Indigenous</kwrd>
+    <kwrd>Smoking </kwrd>
+    <kwrd>Tobacco</kwrd>
+    <kwrd>Youth</kwrd>
   </statement>
   <statement>
     <name>Energy and sports drinks in children and adolescents</name>
@@ -1524,11 +1524,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI>10.1093/pch/pxx132</DOI>
-    <Keywords>Alcohol</Keywords>
-    <Keywords>Caffeine</Keywords>
-    <Keywords>CEDs</Keywords>
-    <Keywords>Energy drinks</Keywords>
-    <Keywords>Sports drinks</Keywords>
+    <kwrd>Alcohol</kwrd>
+    <kwrd>Caffeine</kwrd>
+    <kwrd>CEDs</kwrd>
+    <kwrd>Energy drinks</kwrd>
+    <kwrd>Sports drinks</kwrd>
   </statement>
   <statement>
     <name>Screening for disruptive behaviour problems in preschool children in primary health care settings</name>
@@ -1539,12 +1539,12 @@
     <changed>16-Nov-20</changed>
     <Committee>Mental Health and Developmental Disabilities Committee</Committee>
     <DOI>10.1093/pch/pxx128</DOI>
-    <Keywords>ADHD</Keywords>
-    <Keywords>Behaviour problems</Keywords>
-    <Keywords>ODD</Keywords>
-    <Keywords>Preschoolers</Keywords>
-    <Keywords>Primary care</Keywords>
-    <Keywords>Screening</Keywords>
+    <kwrd>ADHD</kwrd>
+    <kwrd>Behaviour problems</kwrd>
+    <kwrd>ODD</kwrd>
+    <kwrd>Preschoolers</kwrd>
+    <kwrd>Primary care</kwrd>
+    <kwrd>Screening</kwrd>
   </statement>
   <statement>
     <name>Screen time and young children: Promoting health and development in a digital world</name>
@@ -1555,12 +1555,12 @@
     <changed>16-Nov-20</changed>
     <Committee>Digital Health Task Force</Committee>
     <DOI>10.1093/pch/pxx123</DOI>
-    <Keywords>Development</Keywords>
-    <Keywords>Digital media</Keywords>
-    <Keywords>Health</Keywords>
-    <Keywords>Infant</Keywords>
-    <Keywords>Preschool child</Keywords>
-    <Keywords>Screen time</Keywords>
+    <kwrd>Development</kwrd>
+    <kwrd>Digital media</kwrd>
+    <kwrd>Health</kwrd>
+    <kwrd>Infant</kwrd>
+    <kwrd>Preschool child</kwrd>
+    <kwrd>Screen time</kwrd>
   </statement>
   <statement>
     <name>Pulse oximetry screening in newborns to enhance detection of critical congenital heart disease</name>
@@ -1571,9 +1571,9 @@
     <changed>16-Nov-20</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/pxx136</DOI>
-    <Keywords>CCHD</Keywords>
-    <Keywords>NICU</Keywords>
-    <Keywords>POS</Keywords>
+    <kwrd>CCHD</kwrd>
+    <kwrd>NICU</kwrd>
+    <kwrd>POS</kwrd>
   </statement>
   <statement>
     <name>Update on invasive meningococcal vaccination for Canadian children and youth</name>
@@ -1584,10 +1584,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxx162 </DOI>
-    <Keywords>IMD</Keywords>
-    <Keywords>Meningitis</Keywords>
-    <Keywords>Sepsis</Keywords>
-    <Keywords>Vaccine</Keywords>
+    <kwrd>IMD</kwrd>
+    <kwrd>Meningitis</kwrd>
+    <kwrd>Sepsis</kwrd>
+    <kwrd>Vaccine</kwrd>
   </statement>
   <statement>
     <name>Head lice infestations: A clinical update</name>
@@ -1598,12 +1598,12 @@
     <changed>02-Feb-21</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/pxx165 </DOI>
-    <Keywords>Dimeticone solution</Keywords>
-    <Keywords>Head lice</Keywords>
-    <Keywords>Infestations</Keywords>
-    <Keywords>Isopropyl myristate/cyclomethicone solution</Keywords>
-    <Keywords>Permethrin</Keywords>
-    <Keywords>Pyrethrin</Keywords>
+    <kwrd>Dimeticone solution</kwrd>
+    <kwrd>Head lice</kwrd>
+    <kwrd>Infestations</kwrd>
+    <kwrd>Isopropyl myristate/cyclomethicone solution</kwrd>
+    <kwrd>Permethrin</kwrd>
+    <kwrd>Pyrethrin</kwrd>
   </statement>
   <statement>
     <name>The prevention of firearm injuries in Canadian youth</name>
@@ -1614,12 +1614,12 @@
     <changed>02-Feb-21</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/pxx164</DOI>
-    <Keywords>Adolescent</Keywords>
-    <Keywords>Child</Keywords>
-    <Keywords>Firearm</Keywords>
-    <Keywords>IPV</Keywords>
-    <Keywords>Nonpowder firearm</Keywords>
-    <Keywords>Targeted school violence</Keywords>
+    <kwrd>Adolescent</kwrd>
+    <kwrd>Child</kwrd>
+    <kwrd>Firearm</kwrd>
+    <kwrd>IPV</kwrd>
+    <kwrd>Nonpowder firearm</kwrd>
+    <kwrd>Targeted school violence</kwrd>
   </statement>
   <statement>
     <name>Rapid response systems for paediatrics: Suggestions for optimal organization and training</name>
@@ -1630,13 +1630,13 @@
     <changed>15-Nov-20</changed>
     <Committee>Acute Care Committee</Committee>
     <DOI>10.1093/pch/pxx133</DOI>
-    <Keywords>Education</Keywords>
-    <Keywords>Paediatric</Keywords>
-    <Keywords>Rapid response teams</Keywords>
-    <Keywords>Rapid response systems</Keywords>
-    <Keywords>Resuscitation</Keywords>
-    <Keywords>Simulation</Keywords>
-    <Keywords>Team training</Keywords>
+    <kwrd>Education</kwrd>
+    <kwrd>Paediatric</kwrd>
+    <kwrd>Rapid response teams</kwrd>
+    <kwrd>Rapid response systems</kwrd>
+    <kwrd>Resuscitation</kwrd>
+    <kwrd>Simulation</kwrd>
+    <kwrd>Team training</kwrd>
   </statement>
   <statement>
     <name>Cross-cultural communication: Tools for working with families and children</name>
@@ -1647,11 +1647,11 @@
     <changed>15-Nov-20</changed>
     <Committee>Global Child &amp; Youth Health Section</Committee>
     <DOI>10.1093/pch/pxx126</DOI>
-    <Keywords>Communication</Keywords>
-    <Keywords>Culture</Keywords>
-    <Keywords>Global health</Keywords>
-    <Keywords>Immigrant health</Keywords>
-    <Keywords>Indigenous health</Keywords>
+    <kwrd>Communication</kwrd>
+    <kwrd>Culture</kwrd>
+    <kwrd>Global health</kwrd>
+    <kwrd>Immigrant health</kwrd>
+    <kwrd>Indigenous health</kwrd>
   </statement>
   <statement>
     <name>The medical assessment of fractures in suspected child maltreatment: Infants and young children with skeletal injury</name>
@@ -1662,11 +1662,11 @@
     <changed>15-Nov-20</changed>
     <Committee>Child and Youth Maltreatment Section</Committee>
     <DOI>10.1093/pch/pxx131</DOI>
-    <Keywords>Child abuse</Keywords>
-    <Keywords>Children</Keywords>
-    <Keywords>Fracture</Keywords>
-    <Keywords>Maltreatment</Keywords>
-    <Keywords>Physical abuse</Keywords>
+    <kwrd>Child abuse</kwrd>
+    <kwrd>Children</kwrd>
+    <kwrd>Fracture</kwrd>
+    <kwrd>Maltreatment</kwrd>
+    <kwrd>Physical abuse</kwrd>
   </statement>
   <statement>
     <name>Medical decision-making in paediatrics: Infancy to adolescence</name>
@@ -1677,13 +1677,13 @@
     <changed>02-Feb-21</changed>
     <Committee>Bioethics Committee</Committee>
     <DOI>10.1093/pch/pxx127</DOI>
-    <Keywords>Advanced directives</Keywords>
-    <Keywords>Best Interests</Keywords>
-    <Keywords>Emancipated minors</Keywords>
-    <Keywords>End-of-life</Keywords>
-    <Keywords>Informed consent</Keywords>
-    <Keywords>Mature minors</Keywords>
-    <Keywords>SDM</Keywords>
+    <kwrd>Advanced directives</kwrd>
+    <kwrd>Best Interests</kwrd>
+    <kwrd>Emancipated minors</kwrd>
+    <kwrd>End-of-life</kwrd>
+    <kwrd>Informed consent</kwrd>
+    <kwrd>Mature minors</kwrd>
+    <kwrd>SDM</kwrd>
   </statement>
   <statement>
     <name>Medical Assistance in Dying: A Paediatric Perspective</name>
@@ -1694,10 +1694,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Bioethics Committee</Committee>
     <DOI>10.1093/pch/pxx181</DOI>
-    <Keywords>Euthanasia</Keywords>
-    <Keywords>MAID</Keywords>
-    <Keywords>Mature minors</Keywords>
-    <Keywords>Medical assistance in dying</Keywords>
+    <kwrd>Euthanasia</kwrd>
+    <kwrd>MAID</kwrd>
+    <kwrd>Mature minors</kwrd>
+    <kwrd>Medical assistance in dying</kwrd>
   </statement>
   <statement>
     <name>Supporting and communicating with families experiencing a perinatal loss</name>
@@ -1708,11 +1708,11 @@
     <changed>12-Feb-20</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/pxy134</DOI>
-    <Keywords>Counselling</Keywords>
-    <Keywords>Palliative care</Keywords>
-    <Keywords>Parental grief</Keywords>
-    <Keywords>Perinatal death</Keywords>
-    <Keywords>Perinatal hospice</Keywords>
+    <kwrd>Counselling</kwrd>
+    <kwrd>Palliative care</kwrd>
+    <kwrd>Parental grief</kwrd>
+    <kwrd>Perinatal death</kwrd>
+    <kwrd>Perinatal hospice</kwrd>
   </statement>
   <statement>
     <name>Determining treatment goal weights for children and adolescents with anorexia nervosa</name>
@@ -1723,10 +1723,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/pxy133 </DOI>
-    <Keywords>AN</Keywords>
-    <Keywords>EDs</Keywords>
-    <Keywords>Paediatrics</Keywords>
-    <Keywords>TGW</Keywords>
+    <kwrd>AN</kwrd>
+    <kwrd>EDs</kwrd>
+    <kwrd>Paediatrics</kwrd>
+    <kwrd>TGW</kwrd>
   </statement>
   <statement>
     <name>Use of high-flow nasal cannula oxygen therapy in infants and children</name>
@@ -1737,8 +1737,8 @@
     <changed>12-Feb-20</changed>
     <Committee>Acute Care Committee</Committee>
     <DOI>10.1093/pch/pxy142 </DOI>
-    <Keywords>Heated humidified high-flow nasal cannula</Keywords>
-    <Keywords>Paediatric</Keywords>
+    <kwrd>Heated humidified high-flow nasal cannula</kwrd>
+    <kwrd>Paediatric</kwrd>
   </statement>
   <statement>
     <name>Managing infants born to mothers who have used opioids during pregnancy</name>
@@ -1749,11 +1749,11 @@
     <changed>15-Nov-20</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/pxx199</DOI>
-    <Keywords>Discharge planning</Keywords>
-    <Keywords>Management</Keywords>
-    <Keywords>NAS</Keywords>
-    <Keywords>NPI</Keywords>
-    <Keywords>Treatment strategies</Keywords>
+    <kwrd>Discharge planning</kwrd>
+    <kwrd>Management</kwrd>
+    <kwrd>NAS</kwrd>
+    <kwrd>NPI</kwrd>
+    <kwrd>Treatment strategies</kwrd>
   </statement>
   <statement>
     <name>Immunization of the immunocompromised child: Key principles</name>
@@ -1764,10 +1764,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxx180</DOI>
-    <Keywords>Immunocompromise</Keywords>
-    <Keywords>Immunization</Keywords>
-    <Keywords>Paediatrics</Keywords>
-    <Keywords>Vaccines</Keywords>
+    <kwrd>Immunocompromise</kwrd>
+    <kwrd>Immunization</kwrd>
+    <kwrd>Paediatrics</kwrd>
+    <kwrd>Vaccines</kwrd>
   </statement>
   <statement>
     <name>Decision-making around gastrostomy tube feeding in children with neurologic impairment: Engaging effectively with families</name>
@@ -1778,9 +1778,9 @@
     <changed>15-Nov-20</changed>
     <Committee>Hospital Paediatrics Section</Committee>
     <DOI>10.1093/pch/pxx193 </DOI>
-    <Keywords>G-tube</Keywords>
-    <Keywords>ICF</Keywords>
-    <Keywords>Shared decision-making</Keywords>
+    <kwrd>G-tube</kwrd>
+    <kwrd>ICF</kwrd>
+    <kwrd>Shared decision-making</kwrd>
   </statement>
   <statement>
     <name>Hypothermia for newborns with hypoxic-ischemic encephalopathy</name>
@@ -1791,8 +1791,8 @@
     <changed>15-Nov-20</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/pxy028</DOI>
-    <Keywords>Hypoxic-ischemic encephalopathy</Keywords>
-    <Keywords>Therapeutic hypothermia </Keywords>
+    <kwrd>Hypoxic-ischemic encephalopathy</kwrd>
+    <kwrd>Therapeutic hypothermia </kwrd>
   </statement>
   <statement>
     <name>Human papillomavirus vaccine for children and adolescents</name>
@@ -1803,8 +1803,8 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxx179 </DOI>
-    <Keywords>HPV</Keywords>
-    <Keywords>Vaccine </Keywords>
+    <kwrd>HPV</kwrd>
+    <kwrd>Vaccine </kwrd>
   </statement>
   <statement>
     <name>Contraceptive care for Canadian youth</name>
@@ -1815,13 +1815,13 @@
     <changed>02-Feb-21</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/pxx192</DOI>
-    <Keywords>Bone mineral density</Keywords>
-    <Keywords>Contraception</Keywords>
-    <Keywords>Combined oral contraception</Keywords>
-    <Keywords>Emergency contraception</Keywords>
-    <Keywords>Intrauterine contraception</Keywords>
-    <Keywords>Long-acting reversible contraception (LARC)</Keywords>
-    <Keywords>Sexual and reproductive health</Keywords>
+    <kwrd>Bone mineral density</kwrd>
+    <kwrd>Contraception</kwrd>
+    <kwrd>Combined oral contraception</kwrd>
+    <kwrd>Emergency contraception</kwrd>
+    <kwrd>Intrauterine contraception</kwrd>
+    <kwrd>Long-acting reversible contraception (LARC)</kwrd>
+    <kwrd>Sexual and reproductive health</kwrd>
   </statement>
   <statement>
     <name>Fever in the returning child traveller: Highlights for health care providers</name>
@@ -1833,10 +1833,10 @@
     <Committee>Global Child &amp; Youth Health Section</Committee>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxy138</DOI>
-    <Keywords>Children</Keywords>
-    <Keywords>Fever</Keywords>
-    <Keywords>Travel health</Keywords>
-    <Keywords>Tropical disease</Keywords>
+    <kwrd>Children</kwrd>
+    <kwrd>Fever</kwrd>
+    <kwrd>Travel health</kwrd>
+    <kwrd>Tropical disease</kwrd>
   </statement>
   <statement>
     <name>Potential strategies to improve childhood immunization rates in Canada</name>
@@ -1847,9 +1847,9 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxy052 </DOI>
-    <Keywords>Immunization</Keywords>
-    <Keywords>Immunization mandate</Keywords>
-    <Keywords>Immunization programs</Keywords>
+    <kwrd>Immunization</kwrd>
+    <kwrd>Immunization mandate</kwrd>
+    <kwrd>Immunization programs</kwrd>
   </statement>
   <statement>
     <name>Imaging the term neonatal brain</name>
@@ -1860,9 +1860,9 @@
     <changed>15-Nov-20</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/pxx161</DOI>
-    <Keywords>Brain imaging</Keywords>
-    <Keywords>Encephalopathy</Keywords>
-    <Keywords>Newborn</Keywords>
+    <kwrd>Brain imaging</kwrd>
+    <kwrd>Encephalopathy</kwrd>
+    <kwrd>Newborn</kwrd>
   </statement>
   <statement>
     <name>Diagnosis and management of acute osteoarticular infections in children</name>
@@ -1873,11 +1873,11 @@
     <changed>15-Nov-20</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxy049</DOI>
-    <Keywords>Acute osteomyelitis</Keywords>
-    <Keywords>C-reactive protein test</Keywords>
-    <Keywords>Methicillin-resistant Staphylococcus aureus</Keywords>
-    <Keywords>Methicillin-susceptible Staphylococcus aureus</Keywords>
-    <Keywords>Septic arthritis</Keywords>
+    <kwrd>Acute osteomyelitis</kwrd>
+    <kwrd>C-reactive protein test</kwrd>
+    <kwrd>Methicillin-resistant Staphylococcus aureus</kwrd>
+    <kwrd>Methicillin-susceptible Staphylococcus aureus</kwrd>
+    <kwrd>Septic arthritis</kwrd>
   </statement>
   <statement>
     <name>Stinging insect hypersensitivity: Evaluation and management in children and youth</name>
@@ -1888,11 +1888,11 @@
     <changed>12-Feb-20</changed>
     <Committee>Allergy Section</Committee>
     <DOI>10.1093/pch/pxy140</DOI>
-    <Keywords>Allergy</Keywords>
-    <Keywords>Anaphylaxis</Keywords>
-    <Keywords>Large local reaction</Keywords>
-    <Keywords>Stinging insect</Keywords>
-    <Keywords>Venom immunotherapy�</Keywords>
+    <kwrd>Allergy</kwrd>
+    <kwrd>Anaphylaxis</kwrd>
+    <kwrd>Large local reaction</kwrd>
+    <kwrd>Stinging insect</kwrd>
+    <kwrd>Venom immunotherapy�</kwrd>
   </statement>
   <statement>
     <name>School, child care and camp exclusion policies for chickenpox: A rational approach</name>
@@ -1903,13 +1903,13 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxy096</DOI>
-    <Keywords>Chickenpox</Keywords>
-    <Keywords>Child care</Keywords>
-    <Keywords>Exclusion</Keywords>
-    <Keywords>IMPACT</Keywords>
-    <Keywords>Summer camp</Keywords>
-    <Keywords>Vaccine</Keywords>
-    <Keywords>Varicella</Keywords>
+    <kwrd>Chickenpox</kwrd>
+    <kwrd>Child care</kwrd>
+    <kwrd>Exclusion</kwrd>
+    <kwrd>IMPACT</kwrd>
+    <kwrd>Summer camp</kwrd>
+    <kwrd>Vaccine</kwrd>
+    <kwrd>Varicella</kwrd>
   </statement>
   <statement>
     <name>Guidelines for vitamin K prophylaxis in newborns</name>
@@ -1920,11 +1920,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/pxy082</DOI>
-    <Keywords>HDNB</Keywords>
-    <Keywords>Newborn</Keywords>
-    <Keywords>Prophylaxis</Keywords>
-    <Keywords>Vitamin K</Keywords>
-    <Keywords>VKDB</Keywords>
+    <kwrd>HDNB</kwrd>
+    <kwrd>Newborn</kwrd>
+    <kwrd>Prophylaxis</kwrd>
+    <kwrd>Vitamin K</kwrd>
+    <kwrd>VKDB</kwrd>
   </statement>
   <statement>
     <name>Evaluation of the child with global developmental delay and intellectual disability</name>
@@ -1935,10 +1935,10 @@
     <changed>15-Nov-20</changed>
     <Committee>Mental Health and Developmental Disabilities Committee</Committee>
     <DOI>10.1093/pch/pxy093</DOI>
-    <Keywords>Chromosome microarray</Keywords>
-    <Keywords>Global developmental delay</Keywords>
-    <Keywords>Intellectual disability</Keywords>
-    <Keywords>IEM</Keywords>
+    <kwrd>Chromosome microarray</kwrd>
+    <kwrd>Global developmental delay</kwrd>
+    <kwrd>Intellectual disability</kwrd>
+    <kwrd>IEM</kwrd>
   </statement>
   <statement>
     <name>Working with vaccine-hesitant parents: An update</name>
@@ -1949,12 +1949,12 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxy144</DOI>
-    <Keywords>Health care workers</Keywords>
-    <Keywords>Health communication</Keywords>
-    <Keywords>Pain on immunization</Keywords>
-    <Keywords>Vaccine acceptance</Keywords>
-    <Keywords>Vaccine hesitancy</Keywords>
-    <Keywords>Vaccine refusal</Keywords>
+    <kwrd>Health care workers</kwrd>
+    <kwrd>Health communication</kwrd>
+    <kwrd>Pain on immunization</kwrd>
+    <kwrd>Vaccine acceptance</kwrd>
+    <kwrd>Vaccine hesitancy</kwrd>
+    <kwrd>Vaccine refusal</kwrd>
   </statement>
   <statement>
     <name>Addressing vaccine hesitancy in immunization programs, clinics and practices</name>
@@ -1965,11 +1965,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxy131 </DOI>
-    <Keywords>Health communication</Keywords>
-    <Keywords>Vaccine acceptance</Keywords>
-    <Keywords>Vaccine education</Keywords>
-    <Keywords>Vaccine hesitancy</Keywords>
-    <Keywords>vaccine uptake</Keywords>
+    <kwrd>Health communication</kwrd>
+    <kwrd>Vaccine acceptance</kwrd>
+    <kwrd>Vaccine education</kwrd>
+    <kwrd>Vaccine hesitancy</kwrd>
+    <kwrd>vaccine uptake</kwrd>
   </statement>
   <statement>
     <name>The use of antiviral drugs for influenza: Guidance for practitioners</name>
@@ -1980,10 +1980,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxy148</DOI>
-    <Keywords>Antiviral therapy</Keywords>
-    <Keywords>Children</Keywords>
-    <Keywords>Influenza</Keywords>
-    <Keywords>Neuraminidase inhibitors</Keywords>
+    <kwrd>Antiviral therapy</kwrd>
+    <kwrd>Children</kwrd>
+    <kwrd>Influenza</kwrd>
+    <kwrd>Neuraminidase inhibitors</kwrd>
   </statement>
   <statement>
     <name>ADHD in children and youth: Part 1?Etiology, diagnosis, and comorbidity</name>
@@ -1994,10 +1994,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Mental Health and Developmental Disabilities Committee</Committee>
     <DOI>10.1093/pch/pxy109</DOI>
-    <Keywords>Attention-deficit hyperactivity disorder</Keywords>
-    <Keywords>Comorbidity</Keywords>
-    <Keywords>Diagnosis</Keywords>
-    <Keywords>Etiology</Keywords>
+    <kwrd>Attention-deficit hyperactivity disorder</kwrd>
+    <kwrd>Comorbidity</kwrd>
+    <kwrd>Diagnosis</kwrd>
+    <kwrd>Etiology</kwrd>
   </statement>
   <statement>
     <name>ADHD in children and youth: Part 2?Treatment</name>
@@ -2008,10 +2008,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Mental Health and Developmental Disabilities Committee</Committee>
     <DOI>10.1093/pch/pxy113</DOI>
-    <Keywords>ADHD</Keywords>
-    <Keywords>Adverse effects</Keywords>
-    <Keywords>Combined interventions</Keywords>
-    <Keywords>Medication management</Keywords>
+    <kwrd>ADHD</kwrd>
+    <kwrd>Adverse effects</kwrd>
+    <kwrd>Combined interventions</kwrd>
+    <kwrd>Medication management</kwrd>
   </statement>
   <statement>
     <name>ADHD in children and youth: Part 3?Assessment and treatment with comorbid ASD, ID, or prematurity</name>
@@ -2022,10 +2022,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Mental Health and Developmental Disabilities Committee</Committee>
     <DOI>10.1093/pch/pxy111</DOI>
-    <Keywords>Autism</Keywords>
-    <Keywords>ADHD</Keywords>
-    <Keywords>Intellectual disability</Keywords>
-    <Keywords>Prematurity</Keywords>
+    <kwrd>Autism</kwrd>
+    <kwrd>ADHD</kwrd>
+    <kwrd>Intellectual disability</kwrd>
+    <kwrd>Prematurity</kwrd>
   </statement>
   <statement>
     <name>Diagnosis and management of typical, newly diagnosed primary immune thrombocytopenia (ITP) of childhood</name>
@@ -2036,10 +2036,10 @@
     <changed>15-Nov-20</changed>
     <Committee>Acute Care Committee</Committee>
     <DOI>10.1093/pch/pxy197</DOI>
-    <Keywords>Intracranial hemorrhage (ICH)</Keywords>
-    <Keywords>Immune thrombocytopenia (ITP)</Keywords>
-    <Keywords>Intravenous immunoglobulin (IVIG)</Keywords>
-    <Keywords>Shared decision-making (SDM)</Keywords>
+    <kwrd>Intracranial hemorrhage (ICH)</kwrd>
+    <kwrd>Immune thrombocytopenia (ITP)</kwrd>
+    <kwrd>Intravenous immunoglobulin (IVIG)</kwrd>
+    <kwrd>Shared decision-making (SDM)</kwrd>
   </statement>
   <statement>
     <name>Uncomplicated pneumonia in healthy Canadian children and youth: Practice points for management</name>
@@ -2050,9 +2050,9 @@
     <changed>27-May-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/20.8.441</DOI>
-    <Keywords>Antimicrobial therapy</Keywords>
-    <Keywords>Bacterial pneumonia</Keywords>
-    <Keywords>Viral pneumonia</Keywords>
+    <kwrd>Antimicrobial therapy</kwrd>
+    <kwrd>Bacterial pneumonia</kwrd>
+    <kwrd>Viral pneumonia</kwrd>
   </statement>
   <statement>
     <name>Needle stick injuries in the community</name>
@@ -2063,10 +2063,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxy129</DOI>
-    <Keywords>Antiretrovirals</Keywords>
-    <Keywords>Blood-borne infections</Keywords>
-    <Keywords>Children</Keywords>
-    <Keywords>Needle-stick injuries</Keywords>
+    <kwrd>Antiretrovirals</kwrd>
+    <kwrd>Blood-borne infections</kwrd>
+    <kwrd>Children</kwrd>
+    <kwrd>Needle-stick injuries</kwrd>
   </statement>
   <statement>
     <name>Infection prevention and control in paediatric office settings</name>
@@ -2077,10 +2077,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxy117</DOI>
-    <Keywords>Ambulatory</Keywords>
-    <Keywords>Infection control</Keywords>
-    <Keywords>Infection transmission</Keywords>
-    <Keywords>Paediatric office</Keywords>
+    <kwrd>Ambulatory</kwrd>
+    <kwrd>Infection control</kwrd>
+    <kwrd>Infection transmission</kwrd>
+    <kwrd>Paediatric office</kwrd>
   </statement>
   <statement>
     <name>Facilitating discharge from hospital of the healthy term infant</name>
@@ -2091,9 +2091,9 @@
     <changed>02-Feb-21</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/pxy127</DOI>
-    <Keywords>Hospital discharge</Keywords>
-    <Keywords>Newborn</Keywords>
-    <Keywords>Postpartum care</Keywords>
+    <kwrd>Hospital discharge</kwrd>
+    <kwrd>Newborn</kwrd>
+    <kwrd>Postpartum care</kwrd>
   </statement>
   <statement>
     <name>Salmonella infections in Canadian children</name>
@@ -2104,8 +2104,8 @@
     <changed>15-Nov-20</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxy199</DOI>
-    <Keywords>Non-typhoidal Salmonella</Keywords>
-    <Keywords>Typhoid/paratyphoid fever</Keywords>
+    <kwrd>Non-typhoidal Salmonella</kwrd>
+    <kwrd>Typhoid/paratyphoid fever</kwrd>
   </statement>
   <statement>
     <name>Approaches to detecting tuberculosis in children and youth</name>
@@ -2116,11 +2116,11 @@
     <changed>09-Nov-20</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxy201</DOI>
-    <Keywords>Bacille-Calmette-Gu�rin</Keywords>
-    <Keywords>Break of contact</Keywords>
-    <Keywords>Latent tuberculosis infection</Keywords>
-    <Keywords>Mycobacterium tuberculosis</Keywords>
-    <Keywords>Tuberculosis �</Keywords>
+    <kwrd>Bacille-Calmette-Gu�rin</kwrd>
+    <kwrd>Break of contact</kwrd>
+    <kwrd>Latent tuberculosis infection</kwrd>
+    <kwrd>Mycobacterium tuberculosis</kwrd>
+    <kwrd>Tuberculosis �</kwrd>
   </statement>
   <statement>
     <name>Risk of acute hyponatremia in hospitalized children and youth receiving maintenance intravenous fluids</name>
@@ -2131,9 +2131,9 @@
     <changed>05-May-21</changed>
     <Committee>Acute Care Committee</Committee>
     <DOI>10.1093/pch/18.2.102</DOI>
-    <Keywords>Acute hyponatremia</Keywords>
-    <Keywords>Intravenous fluid prescription</Keywords>
-    <Keywords>Maintenance intravenous fluids</Keywords>
+    <kwrd>Acute hyponatremia</kwrd>
+    <kwrd>Intravenous fluid prescription</kwrd>
+    <kwrd>Maintenance intravenous fluids</kwrd>
   </statement>
   <statement>
     <name>Paediatric complicated pneumonia: Diagnosis and management of empyema</name>
@@ -2144,11 +2144,11 @@
     <changed>11-Jul-21</changed>
     <Committee>Hospital Paediatrics Section</Committee>
     <DOI>10.1093/pch/16.7.425</DOI>
-    <Keywords>Chest tube</Keywords>
-    <Keywords>Complicated pneumonia</Keywords>
-    <Keywords>Empyema</Keywords>
-    <Keywords>Fibrinolytics</Keywords>
-    <Keywords>Paediatric</Keywords>
+    <kwrd>Chest tube</kwrd>
+    <kwrd>Complicated pneumonia</kwrd>
+    <kwrd>Empyema</kwrd>
+    <kwrd>Fibrinolytics</kwrd>
+    <kwrd>Paediatric</kwrd>
   </statement>
   <statement>
     <name>Emergency department use of oral ondansetron for acute gastroenteritis-related vomiting in infants and children</name>
@@ -2159,12 +2159,12 @@
     <changed>05-May-21</changed>
     <Committee>Acute Care Committee</Committee>
     <DOI>10.1093/pch/16.3.177 </DOI>
-    <Keywords>Children</Keywords>
-    <Keywords>Emergency</Keywords>
-    <Keywords>Gastroenteritis</Keywords>
-    <Keywords>Infants</Keywords>
-    <Keywords>Ondansetron</Keywords>
-    <Keywords>Vomiting</Keywords>
+    <kwrd>Children</kwrd>
+    <kwrd>Emergency</kwrd>
+    <kwrd>Gastroenteritis</kwrd>
+    <kwrd>Infants</kwrd>
+    <kwrd>Ondansetron</kwrd>
+    <kwrd>Vomiting</kwrd>
   </statement>
   <statement>
     <name>A case-based update of PALS: Paediatric basic and advanced life-support guidelines</name>
@@ -2185,9 +2185,9 @@
     <changed>15-Nov-20</changed>
     <Committee>Allergy Section</Committee>
     <DOI>10.1093/pch/pxy195 </DOI>
-    <Keywords>Allergy prevention</Keywords>
-    <Keywords>Eczema</Keywords>
-    <Keywords>Food allergy</Keywords>
+    <kwrd>Allergy prevention</kwrd>
+    <kwrd>Eczema</kwrd>
+    <kwrd>Food allergy</kwrd>
   </statement>
   <statement>
     <name>HIV in pregnancy: Identification of intrapartum and perinatal HIV exposures</name>
@@ -2198,11 +2198,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxy181</DOI>
-    <Keywords>Human immunodeficiency virus</Keywords>
-    <Keywords>Infant</Keywords>
-    <Keywords>Intrapartum transmission</Keywords>
-    <Keywords>Pregnancy</Keywords>
-    <Keywords>Screening</Keywords>
+    <kwrd>Human immunodeficiency virus</kwrd>
+    <kwrd>Infant</kwrd>
+    <kwrd>Intrapartum transmission</kwrd>
+    <kwrd>Pregnancy</kwrd>
+    <kwrd>Screening</kwrd>
   </statement>
   <statement>
     <name>Vaccine-preventable diseases: Uncommon disease primer for the front-line provider</name>
@@ -2213,9 +2213,9 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxz044</DOI>
-    <Keywords>Paediatrics</Keywords>
-    <Keywords>Testing</Keywords>
-    <Keywords>Vaccine-preventable diseases (VPD)</Keywords>
+    <kwrd>Paediatrics</kwrd>
+    <kwrd>Testing</kwrd>
+    <kwrd>Vaccine-preventable diseases (VPD)</kwrd>
   </statement>
   <statement>
     <name>Invasive group A streptococcal disease: Management and chemoprophylaxis</name>
@@ -2226,10 +2226,10 @@
     <changed>15-Nov-20</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxz039 </DOI>
-    <Keywords>Chemoprophylaxis</Keywords>
-    <Keywords>Group A streptococcus</Keywords>
-    <Keywords>Necrotizing fasciitis</Keywords>
-    <Keywords>Toxic shock</Keywords>
+    <kwrd>Chemoprophylaxis</kwrd>
+    <kwrd>Group A streptococcus</kwrd>
+    <kwrd>Necrotizing fasciitis</kwrd>
+    <kwrd>Toxic shock</kwrd>
   </statement>
   <statement>
     <name>Universal access to no-cost contraception for youth in Canada</name>
@@ -2240,11 +2240,11 @@
     <changed>09-Nov-20</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/pxz033</DOI>
-    <Keywords>Adolescent</Keywords>
-    <Keywords>Contraception</Keywords>
-    <Keywords>Health insurance</Keywords>
-    <Keywords>Universal coverage</Keywords>
-    <Keywords>Young adult</Keywords>
+    <kwrd>Adolescent</kwrd>
+    <kwrd>Contraception</kwrd>
+    <kwrd>Health insurance</kwrd>
+    <kwrd>Universal coverage</kwrd>
+    <kwrd>Young adult</kwrd>
   </statement>
   <statement>
     <name>Digital media: Promoting healthy screen use in school-aged children and adolescents</name>
@@ -2255,13 +2255,13 @@
     <changed>02-Feb-21</changed>
     <Committee>Digital Health Task Force</Committee>
     <DOI>10.1093/pch/pxz095</DOI>
-    <Keywords>Adolescents</Keywords>
-    <Keywords>Children</Keywords>
-    <Keywords>Development</Keywords>
-    <Keywords>Digital media</Keywords>
-    <Keywords>Family</Keywords>
-    <Keywords>Health</Keywords>
-    <Keywords>Screen use</Keywords>
+    <kwrd>Adolescents</kwrd>
+    <kwrd>Children</kwrd>
+    <kwrd>Development</kwrd>
+    <kwrd>Digital media</kwrd>
+    <kwrd>Family</kwrd>
+    <kwrd>Health</kwrd>
+    <kwrd>Screen use</kwrd>
   </statement>
   <statement>
     <name>Antifungal agents for common outpatient paediatric infections</name>
@@ -2272,7 +2272,7 @@
     <changed>06-Apr-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/12.10.875</DOI>
-    <Keywords />
+    <kwrd />
   </statement>
   <statement>
     <name>Safe living strategies for the immunocompromised child</name>
@@ -2283,10 +2283,10 @@
     <changed>15-Nov-20</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxz082 </DOI>
-    <Keywords>Hygiene</Keywords>
-    <Keywords>Immunocompromise</Keywords>
-    <Keywords>Safety</Keywords>
-    <Keywords>Vaccines</Keywords>
+    <kwrd>Hygiene</kwrd>
+    <kwrd>Immunocompromise</kwrd>
+    <kwrd>Safety</kwrd>
+    <kwrd>Vaccines</kwrd>
   </statement>
   <statement>
     <name>Neuroprotection from acute brain injury in preterm infants</name>
@@ -2297,12 +2297,12 @@
     <changed>09-Nov-20</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/pxz056</DOI>
-    <Keywords>Acute brain injury</Keywords>
-    <Keywords>Infant</Keywords>
-    <Keywords>Intraventricular hemorrhage</Keywords>
-    <Keywords>Neuroprotection</Keywords>
-    <Keywords>Neuroprotective strategies</Keywords>
-    <Keywords>Premature</Keywords>
+    <kwrd>Acute brain injury</kwrd>
+    <kwrd>Infant</kwrd>
+    <kwrd>Intraventricular hemorrhage</kwrd>
+    <kwrd>Neuroprotection</kwrd>
+    <kwrd>Neuroprotective strategies</kwrd>
+    <kwrd>Premature</kwrd>
   </statement>
   <statement>
     <name>Lead toxicity with a new focus: Addressing low-level lead exposure in Canadian children</name>
@@ -2313,11 +2313,11 @@
     <changed>15-Nov-20</changed>
     <Committee>Paediatric Environmental Health Section</Committee>
     <DOI>10.1093/pch/pxz080 </DOI>
-    <Keywords>Blood lead levels</Keywords>
-    <Keywords>Cognitive deficit</Keywords>
-    <Keywords>Lead exposures</Keywords>
-    <Keywords>Lead toxicity</Keywords>
-    <Keywords>Paediatrics</Keywords>
+    <kwrd>Blood lead levels</kwrd>
+    <kwrd>Cognitive deficit</kwrd>
+    <kwrd>Lead exposures</kwrd>
+    <kwrd>Lead toxicity</kwrd>
+    <kwrd>Paediatrics</kwrd>
   </statement>
   <statement>
     <name>Relationships matter: How clinicians can support positive parenting in the early years</name>
@@ -2328,10 +2328,10 @@
     <changed>08-Mar-21</changed>
     <Committee>Early Years Task Force</Committee>
     <DOI>10.1093/pch/pxz063</DOI>
-    <Keywords>ACEs</Keywords>
-    <Keywords>Adverse childhood experiences</Keywords>
-    <Keywords>Attachment</Keywords>
-    <Keywords>Parenting</Keywords>
+    <kwrd>ACEs</kwrd>
+    <kwrd>Adverse childhood experiences</kwrd>
+    <kwrd>Attachment</kwrd>
+    <kwrd>Parenting</kwrd>
   </statement>
   <statement>
     <name>Improving paediatric medications: A prescription for Canadian children and youth</name>
@@ -2342,12 +2342,12 @@
     <changed>15-Nov-20</changed>
     <Committee />
     <DOI>10.1093/pch/pxz079</DOI>
-    <Keywords>Health Canada</Keywords>
-    <Keywords>Medications</Keywords>
-    <Keywords>Paediatric formulations</Keywords>
-    <Keywords>Paediatrics</Keywords>
-    <Keywords>Regulation</Keywords>
-    <Keywords>Research</Keywords>
+    <kwrd>Health Canada</kwrd>
+    <kwrd>Medications</kwrd>
+    <kwrd>Paediatric formulations</kwrd>
+    <kwrd>Paediatrics</kwrd>
+    <kwrd>Regulation</kwrd>
+    <kwrd>Research</kwrd>
   </statement>
   <statement>
     <name>Global climate change and health in Canadian children</name>
@@ -2358,9 +2358,9 @@
     <changed>15-Nov-20</changed>
     <Committee>Paediatric Environmental Health Section</Committee>
     <DOI>10.1093/pch/pxz157</DOI>
-    <Keywords>Canada</Keywords>
-    <Keywords>Child heath</Keywords>
-    <Keywords>Climate change</Keywords>
+    <kwrd>Canada</kwrd>
+    <kwrd>Child heath</kwrd>
+    <kwrd>Climate change</kwrd>
   </statement>
   <statement>
     <name>Pharmacare in Canada: The Paediatric Perspective</name>
@@ -2371,12 +2371,12 @@
     <changed>15-Nov-20</changed>
     <Committee>Paediatric Drugs and Therapeutics Task Force</Committee>
     <DOI>10.1093/pch/pxz176 </DOI>
-    <Keywords>Pharmacare</Keywords>
-    <Keywords>Paediatric Pharmaceuticals</Keywords>
-    <Keywords>Drug Insurance</Keywords>
-    <Keywords>Pharmaceutical Economics</Keywords>
-    <Keywords>Drug Costs</Keywords>
-    <Keywords>Child Health Services </Keywords>
+    <kwrd>Pharmacare</kwrd>
+    <kwrd>Paediatric Pharmaceuticals</kwrd>
+    <kwrd>Drug Insurance</kwrd>
+    <kwrd>Pharmaceutical Economics</kwrd>
+    <kwrd>Drug Costs</kwrd>
+    <kwrd>Child Health Services </kwrd>
   </statement>
   <statement>
     <name>Standards of diagnostic assessment for autism spectrum disorder</name>
@@ -2387,9 +2387,9 @@
     <changed>02-Feb-21</changed>
     <Committee>Autism Spectrum Disorder Guidelines Task Force</Committee>
     <DOI>10.1093/pch/pxz117</DOI>
-    <Keywords>Autism spectrum disorder</Keywords>
-    <Keywords>Diagnostic evaluation</Keywords>
-    <Keywords>Intervention planning</Keywords>
+    <kwrd>Autism spectrum disorder</kwrd>
+    <kwrd>Diagnostic evaluation</kwrd>
+    <kwrd>Intervention planning</kwrd>
   </statement>
   <statement>
     <name>Post-diagnostic management and follow-up care for autism spectrum disorder</name>
@@ -2400,11 +2400,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Autism Spectrum Disorder Guidelines Task Force</Committee>
     <DOI>10.1093/pch/pxz121</DOI>
-    <Keywords>Autism spectrum disorder</Keywords>
-    <Keywords>Behavioural interventions</Keywords>
-    <Keywords>Complementary and alternative medicine</Keywords>
-    <Keywords>Developmental interventions</Keywords>
-    <Keywords>Pharmacological management</Keywords>
+    <kwrd>Autism spectrum disorder</kwrd>
+    <kwrd>Behavioural interventions</kwrd>
+    <kwrd>Complementary and alternative medicine</kwrd>
+    <kwrd>Developmental interventions</kwrd>
+    <kwrd>Pharmacological management</kwrd>
   </statement>
   <statement>
     <name>Early detection for autism spectrum disorder in young children</name>
@@ -2415,10 +2415,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Autism Spectrum Disorder Guidelines Task Force</Committee>
     <DOI>10.1093/pch/pxz119</DOI>
-    <Keywords>Autism spectrum disorder</Keywords>
-    <Keywords>Developmental surveillance</Keywords>
-    <Keywords>Early identification</Keywords>
-    <Keywords>Screening</Keywords>
+    <kwrd>Autism spectrum disorder</kwrd>
+    <kwrd>Developmental surveillance</kwrd>
+    <kwrd>Early identification</kwrd>
+    <kwrd>Screening</kwrd>
   </statement>
   <statement>
     <name>Managing pain and distress in children undergoing brief diagnostic and therapeutic procedures</name>
@@ -2432,11 +2432,11 @@
     <Committee>Community Paediatrics Section</Committee>
     <Committee>Paediatric Emergency Medicine Section</Committee>
     <DOI>10.1093/pch/pxz026</DOI>
-    <Keywords>Distress</Keywords>
-    <Keywords>Paediatrics</Keywords>
-    <Keywords>Pain</Keywords>
-    <Keywords>Procedures</Keywords>
-    <Keywords>Treatment</Keywords>
+    <kwrd>Distress</kwrd>
+    <kwrd>Paediatrics</kwrd>
+    <kwrd>Pain</kwrd>
+    <kwrd>Procedures</kwrd>
+    <kwrd>Treatment</kwrd>
   </statement>
   <statement>
     <name>Preventing and treating infections in children with asplenia or hyposplenia</name>
@@ -2447,10 +2447,10 @@
     <changed>27-May-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/19.5.271</DOI>
-    <Keywords>Antibiotic prophylaxis</Keywords>
-    <Keywords>Immunization</Keywords>
-    <Keywords>Sepsis</Keywords>
-    <Keywords>Splenectomy</Keywords>
+    <kwrd>Antibiotic prophylaxis</kwrd>
+    <kwrd>Immunization</kwrd>
+    <kwrd>Sepsis</kwrd>
+    <kwrd>Splenectomy</kwrd>
   </statement>
   <statement>
     <name>Diagnosis and management of sexually transmitted infections in adolescents</name>
@@ -2461,14 +2461,14 @@
     <changed>27-May-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI />
-    <Keywords>Chlamydia trachomatis</Keywords>
-    <Keywords>�Herpes simplex virus</Keywords>
-    <Keywords>HIV</Keywords>
-    <Keywords>Human papillomavirus</Keywords>
-    <Keywords>Neisseria gonorrhoeae</Keywords>
-    <Keywords>�Test-of-cure</Keywords>
-    <Keywords>Treponema pallidum</Keywords>
-    <Keywords>Trichomonas vaginalis</Keywords>
+    <kwrd>Chlamydia trachomatis</kwrd>
+    <kwrd>�Herpes simplex virus</kwrd>
+    <kwrd>HIV</kwrd>
+    <kwrd>Human papillomavirus</kwrd>
+    <kwrd>Neisseria gonorrhoeae</kwrd>
+    <kwrd>�Test-of-cure</kwrd>
+    <kwrd>Treponema pallidum</kwrd>
+    <kwrd>Trichomonas vaginalis</kwrd>
   </statement>
   <statement>
     <name>The screening and management of newborns at risk for low blood glucose</name>
@@ -2479,10 +2479,10 @@
     <changed>02-Feb-21</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/pxz134 </DOI>
-    <Keywords>Dextrose gel</Keywords>
-    <Keywords>Hypoglycemia</Keywords>
-    <Keywords>Newborn</Keywords>
-    <Keywords>Point-of-care</Keywords>
+    <kwrd>Dextrose gel</kwrd>
+    <kwrd>Hypoglycemia</kwrd>
+    <kwrd>Newborn</kwrd>
+    <kwrd>Point-of-care</kwrd>
   </statement>
   <statement>
     <name>Iron requirements in the first 2 years of life</name>
@@ -2493,11 +2493,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI>10.1093/pch/pxz148 </DOI>
-    <Keywords>Anemia</Keywords>
-    <Keywords>Complementary feeding</Keywords>
-    <Keywords>Infant nutrition</Keywords>
-    <Keywords>Iron deficiency</Keywords>
-    <Keywords>Iron requirements</Keywords>
+    <kwrd>Anemia</kwrd>
+    <kwrd>Complementary feeding</kwrd>
+    <kwrd>Infant nutrition</kwrd>
+    <kwrd>Iron deficiency</kwrd>
+    <kwrd>Iron requirements</kwrd>
   </statement>
   <statement>
     <name>Tuberculosis among First Nations, Inuit and M�tis children and youth in Canada: Beyond medical management</name>
@@ -2508,7 +2508,7 @@
     <changed>15-Nov-20</changed>
     <Committee>First Nations, Inuit and Métis Health Committee</Committee>
     <DOI>10.1093/pch/pxz183</DOI>
-    <Keywords>First Nations, Inuit, M�tis, Indigenous, child health, tuberculosis, LTBI, social determinants</Keywords>
+    <kwrd>First Nations, Inuit, M�tis, Indigenous, child health, tuberculosis, LTBI, social determinants</kwrd>
   </statement>
   <statement>
     <name>School nutrition: Support for providing healthy food and beverage choices in schools</name>
@@ -2519,9 +2519,9 @@
     <changed>15-Nov-20</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI>10.1093/pch/pxz102</DOI>
-    <Keywords>Comprehensive school health</Keywords>
-    <Keywords>School nutrition policy</Keywords>
-    <Keywords>Sugar-sweetened beverages</Keywords>
+    <kwrd>Comprehensive school health</kwrd>
+    <kwrd>School nutrition policy</kwrd>
+    <kwrd>Sugar-sweetened beverages</kwrd>
   </statement>
   <statement>
     <name>Dietary intake of sodium by children: Why it matters</name>
@@ -2533,14 +2533,14 @@
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <Committee>Drug Therapy and Hazardous Substances Committee</Committee>
     <DOI>10.1093/pch/pxz153</DOI>
-    <Keywords>Blood pressure</Keywords>
-    <Keywords>Children</Keywords>
-    <Keywords>Diet</Keywords>
-    <Keywords>Hypertension</Keywords>
-    <Keywords>Nutrition</Keywords>
-    <Keywords>Preventive health</Keywords>
-    <Keywords>Salt</Keywords>
-    <Keywords>Sodium</Keywords>
+    <kwrd>Blood pressure</kwrd>
+    <kwrd>Children</kwrd>
+    <kwrd>Diet</kwrd>
+    <kwrd>Hypertension</kwrd>
+    <kwrd>Nutrition</kwrd>
+    <kwrd>Preventive health</kwrd>
+    <kwrd>Salt</kwrd>
+    <kwrd>Sodium</kwrd>
   </statement>
   <statement>
     <name>Beta-lactam allergy in the paediatric population</name>
@@ -2551,10 +2551,10 @@
     <changed>15-Nov-20</changed>
     <Committee>Allergy Section</Committee>
     <DOI>10.1093/pch/pxz179 </DOI>
-    <Keywords>Beta-lactam</Keywords>
-    <Keywords>Challenge</Keywords>
-    <Keywords>Drug allergy</Keywords>
-    <Keywords>Penicillin</Keywords>
+    <kwrd>Beta-lactam</kwrd>
+    <kwrd>Challenge</kwrd>
+    <kwrd>Drug allergy</kwrd>
+    <kwrd>Penicillin</kwrd>
   </statement>
   <statement>
     <name>A proposal to increase taxes on sugar-sweetened beverages in Canada</name>
@@ -2565,10 +2565,10 @@
     <changed>04-Nov-20</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI />
-    <Keywords>Obesity</Keywords>
-    <Keywords>Overweight</Keywords>
-    <Keywords>Sugar sweetened beverages</Keywords>
-    <Keywords>Taxation</Keywords>
+    <kwrd>Obesity</kwrd>
+    <kwrd>Overweight</kwrd>
+    <kwrd>Sugar sweetened beverages</kwrd>
+    <kwrd>Taxation</kwrd>
   </statement>
   <statement>
     <name>Prevention and management of neonatal herpes simplex virus infections</name>
@@ -2579,11 +2579,11 @@
     <changed>27-May-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/19.4.201</DOI>
-    <Keywords>Acyclovir</Keywords>
-    <Keywords>CNS</Keywords>
-    <Keywords>Encephalitis</Keywords>
-    <Keywords>SEM</Keywords>
-    <Keywords>Sepsis</Keywords>
+    <kwrd>Acyclovir</kwrd>
+    <kwrd>CNS</kwrd>
+    <kwrd>Encephalitis</kwrd>
+    <kwrd>SEM</kwrd>
+    <kwrd>Sepsis</kwrd>
   </statement>
   <statement>
     <name>Nutritional evaluation of the neurologically impaired child</name>
@@ -2594,9 +2594,9 @@
     <changed>15-Nov-20</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI>10.1093/pch/pxz174 </DOI>
-    <Keywords>Assessment</Keywords>
-    <Keywords> Neurological impairment, Nutrition</Keywords>
-    <Keywords>Screening</Keywords>
+    <kwrd>Assessment</kwrd>
+    <kwrd> Neurological impairment, Nutrition</kwrd>
+    <kwrd>Screening</kwrd>
   </statement>
   <statement>
     <name>Current epidemiology and guidance for COVID-19 caused by SARS-CoV-2 virus, in children: March 2020</name>
@@ -2660,11 +2660,11 @@
     <Committee>Acute Care Committee</Committee>
     <Committee>Child and Youth Maltreatment Section</Committee>
     <DOI>10.1093/pch/pxaa019 </DOI>
-    <Keywords>Ano-genital examination</Keywords>
-    <Keywords>Child protection</Keywords>
-    <Keywords>Child sexual abuse</Keywords>
-    <Keywords>Forensic evidence</Keywords>
-    <Keywords>Sexually transmitted infections</Keywords>
+    <kwrd>Ano-genital examination</kwrd>
+    <kwrd>Child protection</kwrd>
+    <kwrd>Child sexual abuse</kwrd>
+    <kwrd>Forensic evidence</kwrd>
+    <kwrd>Sexually transmitted infections</kwrd>
   </statement>
   <statement>
     <name>The acute management of COVID-19 in paediatrics (spring 2021 update)</name>
@@ -2675,9 +2675,9 @@
     <changed>03-Jun-21</changed>
     <Committee>Acute Care Committee</Committee>
     <DOI />
-    <Keywords>Children</Keywords>
-    <Keywords>Coronavirus</Keywords>
-    <Keywords>COVID-19</Keywords>
+    <kwrd>Children</kwrd>
+    <kwrd>Coronavirus</kwrd>
+    <kwrd>COVID-19</kwrd>
   </statement>
   <statement>
     <name>Update on COVID-19 epidemiology and impact on medical care in children: April 2020</name>
@@ -2708,7 +2708,7 @@
     <changed>16-Feb-21</changed>
     <Committee>Cannabis Project Advisory Group</Committee>
     <DOI>10.1093/pch/pxaa048</DOI>
-    <Keywords>Adolescents, cannabis, counselling, harm reduction, screening</Keywords>
+    <kwrd>Adolescents, cannabis, counselling, harm reduction, screening</kwrd>
   </statement>
   <statement>
     <name>The role of dietary fibre and prebiotics in the paediatric diet</name>
@@ -2719,10 +2719,10 @@
     <changed>09-Nov-20</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI>10.1093/pch/pxaa032 </DOI>
-    <Keywords>Children</Keywords>
-    <Keywords>Dietary fibre</Keywords>
-    <Keywords>Microbiome</Keywords>
-    <Keywords>Prebiotics</Keywords>
+    <kwrd>Children</kwrd>
+    <kwrd>Dietary fibre</kwrd>
+    <kwrd>Microbiome</kwrd>
+    <kwrd>Prebiotics</kwrd>
   </statement>
   <statement>
     <name>Routine imaging of the preterm neonatal brain</name>
@@ -2733,14 +2733,14 @@
     <changed>27-May-21</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI />
-    <Keywords>Computed tomography (CT)</Keywords>
-    <Keywords>Germinal matrix hemorrhage (GMH)</Keywords>
-    <Keywords>Head ultrasound (HUS)</Keywords>
-    <Keywords>Intraventricular hemorrhage (IVH)</Keywords>
-    <Keywords>Magnetic resonance imaging (MRI)</Keywords>
-    <Keywords>Periventricular hemorrhagic infarction�(PVHI)</Keywords>
-    <Keywords>Periventricular leukomalacia (PVL)</Keywords>
-    <Keywords>Post-hemorrhagic ventricular dilation�(PHVD)</Keywords>
+    <kwrd>Computed tomography (CT)</kwrd>
+    <kwrd>Germinal matrix hemorrhage (GMH)</kwrd>
+    <kwrd>Head ultrasound (HUS)</kwrd>
+    <kwrd>Intraventricular hemorrhage (IVH)</kwrd>
+    <kwrd>Magnetic resonance imaging (MRI)</kwrd>
+    <kwrd>Periventricular hemorrhagic infarction�(PVHI)</kwrd>
+    <kwrd>Periventricular leukomalacia (PVL)</kwrd>
+    <kwrd>Post-hemorrhagic ventricular dilation�(PHVD)</kwrd>
   </statement>
   <statement>
     <name>Paediatric inflammatory multisystem syndrome temporally associated with COVID-19 (spring 2021 update)</name>
@@ -2751,7 +2751,7 @@
     <changed>14-Jul-21</changed>
     <Committee>Acute Care Committee</Committee>
     <DOI>10.1093/pch/pxaa033</DOI>
-    <Keywords />
+    <kwrd />
   </statement>
   <statement>
     <name>Lyme disease in Canada: Focus on children</name>
@@ -2762,10 +2762,10 @@
     <changed>27-May-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/19.7.379</DOI>
-    <Keywords>Black-legged tick</Keywords>
-    <Keywords>Borrelia burgdorferi</Keywords>
-    <Keywords>Erythema migrans</Keywords>
-    <Keywords>Post-treatment Lyme disease syndrome</Keywords>
+    <kwrd>Black-legged tick</kwrd>
+    <kwrd>Borrelia burgdorferi</kwrd>
+    <kwrd>Erythema migrans</kwrd>
+    <kwrd>Post-treatment Lyme disease syndrome</kwrd>
   </statement>
   <statement>
     <name>Postnatal corticosteroids to prevent or treat bronchopulmonary dysplasia in preterm infants</name>
@@ -2776,12 +2776,12 @@
     <changed>15-Nov-20</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/pxaa073</DOI>
-    <Keywords>Bronchopulmonary dysplasia (BPD)</Keywords>
-    <Keywords>Dexamethasone</Keywords>
-    <Keywords>Hydrocortisone</Keywords>
-    <Keywords>Inhaled corticosteroids</Keywords>
-    <Keywords>Postnatal corticosteroids</Keywords>
-    <Keywords>Preterm infants</Keywords>
+    <kwrd>Bronchopulmonary dysplasia (BPD)</kwrd>
+    <kwrd>Dexamethasone</kwrd>
+    <kwrd>Hydrocortisone</kwrd>
+    <kwrd>Inhaled corticosteroids</kwrd>
+    <kwrd>Postnatal corticosteroids</kwrd>
+    <kwrd>Preterm infants</kwrd>
   </statement>
   <statement>
     <name>Diagnosis and management of sepsis in the paediatric patient</name>
@@ -2792,11 +2792,11 @@
     <changed>03-Nov-20</changed>
     <Committee>Acute Care Committee</Committee>
     <DOI>10.1093/pch/pxz178</DOI>
-    <Keywords>Guidelines</Keywords>
-    <Keywords>Paediatrics</Keywords>
-    <Keywords>Sepsis</Keywords>
-    <Keywords>Vasoactive medications</Keywords>
-    <Keywords>Volume resuscitation</Keywords>
+    <kwrd>Guidelines</kwrd>
+    <kwrd>Paediatrics</kwrd>
+    <kwrd>Sepsis</kwrd>
+    <kwrd>Vasoactive medications</kwrd>
+    <kwrd>Volume resuscitation</kwrd>
   </statement>
   <statement>
     <name>Update on congenital cytomegalovirus infection: Prenatal prevention, newborn diagnosis, and management</name>
@@ -2807,12 +2807,12 @@
     <changed>23-Oct-20</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxaa083</DOI>
-    <Keywords>Congenital infection</Keywords>
-    <Keywords>Cytomegalovirus (CMV)</Keywords>
-    <Keywords>Neurodevelopmental sequelae</Keywords>
-    <Keywords>Polymerase chain reaction (PCR)</Keywords>
-    <Keywords>Sensorineural hearing loss (SNHL)</Keywords>
-    <Keywords>Valganciclovir</Keywords>
+    <kwrd>Congenital infection</kwrd>
+    <kwrd>Cytomegalovirus (CMV)</kwrd>
+    <kwrd>Neurodevelopmental sequelae</kwrd>
+    <kwrd>Polymerase chain reaction (PCR)</kwrd>
+    <kwrd>Sensorineural hearing loss (SNHL)</kwrd>
+    <kwrd>Valganciclovir</kwrd>
   </statement>
   <statement>
     <name>Comprehensive care of the ambulatory child with cerebral palsy (GMFCS I and II): A Canadian perspective</name>
@@ -2823,9 +2823,9 @@
     <changed>16-Dec-20</changed>
     <Committee>Developmental Paediatrics Section</Committee>
     <DOI>10.1093/pch/pxaa100</DOI>
-    <Keywords>Anticipatory guidance</Keywords>
-    <Keywords>Cerebral palsy</Keywords>
-    <Keywords>Wellness</Keywords>
+    <kwrd>Anticipatory guidance</kwrd>
+    <kwrd>Cerebral palsy</kwrd>
+    <kwrd>Wellness</kwrd>
   </statement>
   <statement>
     <name>Vaccine recommendations for children and youth for the 2020/2021 influenza season</name>
@@ -2836,12 +2836,12 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI />
-    <Keywords>Children</Keywords>
-    <Keywords>COVID-19</Keywords>
-    <Keywords>Influenza vaccine</Keywords>
-    <Keywords>Inactivated influenza vaccine</Keywords>
-    <Keywords>LAIV</Keywords>
-    <Keywords>NACI</Keywords>
+    <kwrd>Children</kwrd>
+    <kwrd>COVID-19</kwrd>
+    <kwrd>Influenza vaccine</kwrd>
+    <kwrd>Inactivated influenza vaccine</kwrd>
+    <kwrd>LAIV</kwrd>
+    <kwrd>NACI</kwrd>
   </statement>
   <statement>
     <name>Guidelines for the management of suspected and confirmed bacterial meningitis in Canadian children older than 2 months of age</name>
@@ -2852,13 +2852,13 @@
     <changed>27-May-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/19.3.141 </DOI>
-    <Keywords>Ampicillin</Keywords>
-    <Keywords>Antimicrobial resistance</Keywords>
-    <Keywords>Cephalosporin</Keywords>
-    <Keywords>Corticosteroids</Keywords>
-    <Keywords>Meningitis</Keywords>
-    <Keywords>PCV13</Keywords>
-    <Keywords>Vancomycin</Keywords>
+    <kwrd>Ampicillin</kwrd>
+    <kwrd>Antimicrobial resistance</kwrd>
+    <kwrd>Cephalosporin</kwrd>
+    <kwrd>Corticosteroids</kwrd>
+    <kwrd>Meningitis</kwrd>
+    <kwrd>PCV13</kwrd>
+    <kwrd>Vancomycin</kwrd>
   </statement>
   <statement>
     <name>Medication safety for children with medical complexity</name>
@@ -2869,10 +2869,10 @@
     <changed>03-Nov-20</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/pxaa105 </DOI>
-    <Keywords>Adverse drug events</Keywords>
-    <Keywords>Children with medical complexity</Keywords>
-    <Keywords>Medication</Keywords>
-    <Keywords>Safety</Keywords>
+    <kwrd>Adverse drug events</kwrd>
+    <kwrd>Children with medical complexity</kwrd>
+    <kwrd>Medication</kwrd>
+    <kwrd>Safety</kwrd>
   </statement>
   <statement>
     <name>Comprehensive sexual health assessments for adolescents</name>
@@ -2883,10 +2883,10 @@
     <changed>12-Feb-21</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/pxaa122 </DOI>
-    <Keywords>Adolescents</Keywords>
-    <Keywords>Sexual and reproductive health</Keywords>
-    <Keywords>Sexually transmitted infections</Keywords>
-    <Keywords>Teens</Keywords>
+    <kwrd>Adolescents</kwrd>
+    <kwrd>Sexual and reproductive health</kwrd>
+    <kwrd>Sexually transmitted infections</kwrd>
+    <kwrd>Teens</kwrd>
   </statement>
   <statement>
     <name>Pasteurized and unpasteurized donor human milk</name>
@@ -2897,10 +2897,10 @@
     <changed>17-Dec-20</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI>10.1093/pch/pxaa118 </DOI>
-    <Keywords>Breast milk</Keywords>
-    <Keywords>Donor milk</Keywords>
-    <Keywords>Human milk</Keywords>
-    <Keywords>Milk sharing</Keywords>
+    <kwrd>Breast milk</kwrd>
+    <kwrd>Donor milk</kwrd>
+    <kwrd>Human milk</kwrd>
+    <kwrd>Milk sharing</kwrd>
   </statement>
   <statement>
     <name>Read, Speak, Sing: Promoting early literacy in the health care setting</name>
@@ -2911,12 +2911,12 @@
     <changed>28-Apr-21</changed>
     <Committee>Early Years Task Force</Committee>
     <DOI>10.1093/pch/pxab005</DOI>
-    <Keywords>Language</Keywords>
-    <Keywords>Literacy</Keywords>
-    <Keywords>Music</Keywords>
-    <Keywords>Shared reading</Keywords>
-    <Keywords>Song</Keywords>
-    <Keywords>Storytelling</Keywords>
+    <kwrd>Language</kwrd>
+    <kwrd>Literacy</kwrd>
+    <kwrd>Music</kwrd>
+    <kwrd>Shared reading</kwrd>
+    <kwrd>Song</kwrd>
+    <kwrd>Storytelling</kwrd>
   </statement>
   <statement>
     <name>Guidelines for surfactant replacement therapy in neonates</name>
@@ -2927,12 +2927,12 @@
     <changed>02-Feb-21</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/pxaa116</DOI>
-    <Keywords>Bronchopulmonary dysplasia</Keywords>
-    <Keywords>Neonates</Keywords>
-    <Keywords>Non-invasive ventilation</Keywords>
-    <Keywords>Preterm infants</Keywords>
-    <Keywords>Respiratory distress syndrome</Keywords>
-    <Keywords>Surfactant</Keywords>
+    <kwrd>Bronchopulmonary dysplasia</kwrd>
+    <kwrd>Neonates</kwrd>
+    <kwrd>Non-invasive ventilation</kwrd>
+    <kwrd>Preterm infants</kwrd>
+    <kwrd>Respiratory distress syndrome</kwrd>
+    <kwrd>Surfactant</kwrd>
   </statement>
   <statement>
     <name>Emergency management of the paediatric patient with convulsive status epilepticus</name>
@@ -2943,11 +2943,11 @@
     <changed>02-Feb-21</changed>
     <Committee>Acute Care Committee</Committee>
     <DOI>10.1093/pch/pxaa127</DOI>
-    <Keywords>Convulsions</Keywords>
-    <Keywords>Emergency management</Keywords>
-    <Keywords>Paediatrics</Keywords>
-    <Keywords>Seizures</Keywords>
-    <Keywords>Status epilepticus</Keywords>
+    <kwrd>Convulsions</kwrd>
+    <kwrd>Emergency management</kwrd>
+    <kwrd>Paediatrics</kwrd>
+    <kwrd>Seizures</kwrd>
+    <kwrd>Status epilepticus</kwrd>
   </statement>
   <statement>
     <name>The use of oral opioids to control children?s pain in the post-codeine era</name>
@@ -2958,10 +2958,10 @@
     <changed>17-Mar-21</changed>
     <Committee>Drug Therapy and Hazardous Substances Committee</Committee>
     <DOI>10.1093/pch/pxaa133</DOI>
-    <Keywords>Hydromorphone</Keywords>
-    <Keywords>Morphine</Keywords>
-    <Keywords>Oxycodone</Keywords>
-    <Keywords>Tramadol</Keywords>
+    <kwrd>Hydromorphone</kwrd>
+    <kwrd>Morphine</kwrd>
+    <kwrd>Oxycodone</kwrd>
+    <kwrd>Tramadol</kwrd>
   </statement>
   <statement>
     <name>Recommendations for procedural sedation in infants, children, and adolescents</name>
@@ -2973,9 +2973,9 @@
     <Committee>Acute Care Committee</Committee>
     <Committee>Drug Therapy and Hazardous Substances Committee</Committee>
     <DOI>10.1093/pch/pxaa139 </DOI>
-    <Keywords>Adverse event</Keywords>
-    <Keywords>Analgesia</Keywords>
-    <Keywords>Procedural sedation</Keywords>
+    <kwrd>Adverse event</kwrd>
+    <kwrd>Analgesia</kwrd>
+    <kwrd>Procedural sedation</kwrd>
   </statement>
   <statement>
     <name>Protecting children and adolescents against the risks of vaping</name>
@@ -2986,12 +2986,12 @@
     <changed>03-Jun-21</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI />
-    <Keywords>Adolescent</Keywords>
-    <Keywords>Cannabis</Keywords>
-    <Keywords>Injury</Keywords>
-    <Keywords>Nicotine</Keywords>
-    <Keywords>Substance use</Keywords>
-    <Keywords>Vaping</Keywords>
+    <kwrd>Adolescent</kwrd>
+    <kwrd>Cannabis</kwrd>
+    <kwrd>Injury</kwrd>
+    <kwrd>Nicotine</kwrd>
+    <kwrd>Substance use</kwrd>
+    <kwrd>Vaping</kwrd>
   </statement>
   <statement>
     <name>Non-IgE-mediated food allergy: Evaluation and management</name>
@@ -3002,10 +3002,10 @@
     <changed>03-Jun-21</changed>
     <Committee>Allergy Section</Committee>
     <DOI>10.1093/pch/pxaa131</DOI>
-    <Keywords>Allergy</Keywords>
-    <Keywords>Food allergy</Keywords>
-    <Keywords>Food protein-induced enterocolitis syndrome</Keywords>
-    <Keywords>Food protein-induced allergic proctocolitis</Keywords>
+    <kwrd>Allergy</kwrd>
+    <kwrd>Food allergy</kwrd>
+    <kwrd>Food protein-induced enterocolitis syndrome</kwrd>
+    <kwrd>Food protein-induced allergic proctocolitis</kwrd>
   </statement>
   <statement>
     <name>Early Childhood Caries in Indigenous Communities</name>
@@ -3016,17 +3016,17 @@
     <changed>15-Jun-21</changed>
     <Committee>First Nations, Inuit and M�tis Health Committee</Committee>
     <DOI>10.1093/pch/pxab023</DOI>
-    <Keywords>AI/AN, American Indian/Alaska Native</Keywords>
-    <Keywords> CRA, caries risk assessment</Keywords>
-    <Keywords> DHAT, dental health aide therapist</Keywords>
-    <Keywords> DT, dental therapist</Keywords>
-    <Keywords> ECC, early childhood caries</Keywords>
-    <Keywords> FN, First Nations</Keywords>
-    <Keywords> GA, general anesthesia</Keywords>
-    <Keywords> IHS, Indian Health Services</Keywords>
-    <Keywords> RCT, randomized controlled trial</Keywords>
-    <Keywords> SDF, silver diamine fluoride</Keywords>
-    <Keywords> S-ECC, severe ECC</Keywords>
+    <kwrd>AI/AN, American Indian/Alaska Native</kwrd>
+    <kwrd> CRA, caries risk assessment</kwrd>
+    <kwrd> DHAT, dental health aide therapist</kwrd>
+    <kwrd> DT, dental therapist</kwrd>
+    <kwrd> ECC, early childhood caries</kwrd>
+    <kwrd> FN, First Nations</kwrd>
+    <kwrd> GA, general anesthesia</kwrd>
+    <kwrd> IHS, Indian Health Services</kwrd>
+    <kwrd> RCT, randomized controlled trial</kwrd>
+    <kwrd> SDF, silver diamine fluoride</kwrd>
+    <kwrd> S-ECC, severe ECC</kwrd>
   </statement>
   <statement>
     <name>COVID-19 vaccine for children</name>
@@ -3047,10 +3047,10 @@
     <changed>16-Jun-21</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/pxab015</DOI>
-    <Keywords>Adrenal insufficiency</Keywords>
-    <Keywords>Adrenal suppression</Keywords>
-    <Keywords>Glucocorticoids</Keywords>
-    <Keywords>Inhaled corticosteroids (ICS)</Keywords>
+    <kwrd>Adrenal insufficiency</kwrd>
+    <kwrd>Adrenal suppression</kwrd>
+    <kwrd>Glucocorticoids</kwrd>
+    <kwrd>Inhaled corticosteroids (ICS)</kwrd>
   </statement>
   <statement>
     <name>Selective serotonin reuptake inhibitors or serotonin-norepinephrine reuptake inhibitors in pregnancy: Infant and childhood outcomes</name>
@@ -3061,10 +3061,10 @@
     <changed>29-Jul-21</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/pxab021</DOI>
-    <Keywords>Poor neonatal adaptation syndrome</Keywords>
-    <Keywords>Pregnancy</Keywords>
-    <Keywords>Selective serotonin reuptake inhibitors</Keywords>
-    <Keywords>Serotonin-norepinephrine reuptake inhibitors</Keywords>
+    <kwrd>Poor neonatal adaptation syndrome</kwrd>
+    <kwrd>Pregnancy</kwrd>
+    <kwrd>Selective serotonin reuptake inhibitors</kwrd>
+    <kwrd>Serotonin-norepinephrine reuptake inhibitors</kwrd>
   </statement>
   <statement>
     <name>Group A streptococcal (GAS) pharyngitis: A practical guide to diagnosis and treatment</name>
@@ -3075,10 +3075,10 @@
     <changed>29-Jul-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxab025</DOI>
-    <Keywords>Acute rheumatic fever (ARF)</Keywords>
-    <Keywords>Group A Streptococcus (GAS) pharyngitis</Keywords>
-    <Keywords>Indigenous children</Keywords>
-    <Keywords>Rheumatic heart disease (RHD)</Keywords>
+    <kwrd>Acute rheumatic fever (ARF)</kwrd>
+    <kwrd>Group A Streptococcus (GAS) pharyngitis</kwrd>
+    <kwrd>Indigenous children</kwrd>
+    <kwrd>Rheumatic heart disease (RHD)</kwrd>
   </statement>
   <statement>
     <name>Clinical guidance for youth with myocarditis and pericarditis following mRNA COVID-19 Vaccination</name>
@@ -3090,10 +3090,9 @@
     <Committee>Acute Care Committee</Committee>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI />
-    <Keywords>Myocarditis</Keywords>
-    <Keywords>pericarditis</Keywords>
-    <Keywords>COVID-19 vaccine</Keywords>
-    <Keywords>youth</Keywords>
+    <kwrd>Myocarditis</kwrd>
+    <kwrd>pericarditis</kwrd>
+    <kwrd>COVID-19 vaccine</kwrd>
+    <kwrd>youth</kwrd>
   </statement>
 </root>
-
