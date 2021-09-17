@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <statement>
     <name>The use of fluoride in infants and children</name>
@@ -9,6 +9,7 @@
     <changed>02-Feb-21</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI>10.1093/pch/7.8.569</DOI>
+    <Keywords />
   </statement>
   <statement>
     <name>Guidelines for genetic testing of healthy children</name>
@@ -19,6 +20,7 @@
     <changed>30-Jan-17</changed>
     <Committee>Bioethics Committee</Committee>
     <DOI>10.1093/pch/8.1.42</DOI>
+    <Keywords />
   </statement>
   <statement>
     <name>Dieting in adolescence</name>
@@ -29,6 +31,7 @@
     <changed>02-Feb-21</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/9.7.487</DOI>
+    <Keywords />
   </statement>
   <statement>
     <name>Management of primary nocturnal enuresis</name>
@@ -39,6 +42,7 @@
     <changed>02-Feb-21</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/10.10.611</DOI>
+    <Keywords />
   </statement>
   <statement>
     <name>Perinatal brachial plexus palsy</name>
@@ -49,6 +53,7 @@
     <changed>06-Apr-18</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/11.2.111</DOI>
+    <Keywords />
   </statement>
   <statement>
     <name>Prevention and management of pain in the neonate: An update</name>
@@ -59,6 +64,7 @@
     <changed>30-Jan-17</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1542/peds.2006-2277 </DOI>
+    <Keywords />
   </statement>
   <statement>
     <name>Guidelines for detection, management and prevention of hyperbilirubinemia in term and late preterm newborn infants</name>
@@ -84,6 +90,7 @@
     <changed>02-Feb-21</changed>
     <Committee>First Nations, Inuit and Métis Health Committee</Committee>
     <DOI>10.1093/pch/12.7.583</DOI>
+    <Keywords />
   </statement>
   <statement>
     <name>Transition to adult care for youth with special health care needs</name>
@@ -94,6 +101,7 @@
     <changed>02-Feb-21</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/12.9.785</DOI>
+    <Keywords />
   </statement>
   <statement>
     <name>Harm reduction: An approach to reducing risky health behaviours in adolescents</name>
@@ -104,6 +112,7 @@
     <changed>05-Oct-18</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/13.1.53</DOI>
+    <Keywords />
   </statement>
   <statement>
     <name>Multidisciplinary Guidelines on the Identification, Investigation and Management of Suspected Abusive Head Trauma</name>
@@ -114,6 +123,7 @@
     <changed>08-Jan-13</changed>
     <Committee>Child and Youth Maltreatment Section</Committee>
     <DOI>10.1093/pch/13.2.1</DOI>
+    <Keywords />
   </statement>
   <statement>
     <name>Ethical issues in health research in children</name>
@@ -150,6 +160,7 @@
     <changed>08-May-18</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/14.4.246</DOI>
+    <Keywords />
   </statement>
   <statement>
     <name>Congenital syphilis: No longer just of historical interest</name>
@@ -160,6 +171,7 @@
     <changed>06-Apr-18</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/14.5.337</DOI>
+    <Keywords />
   </statement>
   <statement>
     <name>Family-based treatment of children and adolescents with anorexia nervosa: Guidelines for the community physician</name>
@@ -185,6 +197,7 @@
     <changed>02-Feb-21</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI>10.1093/pch/15.2.77</DOI>
+    <Keywords />
   </statement>
   <statement>
     <name>Management of HIV-exposed and HIV-infected children</name>
@@ -195,6 +208,7 @@
     <changed>02-Feb-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/15.6.379</DOI>
+    <Keywords />
   </statement>
   <statement>
     <name>Inhalant abuse</name>
@@ -1352,6 +1366,7 @@
     <changed>14-Sep-20</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/21.5.265</DOI>
+    <Keywords />
   </statement>
   <statement>
     <name>An update to the Greig Health Record: Executive summary</name>
@@ -2257,6 +2272,7 @@
     <changed>06-Apr-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/12.10.875</DOI>
+    <Keywords />
   </statement>
   <statement>
     <name>Safe living strategies for the immunocompromised child</name>
@@ -2735,6 +2751,7 @@
     <changed>14-Jul-21</changed>
     <Committee>Acute Care Committee</Committee>
     <DOI>10.1093/pch/pxaa033</DOI>
+    <Keywords />
   </statement>
   <statement>
     <name>Lyme disease in Canada: Focus on children</name>
@@ -3079,3 +3096,4 @@
     <Keywords>youth</Keywords>
   </statement>
 </root>
+
