@@ -3137,4 +3137,30 @@
     <kwrd>COVID-19 vaccine</kwrd>
     <kwrd>youth</kwrd>
   </statement>
+  <statement>
+    <name>Assessment, diagnosis, and management of developmental coordination disorder</name>
+    <shortlink>developmental-coordination-disorder</shortlink>
+    <posted>20-Sep-21</posted>
+    <Reaffirmed />
+    <updated />
+    <changed>19-Sep-21</changed>
+    <Committee>Developmental Paediatrics Section</Committee>
+    <DOI />
+    <kwrd>Developmental coordination disorder</kwrd>
+    <kwrd>Diagnosis</kwrd>
+    <kwrd>Community paediatrics</kwrd>
+  </statement>
+  <?ignore
+  <statement>
+    <name></name>
+    <shortlink></shortlink>
+    <posted></posted>
+    <Reaffirmed />
+    <updated />
+    <changed></changed>
+    <Committee></Committee>
+    <DOI />
+    <kwrd></kwrd>
+  </statement>
+  ?>
 </root>
