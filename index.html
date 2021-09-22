@@ -1,35 +1,57 @@
 <!DOCTYPE html>
 <html>
-<head><meta charset="utf-8"></head>
+<head>
+    <meta charset="utf-8">
+</head>
 <style>
 body {
-background-color: #f0fff0;
+background-color: navy;
 font-size: 14px;
 font-family: Arial, Helvetica, sans-serif;
+color: white;
 }
 th,td {
-border : 1px solid black;
+border : 1px solid navy;
+padding: 5px;
 }
 tr:nth-child(even) {
-background-color: #e1ffe1;
+background-color: #f0faff;
 }
 tr:hover {
-background-color: #d2ffd2;
+background-color: white;
 }
 table {
-border-collapse: collapse;
+background-color: #f0ffff;
+    border-collapse: collapse;
+color: black;
 }
 td.kwclass {
 font-size: 10px;
 }
 td.namclass {
 font-weight: bold;
+width: 33%;
+}
+a:link {
+  color: navy;
+text-decoration: none;
+}
+a:visited {
+  color: #663399;
+    text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  color: orange;
+    text-decoration: none;
 }
 </style>
 <body>
-<div style="font-weight: bold;">Pedstatements</div><br>
-This site is not affiliated with the Canadian Pediatric Society.<br><br>
-Last updated:<div id="lastupdated"></div><br>
+<div style="font-weight: bold; font-size: 24px; text-align: center;">Pedstatements</div><br>
+<div style="text-align: center;">This site is not affiliated with the Canadian Pediatric Society.</div>
+<div style="text-align: center;" id="lastupdated"></div>
 <table id="demo"></table>
 
 <script>
@@ -60,12 +82,23 @@ function gebtn(tag) {
     return name;
 }    
 
-
+function cvtdate(str) {
+    answer = "";
+    if (str.length > 0) {
+        day = str.substring(0,2);
+        letmo = str.substring(3,6);
+        nummo = "JanFebMarAprMayJunJulAugSepOctNovDec".indexOf(letmo) / 3 + 1;
+        nummo2 = ("0" + nummo).slice(-2);
+        yr = "20" + str.substring(7,9);
+        answer = yr + "-" + nummo2 + "-" + day;
+    }
+    return(answer);
+}
     
 function loadTable(xml) {
   var i;
   var xmlDoc = xml.responseXML;
-  var table = "<tr><th>Upload Date</th><th>Statement Name</th><th>Committees</th><th>Reaffirmed Date</th><th>Last Official Update</th><th>Last Changed</th><th>DOI</th><th>Keywords</th></tr>";
+  var table = "<thead><tr><th>Upload Date</th><th>Statement Name</th><th>Committees</th><th>Reaffirmed Date</th><th>Last Official Update</th><th>Last Changed</th><th>Journal Article</th><th>Keywords</th></tr></thead>";
   var x = xmlDoc.getElementsByTagName("statement");
   var posted;
   var nam;
@@ -88,26 +121,25 @@ function loadTable(xml) {
     changed = gebtn(x[i].getElementsByTagName("changed"));
     DOI = gebtn(x[i].getElementsByTagName("DOI"));
     kw = gebtn(x[i].getElementsByTagName("kwrd"));
-      if (DOI.length > 0) {
-        doiurl = "<a href=https://doi.org/" + DOI + ">" + DOI + "</a>";
-    }
+    
     
     table += "<tr>" +
-    "<td>" + posted + "</td>" +
+    "<td>" + cvtdate(posted) + "</td>" +
     "<td class=\"namclass\"><a href=https://www.cps.ca/documents/position/" + shortlink + ">" + nam + "</a></td>" +
     "<td>" + comm + "</td>" +
-    "<td>" + reaff + "</td>" +
-    "<td>" + upd + "</td>" +
-    "<td>" + changed + "</td>" +
-    "<td>" + doiurl + "</td>" +
+    "<td>" + cvtdate(reaff) + "</td>" +
+    "<td>" + cvtdate(upd) + "</td>" +
+    "<td>" + cvtdate(changed) + "</td>" +
+    "<td><a href=https://doi.org/" + DOI + ">DOI link</a></td>" +
     "<td class=\"kwclass\">" + kw + "</td>" +
     "</tr>";
     doiurl = ""
   }
   document.getElementById("demo").innerHTML = table;
-  document.getElementById("lastupdated").innerHTML = xml.getResponseHeader("Last-Modified");
+var dtstr = xml.getResponseHeader("Last-Modified");
+    var lstmd = new Date(dtstr);
+document.getElementById("lastupdated").innerHTML = "Last updated: " + lstmd.getFullYear() + "-" + ("0" + (lstmd.getMonth() + 1)).slice(-2) + "-" + ("0" + lstmd.getDate()).slice(-2);
 }
 </script>
-
 </body>
 </html>
