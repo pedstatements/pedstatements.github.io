@@ -27,7 +27,11 @@ color: black;
 }
 td.kwclass {
 font-size: 10px;
+display: none;
 }
+th.kwclass {
+display: none;
+    }
 td.namclass {
 font-weight: bold;
 width: 33%;
@@ -52,6 +56,7 @@ a:active {
 <div style="font-weight: bold; font-size: 24px; text-align: center;">Pedstatements</div><br>
 <div style="text-align: center;">This site is not affiliated with the Canadian Pediatric Society.</div>
 <div style="text-align: center;" id="lastupdated"></div>
+<div style="text-align: center;">Show statement keywords :<input type="checkbox" id="kwbox" name="kwbox" value="off" onchange="toggleKeywords()"></div>
 <table id="demo"></table>
 
 <script>
@@ -98,7 +103,27 @@ function cvtdate(str) {
 function loadTable(xml) {
   var i;
   var xmlDoc = xml.responseXML;
-  var table = "<thead><tr><th>Upload Date</th><th>Statement Name</th><th>Committees</th><th>Reaffirmed Date</th><th>Last Official Update</th><th>Last Changed</th><th>Journal Article</th><th>Keywords</th></tr></thead>";
+  var table = 
+    "<colgroup>" +
+        "<col id=\"updt\">" +
+        "<col id=\"stnm\">" +
+        "<col id=\"cmte\">" +
+        "<col id=\"rfdt\">" +
+        "<col id=\"ofup\">" +
+        "<col id=\"ltch\">" +
+        "<col id=\"jnar\">" +
+        "<col id=\"kywd\">" +
+      "</colgroup>" +
+      "<tr>" +
+          "<th onclick=\"sortTable(0)\">Upload Date</th>" +
+          "<th onclick=\"sortTable(1)\">Statement Name</th>" +
+          "<th onclick=\"sortTable(2)\">Committees</th>" +
+          "<th onclick=\"sortTable(3)\">Reaffirmed Date</th>" +
+          "<th onclick=\"sortTable(4)\">Last Official Update</th>" +
+          "<th onclick=\"sortTable(5)\">Last Changed</th>" +
+          "<th onclick=\"sortTable(6)\">Journal Article</th>" +
+          "<th class=\"kwclass\" onclick=\"sortTable(7)\">Keywords</th>" +
+      "</tr>";
   var x = xmlDoc.getElementsByTagName("statement");
   var posted;
   var nam;
@@ -121,17 +146,19 @@ function loadTable(xml) {
     changed = gebtn(x[i].getElementsByTagName("changed"));
     DOI = gebtn(x[i].getElementsByTagName("DOI"));
     kw = gebtn(x[i].getElementsByTagName("kwrd"));
-    
-    
+    if (DOI.length > 0) {
+        doiurl = "<a href=https://doi.org/" + DOI + ">DOI link</a>";
+    }
+      
     table += "<tr>" +
-    "<td>" + cvtdate(posted) + "</td>" +
-    "<td class=\"namclass\"><a href=https://www.cps.ca/documents/position/" + shortlink + ">" + nam + "</a></td>" +
-    "<td>" + comm + "</td>" +
-    "<td>" + cvtdate(reaff) + "</td>" +
-    "<td>" + cvtdate(upd) + "</td>" +
-    "<td>" + cvtdate(changed) + "</td>" +
-    "<td><a href=https://doi.org/" + DOI + ">DOI link</a></td>" +
-    "<td class=\"kwclass\">" + kw + "</td>" +
+        "<td>" + cvtdate(posted) + "</td>" +
+        "<td class=\"namclass\"><p style=\"display: none;\">" + nam + "</p><a href=https://www.cps.ca/documents/position/" + shortlink + ">" + nam + "</a></td>" +
+        "<td>" + comm + "</td>" +
+        "<td>" + cvtdate(reaff) + "</td>" +
+        "<td>" + cvtdate(upd) + "</td>" +
+        "<td>" + cvtdate(changed) + "</td>" +
+        "<td>" + doiurl + "</td>" +
+        "<td class=\"kwclass\">" + kw + "</td>" +
     "</tr>";
     doiurl = ""
   }
@@ -139,6 +166,79 @@ function loadTable(xml) {
 var dtstr = xml.getResponseHeader("Last-Modified");
     var lstmd = new Date(dtstr);
 document.getElementById("lastupdated").innerHTML = "Last updated: " + lstmd.getFullYear() + "-" + ("0" + (lstmd.getMonth() + 1)).slice(-2) + "-" + ("0" + lstmd.getDate()).slice(-2);
+}
+
+function toggleKeywords() {
+   var x = document.getElementsByClassName('kwclass');
+   if (document.getElementById('kwbox').checked == true) {
+     console.log("checked");
+     var i;
+       for (i = 0; i < x.length; i++) {
+           x[i].style.display = 'table-cell';
+       }
+   } else {
+     console.log("unchecked");
+     var j;
+       for (j = 0; j < x.length; j++) {
+           x[j].style.display = 'none';
+       }
+   }
+    
+}
+    
+function sortTable(n) {
+  var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+  table = document.getElementById("demo");
+  switching = true;
+  //Set the sorting direction to ascending:
+  dir = "asc"; 
+  /*Make a loop that will continue until
+  no switching has been done:*/
+  while (switching) {
+    //start by saying: no switching is done:
+    switching = false;
+    rows = table.rows;
+    /*Loop through all table rows (except the
+    first, which contains table headers):*/
+    for (i = 1; i < (rows.length - 1); i++) {
+      //start by saying there should be no switching:
+      shouldSwitch = false;
+      /*Get the two elements you want to compare,
+      one from current row and one from the next:*/
+      x = rows[i].getElementsByTagName("TD")[n];
+      y = rows[i + 1].getElementsByTagName("TD")[n];
+      /*check if the two rows should switch place,
+      based on the direction, asc or desc:*/
+      if (dir == "asc") {
+        if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+          //if so, mark as a switch and break the loop:
+          shouldSwitch= true;
+          break;
+        }
+      } else if (dir == "desc") {
+        if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+          //if so, mark as a switch and break the loop:
+          shouldSwitch = true;
+          break;
+        }
+      }
+    }
+    if (shouldSwitch) {
+      /*If a switch has been marked, make the switch
+      and mark that a switch has been done:*/
+      rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+      switching = true;
+      //Each time a switch is done, increase this count by 1:
+      switchcount ++;      
+    } else {
+      /*If no switching has been done AND the direction is "asc",
+      set the direction to "desc" and run the while loop again.*/
+      if (switchcount == 0 && dir == "asc") {
+        dir = "desc";
+        switching = true;
+      }
+    }
+  }
 }
 </script>
 </body>
