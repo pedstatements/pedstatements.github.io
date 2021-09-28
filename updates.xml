@@ -1,0 +1,659 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <statement ID="fluoride-use">
+    <update />
+  </statement>
+  <statement ID="guidelines-for-genetic-testing-of-healthy-children">
+    <update />
+  </statement>
+  <statement ID="dieting-adolescence">
+    <update />
+  </statement>
+  <statement ID="primary-nocturnal-enuresis">
+    <update />
+  </statement>
+  <statement ID="perinatal-brachial-plexus-palsy">
+    <update />
+  </statement>
+  <statement ID="prevention-management-pain-neonate">
+    <update />
+  </statement>
+  <statement ID="hyperbilirubinemia-newborn">
+    <update />
+  </statement>
+  <statement ID="vitamin-d">
+    <update />
+  </statement>
+  <statement ID="transition-youth-special-needs">
+    <update />
+  </statement>
+  <statement ID="harm-reduction-risky-health-behaviours">
+    <update />
+  </statement>
+  <statement ID="multidisciplinary-guidelines-abusive-head-trauma">
+    <update />
+  </statement>
+  <statement ID="ethical-issues-in-health-research-in-children">
+    <update />
+  </statement>
+  <statement ID="advance-care-planning">
+    <update />
+  </statement>
+  <statement ID="children-vision-screening">
+    <update />
+  </statement>
+  <statement ID="congenital-syphilis">
+    <update />
+  </statement>
+  <statement ID="anorexia-nervosa-family-based-treatment">
+    <update />
+  </statement>
+  <statement ID="child-growth-charts">
+    <update />
+  </statement>
+  <statement ID="HIV-exposed-and-HIV-infected-children">
+    <update />
+  </statement>
+  <statement ID="inhalant-abuse">
+    <update />
+  </statement>
+  <statement ID="emergency-treatment-anaphylaxis">
+    <update />
+  </statement>
+  <statement ID="harmonized-immunization-schedule-Canada">
+    <update />
+  </statement>
+  <statement ID="methicillin-resistant-Staphylococcus-aureus-skin-abscesses">
+    <update />
+  </statement>
+  <statement ID="endotracheal-intubation-newborn">
+    <update />
+  </statement>
+  <statement ID="withholding-withdrawing-artificial-nutrition-hydration">
+    <update />
+  </statement>
+  <statement ID="participation-medical-education">
+    <update />
+  </statement>
+  <statement ID="universal-hearing-screening-newborns">
+    <update />
+  </statement>
+  <statement ID="sexual-abuse-youth-disability-chronic-condition">
+    <update />
+  </statement>
+  <statement ID="positional-plagiocephaly">
+    <update />
+  </statement>
+  <statement ID="treating-cough-cold">
+    <update />
+  </statement>
+  <statement ID="drug-research-and-treatment">
+    <update />
+  </statement>
+  <statement ID="early-childhood-development">
+    <update />
+  </statement>
+  <statement ID="functional-constipation">
+    <update />
+  </statement>
+  <statement ID="enhanced-well-baby-visit">
+    <update />
+  </statement>
+  <statement ID="skiing-snowboarding-injury">
+    <update />
+  </statement>
+  <statement ID="preventing-choking-suffocation-children">
+    <update />
+  </statement>
+  <statement ID="sychosocial-child-adolescent-obesity">
+    <update />
+  </statement>
+  <statement ID="kangaroo-care-for-preterm-infant">
+    <update />
+  </statement>
+  <statement ID="physical-activity-guidelines">
+    <update />
+  </statement>
+  <statement ID="management-acute-asthma-exacerbation">
+    <update />
+  </statement>
+  <statement ID="baby-friendly-initiative-breastfeeding">
+    <update />
+  </statement>
+  <statement ID="melatonin-sleep-disorders-children-adolescents">
+    <update />
+  </statement>
+  <statement ID="preventing-injury-from-atvs">
+    <update />
+  </statement>
+  <statement ID="unintentional-injuries-indigenous-children-youth">
+    <update />
+  </statement>
+  <statement ID="community-associated-MRSA-in-Indigenous-communities">
+    <update />
+  </statement>
+  <statement ID="toddler-preschooler-who-does-not-eat">
+    <update />
+  </statement>
+  <statement ID="toddler-falling-off-the-growth-chart">
+    <update />
+  </statement>
+  <statement ID="child-and-youth-injury-prevention">
+    <update />
+  </statement>
+  <statement ID="bodychecking-ice-hockey">
+    <update />
+  </statement>
+  <statement ID="probiotics-in-the-paediatric-population">
+    <update />
+  </statement>
+  <statement ID="oral-health-care-for-children">
+    <update />
+  </statement>
+  <statement ID="acute-otitis-externa">
+    <update />
+  </statement>
+  <statement ID="minimizing-infection-risks-after-paediatric-organ-transplant">
+    <update />
+  </statement>
+  <statement ID="weaning-from-the-breast">
+    <update />
+  </statement>
+  <statement ID="sport-nutrition-for-young-athletes">
+    <update />
+  </statement>
+  <statement ID="nutrition-healthy-term-infants-overview">
+    <update />
+  </statement>
+  <statement ID="paediatric-patient-with-acute-head-trauma">
+    <update />
+  </statement>
+  <statement ID="health-care-needs-of-street-involved-youth">
+    <update />
+  </statement>
+  <statement ID="azithromycin-use-in-paediatrics">
+    <update />
+  </statement>
+  <statement ID="mental-health-children-and-youth-of-separating-parents">
+    <update />
+  </statement>
+  <statement ID="medical-assessment-of-bruising">
+    <update />
+  </statement>
+  <statement ID="importance-of-child-and-youth-death-review">
+    <update />
+  </statement>
+  <statement ID="use-of-SSRIs-for-child-adolescent-mental-illness">
+    <update />
+  </statement>
+  <statement ID="bike-helmets-to-reduce-risk-of-head-injury">
+    <update />
+  </statement>
+  <statement ID="facilitating-discharge-of-the-preterm-infant">
+    <update />
+  </statement>
+  <statement ID="clostridium-difficile-in-paediatric-populations">
+    <update />
+  </statement>
+  <statement ID="health-research-first-nations-inuit-metis-children">
+    <update />
+  </statement>
+  <statement ID="red-blood-cell-transfusion-newborn-infants">
+    <update />
+  </statement>
+  <statement ID="antimicrobial-stewardship">
+    <update />
+  </statement>
+  <statement ID="urinary-tract-infections-in-children">
+    <update />
+  </statement>
+  <statement ID="preventing-mosquito-and-tick-bites">
+    <update />
+  </statement>
+  <statement ID="bronchiolitis">
+    <update />
+  </statement>
+  <statement ID="nutrition-healthy-term-infants-6-to-24-months">
+    <update />
+  </statement>
+  <statement ID="prophylactic-antibiotics-recurrent-urinary-tract-infections">
+    <update />
+  </statement>
+  <statement ID="type-1-diabetes-in-school">
+    <update />
+  </statement>
+  <statement ID="ophthalmia-neonatorum">
+    <update />
+  </statement>
+  <statement ID="ankyloglossia-breastfeeding">
+    <update />
+  </statement>
+  <statement ID="interfacility-transport-of-critically-ill-newborns">
+    <update />
+  </statement>
+  <statement ID="suicidal-ideation-and-behaviour">
+    <update />
+  </statement>
+  <statement ID="preventing-hospitalizations-for-rsv-infections">
+    <update />
+  </statement>
+  <statement ID="circumcision">
+    <update />
+  </statement>
+  <statement ID="scabies">
+    <update />
+  </statement>
+  <statement ID="housing-need">
+    <update />
+  </statement>
+  <statement ID="asthma-in-preschoolers">
+    <update />
+  </statement>
+  <statement ID="minimizing-blood-loss">
+    <update />
+  </statement>
+  <statement ID="acute-otitis-media">
+    <update />
+  </statement>
+  <statement ID="medical-use-of-cannabis">
+    <update />
+  </statement>
+  <statement ID="retinopathy-of-prematurity-screening">
+    <update />
+  </statement>
+  <statement ID="mental-health-problems-neuromotor-disabilities">
+    <update />
+  </statement>
+  <statement ID="folate">
+    <update />
+  </statement>
+  <statement ID="infant-car-seat-challenge">
+    <update />
+  </statement>
+  <statement ID="smoking-cessation">
+    <update />
+  </statement>
+  <statement ID="preventing-smoking">
+    <update />
+  </statement>
+  <statement ID="adolescent-parents">
+    <update />
+  </statement>
+  <statement ID="greig-health-record-technical-report">
+    <update />
+  </statement>
+  <statement ID="greig-executive-summary">
+    <update />
+  </statement>
+  <statement ID="Zika-virus">
+    <update />
+  </statement>
+  <statement ID="military-families">
+    <update />
+  </statement>
+  <statement ID="cannabis-children-and-youth">
+    <update />
+  </statement>
+  <statement ID="acute-management-of-croup">
+    <update />
+  </statement>
+  <statement ID="management-infant-sepsis">
+    <update />
+  </statement>
+  <statement ID="vaccine-safety-system">
+    <update />
+  </statement>
+  <statement ID="rotavirus-vaccines">
+    <update />
+  </statement>
+  <statement ID="neonatal-resuscitation-guidelines">
+    <update />
+  </statement>
+  <statement ID="paediatric-practitioners-and-industry">
+    <update />
+  </statement>
+  <statement ID="management-anticipated-extremely-preterm-birth">
+    <update />
+  </statement>
+  <statement ID="tobacco-aboriginal-people">
+    <update />
+  </statement>
+  <statement ID="energy-and-sports-drinks">
+    <update />
+  </statement>
+  <statement ID="disruptive-behaviour">
+    <update />
+  </statement>
+  <statement ID="screen-time-and-young-children">
+    <update />
+  </statement>
+  <statement ID="pulse-oximetry-screening">
+    <update />
+  </statement>
+  <statement ID="invasive-meningococcal-vaccination">
+    <update />
+  </statement>
+  <statement ID="head-lice">
+    <update />
+  </statement>
+  <statement ID="the-prevention-of-firearm-injuries-in-canadian-youth">
+    <update />
+  </statement>
+  <statement ID="rapid-response-systems-for-paediatrics">
+    <update />
+  </statement>
+  <statement ID="cross-cultural-communication">
+    <update />
+  </statement>
+  <statement ID="fractures-in-suspected-child-maltreatment">
+    <update />
+  </statement>
+  <statement ID="medical-decision-making-in-paediatrics-infancy-to-adolescence">
+    <update />
+  </statement>
+  <statement ID="medical-assistance-in-dying">
+    <update />
+  </statement>
+  <statement ID="perinatal-loss">
+    <update />
+  </statement>
+  <statement ID="goal-weights">
+    <update />
+  </statement>
+  <statement ID="nasal-cannula">
+    <update />
+  </statement>
+  <statement ID="opioids-during-pregnancy">
+    <update />
+  </statement>
+  <statement ID="immunization-of-the-immunocompromised-child-key-principles">
+    <update />
+  </statement>
+  <statement ID="gastrostomy-tube-feeding">
+    <update />
+  </statement>
+  <statement ID="hypothermia-for-newborns">
+    <update />
+  </statement>
+  <statement ID="HPV">
+    <update />
+  </statement>
+  <statement ID="contraceptive-care">
+    <update />
+  </statement>
+  <statement ID="fever-in-the-returning-child-traveller">
+    <update />
+  </statement>
+  <statement ID="strategies-to-improve-childhood-immunization">
+    <update />
+  </statement>
+  <statement ID="imaging-the-term-neonatal-brain">
+    <update />
+  </statement>
+  <statement ID="osteoarticular-infections-in-children">
+    <update />
+  </statement>
+  <statement ID="stinging-insect-hypersensitivity">
+    <update />
+  </statement>
+  <statement ID="exclusion-policies-for-chickenpox">
+    <update />
+  </statement>
+  <statement ID="vitamin-k-prophylaxis-in-newborns">
+    <update />
+  </statement>
+  <statement ID="evaluation-of-the-child-with-global-developmental-delay-and-intellectual-disability">
+    <update />
+  </statement>
+  <statement ID="working-with-vaccine-hesitant-parents">
+    <update />
+  </statement>
+  <statement ID="vaccine-hesitancy-in-immunization-programs">
+    <update />
+  </statement>
+  <statement ID="antiviral-drugs-for-influenza">
+    <update />
+  </statement>
+  <statement ID="adhd-etiology-diagnosis-and-comorbidity">
+    <update />
+  </statement>
+  <statement ID="adhd-2-treatment">
+    <update />
+  </statement>
+  <statement ID="adhd-comorbid-asd-id-or-prematurity">
+    <update />
+  </statement>
+  <statement ID="immune-thrombocytopenia">
+    <update />
+  </statement>
+  <statement ID="pneumonia-management-children-youth">
+    <update />
+  </statement>
+  <statement ID="needle-stick-injuries-in-the-community">
+    <update />
+  </statement>
+  <statement ID="infection-prevention-and-control-in-paediatric-office-settings">
+    <update />
+  </statement>
+  <statement ID="facilitating-discharge-from-hospital-of-the-healthy-term-infant">
+    <update />
+  </statement>
+  <statement ID="salmonella-infections-in-canadian-children">
+    <update />
+  </statement>
+  <statement ID="approaches-to-detecting-tuberculosis-in-children-and-youth">
+    <update />
+  </statement>
+  <statement ID="acute-hyponatremia-in-hospitalized-children-and-youth">
+    <update />
+  </statement>
+  <statement ID="complicated-pneumonia-empyema">
+    <update />
+  </statement>
+  <statement ID="oral-ondansetron">
+    <update />
+  </statement>
+  <statement ID="paediatric-basic-advanced-life-support">
+    <update />
+  </statement>
+  <statement ID="allergenic-solids">
+    <update />
+  </statement>
+  <statement ID="hiv-in-pregnancy">
+    <update />
+  </statement>
+  <statement ID="vaccine-preventable-diseases">
+    <update />
+  </statement>
+  <statement ID="invasive-group-a-streptococcal-disease">
+    <update />
+  </statement>
+  <statement ID="universal-access-to-no-cost-contraception-for-youth-in-canada">
+    <update />
+  </statement>
+  <statement ID="digital-media">
+    <update />
+  </statement>
+  <statement ID="antifungal-agents-common-infections">
+    <update />
+  </statement>
+  <statement ID="immunocompromised-child">
+    <update />
+  </statement>
+  <statement ID="neuroprotection">
+    <update />
+  </statement>
+  <statement ID="lead-toxicity">
+    <update />
+  </statement>
+  <statement ID="positive-parenting">
+    <update />
+  </statement>
+  <statement ID="improving-paediatric-medications">
+    <update />
+  </statement>
+  <statement ID="global-climate-change">
+    <update />
+  </statement>
+  <statement ID="pharmacare">
+    <update />
+  </statement>
+  <statement ID="asd-diagnostic-assessment">
+    <update />
+  </statement>
+  <statement ID="asd-post-diagnostic-management">
+    <update />
+  </statement>
+  <statement ID="asd-early-detection">
+    <update />
+  </statement>
+  <statement ID="managing-pain-and-distress">
+    <update />
+  </statement>
+  <statement ID="preventing-treating-infections-in-children-with-asplenia">
+    <update />
+  </statement>
+  <statement ID="sexually-transmitted-infections">
+    <update />
+  </statement>
+  <statement ID="newborns-at-risk-for-low-blood-glucose">
+    <update />
+  </statement>
+  <statement ID="iron-requirements">
+    <update />
+  </statement>
+  <statement ID="tuberculosis-among-first-nations-inuit-and-metis-children-and-youth">
+    <update />
+  </statement>
+  <statement ID="school-nutrition-support">
+    <update />
+  </statement>
+  <statement ID="dietary-intake-of-sodium-by-children">
+    <update />
+  </statement>
+  <statement ID="beta-lactam-allergy">
+    <update />
+  </statement>
+  <statement ID="tax-on-sugar-sweetened-beverages">
+    <update />
+  </statement>
+  <statement ID="prevention-management-neonatal-herpes-simplex-virus-infections">
+    <update />
+  </statement>
+  <statement ID="nutritional-evaluation-of-the-neurologically-impaired-child">
+    <update />
+  </statement>
+  <statement ID="current-epidemiology-and-guidance-for-covid-19-march-2020">
+    <update />
+  </statement>
+  <statement ID="paediatric-asthma-and-covid-19">
+    <update />
+  </statement>
+  <statement ID="nicu-care-for-infants-born-to-mothers-with-suspected-or-proven-covid-19">
+    <update />
+  </statement>
+  <statement ID="delivery-room-considerations-infants-born-to-mothers-with-suspected-or-proven-covid-19">
+    <update />
+  </statement>
+  <statement ID="breastfeeding-when-mothers-have-suspected-or-proven-covid-19">
+    <update />
+  </statement>
+  <statement ID="the-medical-evaluation-of-pre-pubertal-children-with-suspected-sexual-abuse">
+    <update />
+  </statement>
+  <statement ID="the-acute-management-of-paediatric-coronavirus-disease-2019covid-19">
+    <update />
+  </statement>
+  <statement ID="update-on-covid-19-epidemiology-and-impact-on-medical-care-in-children-april-2020">
+    <update />
+  </statement>
+  <statement ID="what-paediatricians-can-do-to-support-children-and-youth-during-the-covid-19">
+    <update />
+  </statement>
+  <statement ID="counselling-adolescents-parents-about-cannabis-primer-for-health-professionals">
+    <update />
+  </statement>
+  <statement ID="the-role-of-dietary-fibre-and-prebiotics-in-the-paediatric-diet">
+    <update />
+  </statement>
+  <statement ID="routine-imaging-of-preterm-neonatal-brain">
+    <update />
+  </statement>
+  <statement ID="pims">
+    <update />
+  </statement>
+  <statement ID="lyme-disease-children">
+    <update />
+  </statement>
+  <statement ID="postnatal-corticosteroids-to-prevent-or-treat-bronchopulmonary-dysplasia-in-preterm-infants">
+    <update />
+  </statement>
+  <statement ID="diagnosis-and-management-of-sepsis-in-the-paediatric-patient">
+    <update />
+  </statement>
+  <statement ID="update-on-congenital-cytomegalovirus-infection-prenatal-prevention-newborn-diagnosis-and-management">
+    <update />
+  </statement>
+  <statement ID="comprehensive-care-of-the-ambulatory-child-with-cerebral-palsy-gmfcs-i-and-ii-a-canadian-perspective">
+    <update />
+  </statement>
+  <statement ID="vaccine-recommendations-2020-2021-influenza-season">
+    <update />
+  </statement>
+  <statement ID="management-of-bacterial-meningitis">
+    <update />
+  </statement>
+  <statement ID="medication-safety-for-children-with-medical-complexity">
+    <update />
+  </statement>
+  <statement ID="comprehensive-sexual-health-assessments-for-adolescents">
+    <update />
+  </statement>
+  <statement ID="pasteurized-and-unpasteurized-donor-human-milk">
+    <update />
+  </statement>
+  <statement ID="read-speak-sing-promoting-literacy">
+    <update />
+  </statement>
+  <statement ID="guidelines-for-surfactant-replacement-therapy-in-neonates">
+    <update />
+  </statement>
+  <statement ID="emergency-management-of-the-paediatric-patient-with-convulsive-status-epilepticus">
+    <update />
+  </statement>
+  <statement ID="the-use-of-oral-opioids-to-control-childrens-pain-in-the-post-codeine-era">
+    <update />
+  </statement>
+  <statement ID="recommendations-for-procedural-sedation-in-infants-children-and-adolescents">
+    <update />
+  </statement>
+  <statement ID="protecting-children-and-adolescents-against-the-risks-of-vaping">
+    <update />
+  </statement>
+  <statement ID="non-ige-mediated-food-allergy-evaluation-and-management">
+    <update />
+  </statement>
+  <statement ID="early-childhood-caries">
+    <update />
+  </statement>
+  <statement ID="covid-19-vaccine-for-children">
+    <update />
+  </statement>
+  <statement ID="adrenal-suppression">
+    <update />
+  </statement>
+  <statement ID="selective-serotonin">
+    <update />
+  </statement>
+  <statement ID="group-a-streptococcal">
+    <update />
+  </statement>
+  <statement ID="clinical-guidance-for-youth-with-myocarditis-and-pericarditis">
+    <update Date="2021-09-01">Posted</update>
+    <update Date="2021-09-15">Added Moderna vaccine (previously only identified "Pfizer-BioNTech BNT162b2")</update>
+    <update Date="2021-09-16">Added Marina Salvadori as author</update>
+  </statement>
+  <statement ID="developmental-coordination-disorder">
+    <update />
+  </statement>
+</root>
