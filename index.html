@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
 </head>
+<base target="_blank">
 <style>
 body {
 background-color: navy;
@@ -12,18 +13,25 @@ color: white;
 }
 th,td {
 border : 1px solid navy;
-padding: 5px;
+padding: 2.8px;
+    line-height: 22.4px;
+}
+th {
+background-color: white;
 }
 tr:nth-child(even) {
 background-color: #f0faff;
 }
-tr:hover {
+tr.tablerows:hover {
 background-color: white;
 }
 table {
+clear:both;
 background-color: #f0ffff;
-    border-collapse: collapse;
+border-collapse: collapse;
 color: black;
+box-shadow: 0px 0px 10px 2px rgba(255, 255, 255, 0.5);
+margin: 4px;
 }
 td.kwclass {
 font-size: 10px;
@@ -31,7 +39,10 @@ display: none;
 }
 th.kwclass {
 display: none;
-    }
+}
+td.dateclass,td.doiclass {
+text-align: center;
+}
 td.namclass {
 font-weight: bold;
 width: 33%;
@@ -51,14 +62,50 @@ a:active {
   color: orange;
     text-decoration: none;
 }
+#twitlink {
+font-weight: bold;
+font-size: 14px;
+}
+#twitlink:link {
+  color: azure;
+text-decoration: none;
+}
+#twitlink:visited {
+  color: #663399;
+text-decoration: none;
+}
+#twitlink:hover {
+text-decoration: underline;
+}
+#twitlink:active {
+  color: orange;
+    text-decoration: none;
+}
+p.pclass {
+display: inline;
+font-size: 18px;
+}
+#updt:hover > #ar0 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
+#stnm:hover > #ar1 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
+#cmte:hover > #ar2 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
+#rfdt:hover > #ar3 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
+#ofup:hover > #ar4 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
+#ltch:hover > #ar5 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
+#jnar:hover > #ar6 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
+#kywd:hover > #ar7 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
 </style>
 <body>
-<div style="font-weight: bold; font-size: 24px; text-align: center;">Pedstatements</div><br>
-<div style="text-align: center;">This site is not affiliated with the Canadian Pediatric Society.</div>
-<div style="text-align: center;" id="lastupdated"></div>
-<div style="text-align: center;">Show statement keywords :<input type="checkbox" id="kwbox" name="kwbox" value="off" onchange="toggleKeywords()"></div>
-<table id="demo"></table>
+<div style="font-weight: bold; font-size: 24px; text-align: center;">Pedstatements</div>
 
+<br>
+<div style="text-align: center; font-size: 12px">A curated database of current Canadian Pediatric Society guidelines and position statements.</div>
+<div style="text-align: center; font-size: 12px">Follow <a id="twitlink" href="https://twitter.com/pedstatements">@pedstatements</a> on Twitter for new statements and latest updates to current guidelines.</div>
+<div style="float: left;" id="lastupdated"></div>
+<div style="float: right;">Show statement keywords :<input type="checkbox" id="kwbox" name="kwbox" value="off" onchange="toggleKeywords()">&nbsp;</div>
+
+<table id="demo"></table>
+<br>
+<div style="text-align: center;">This site is not affiliated with the Canadian Pediatric Society.</div>
 <script>
     loadXMLDoc()
 
@@ -104,25 +151,15 @@ function loadTable(xml) {
   var i;
   var xmlDoc = xml.responseXML;
   var table = 
-    "<colgroup>" +
-        "<col id=\"updt\">" +
-        "<col id=\"stnm\">" +
-        "<col id=\"cmte\">" +
-        "<col id=\"rfdt\">" +
-        "<col id=\"ofup\">" +
-        "<col id=\"ltch\">" +
-        "<col id=\"jnar\">" +
-        "<col id=\"kywd\">" +
-      "</colgroup>" +
       "<tr>" +
-          "<th onclick=\"sortTable(0)\">Upload Date</th>" +
-          "<th onclick=\"sortTable(1)\">Statement Name</th>" +
-          "<th onclick=\"sortTable(2)\">Committees</th>" +
-          "<th onclick=\"sortTable(3)\">Reaffirmed Date</th>" +
-          "<th onclick=\"sortTable(4)\">Last Official Update</th>" +
-          "<th onclick=\"sortTable(5)\">Last Changed</th>" +
-          "<th onclick=\"sortTable(6)\">Journal Article</th>" +
-          "<th class=\"kwclass\" onclick=\"sortTable(7)\">Keywords</th>" +
+          "<th onclick=\"sortTable(0)\" id=\"updt\">Upload Date <p class=\"pclass\" id=\"ar0\">⇵</p></th>" +
+          "<th onclick=\"sortTable(1)\" id=\"stnm\">Statement Name <p class=\"pclass\" id=\"ar1\">⇵</p></th>" +
+          "<th onclick=\"sortTable(2)\" id=\"cmte\">Committees <p class=\"pclass\" id=\"ar2\">⇵</p></th>" +
+          "<th onclick=\"sortTable(3)\" id=\"rfdt\">Reaffirmed Date <p class=\"pclass\" id=\"ar3\">⇵</p></th>" +
+          "<th onclick=\"sortTable(4)\" id=\"ofup\">Last Official Update <p class=\"pclass\" id=\"ar4\">⇵</p></th>" +
+          "<th onclick=\"sortTable(5)\" id=\"ltch\">Last Changed <p class=\"pclass\" id=\"ar5\">⇵</p></th>" +
+          "<th onclick=\"sortTable(6)\" id=\"jnar\">Journal Article <p class=\"pclass\" id=\"ar6\">⇵</p></th>" +
+          "<th class=\"kwclass\" onclick=\"sortTable(7)\" id=\"kywd\">Keywords <p class=\"pclass\" id=\"ar7\">⇵</p></th>" +
       "</tr>";
   var x = xmlDoc.getElementsByTagName("statement");
   var posted;
@@ -147,17 +184,17 @@ function loadTable(xml) {
     DOI = gebtn(x[i].getElementsByTagName("DOI"));
     kw = gebtn(x[i].getElementsByTagName("kwrd"));
     if (DOI.length > 0) {
-        doiurl = "<a href=https://doi.org/" + DOI + ">DOI link</a>";
+        doiurl = "<a href=https://doi.org/" + DOI + ">DOI</a>";
     }
       
-    table += "<tr>" +
-        "<td>" + cvtdate(posted) + "</td>" +
+    table += "<tr class=\"tablerows\">" +
+        "<td class=\"dateclass\">" + cvtdate(posted) + "</td>" +
         "<td class=\"namclass\"><p style=\"display: none;\">" + nam + "</p><a href=https://www.cps.ca/documents/position/" + shortlink + ">" + nam + "</a></td>" +
-        "<td>" + comm + "</td>" +
-        "<td>" + cvtdate(reaff) + "</td>" +
-        "<td>" + cvtdate(upd) + "</td>" +
-        "<td>" + cvtdate(changed) + "</td>" +
-        "<td>" + doiurl + "</td>" +
+        "<td class=\"commclass\">" + comm + "</td>" +
+        "<td class=\"dateclass\">" + cvtdate(reaff) + "</td>" +
+        "<td class=\"dateclass\">" + cvtdate(upd) + "</td>" +
+        "<td class=\"dateclass\">" + cvtdate(changed) + "</td>" +
+        "<td class=\"doiclass\">" + doiurl + "</td>" +
         "<td class=\"kwclass\">" + kw + "</td>" +
     "</tr>";
     doiurl = ""
@@ -165,7 +202,7 @@ function loadTable(xml) {
   document.getElementById("demo").innerHTML = table;
 var dtstr = xml.getResponseHeader("Last-Modified");
     var lstmd = new Date(dtstr);
-document.getElementById("lastupdated").innerHTML = "Last updated: " + lstmd.getFullYear() + "-" + ("0" + (lstmd.getMonth() + 1)).slice(-2) + "-" + ("0" + lstmd.getDate()).slice(-2);
+document.getElementById("lastupdated").innerHTML = "&nbsp;Last updated: " + lstmd.getFullYear() + "-" + ("0" + (lstmd.getMonth() + 1)).slice(-2) + "-" + ("0" + lstmd.getDate()).slice(-2);
 }
 
 function toggleKeywords() {
@@ -187,11 +224,11 @@ function toggleKeywords() {
 }
     
 function sortTable(n) {
-  var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
+    var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
   table = document.getElementById("demo");
   switching = true;
   //Set the sorting direction to ascending:
-  dir = "asc"; 
+  dir = "asc";
   /*Make a loop that will continue until
   no switching has been done:*/
   while (switching) {
@@ -239,6 +276,16 @@ function sortTable(n) {
       }
     }
   }
+    var k = document.getElementsByClassName('pclass');
+    var q;
+       for (q = 0; q < k.length; q++) {
+           k[q].innerHTML = "⇵";
+       }
+if (dir == "asc") {
+    document.getElementById("ar" + n).innerHTML = "⇑";
+} else {
+    document.getElementById("ar" + n).innerHTML = "⇓";
+}
 }
 </script>
 </body>
