@@ -3369,6 +3369,24 @@
     <kwrd>Community paediatrics</kwrd>
   </statement>
   <statement>
+    <name>Vaccine recommendations for children and youth for the 2021/2022 influenza season</name>
+    <shortlink>vaccine-recommendations-2021-2022-influenza-season</shortlink>
+    <posted>01-Oct-21</posted>
+    <Reaffirmed />
+    <updated />
+    <hasupdates>no</hasupdates>
+    <changed>01-Oct-21</changed>
+    <Committee>Infectious Diseases and Immunization Committee</Committee>
+    <DOI />
+    <kwrd>Children</kwrd>
+    <kwrd>COVID-19</kwrd>
+    <kwrd>Influenza vaccine</kwrd>
+    <kwrd>Inactivated influenza vaccine</kwrd>
+    <kwrd>LAIV</kwrd>
+    <kwrd>NACI</kwrd>
+  </statement>
+  <?ignore
+  <statement>
     <name>The management of infants, children, and youth at risk for hepatitis C virus (HCV) infection</name>
     <shortlink>the-management-of-infants-children-and-youth-at-risk-for-hepatitis-c-virus</shortlink>
     <posted>29-Sep-21</posted>
@@ -3383,7 +3401,6 @@
     <kwrd>Hepatitis C virus</kwrd>
     <kwrd>Vertical transmission</kwrd>
   </statement>
-  <?ignore
   <statement>
     <name></name>
     <shortlink></shortlink>
