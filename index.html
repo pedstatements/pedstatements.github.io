@@ -50,6 +50,7 @@ width: 33%;
 }
 a:link {
   color: navy;
+font-weight: bold;
 text-decoration: none;
 }
 a:visited {
@@ -97,7 +98,6 @@ font-size: 18px;
 #ltch:hover > #ar5 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
 #jnar:hover > #ar6 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
 #kywd:hover > #ar7 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
-
 #rtre:hover > #br0 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
 #rtsn:hover > #br1 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
 #rtdp:hover > #br2 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
@@ -110,7 +110,7 @@ font-size: 18px;
 <br>
 <div style="text-align: center; font-size: 12px">A curated database of current Canadian Pediatric Society guidelines and position statements. There are <p id="statnum"></p> active documents.</div>
 <div style="text-align: center; font-size: 12px">Follow <a id="twitlink" href="https://twitter.com/pedstatements">@pedstatements</a> on Twitter for new statements and latest updates to current guidelines.</div>
-<div style="text-align: center; font-size: 12px">Click <a id="retjump" href="#rettitle" target="_self">here</a> to jump to the retired statement list.</div>
+<div style="text-align: center; font-size: 12px">Click <a href="#rettitle" target="_self">here</a> to jump to the retired statement list.</div>
 <div style="float: left;" id="lastupdated"></div>
 <div style="float: right;">Show statement keywords :<input type="checkbox" id="kwbox" name="kwbox" value="off" onchange="toggleKeywords()">&nbsp;</div>
 
@@ -127,7 +127,7 @@ function loadXMLDocs() {
   var satementxml = new XMLHttpRequest();
   satementxml.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-      loadStatementTable(this);
+      loadStatementTable(satementxml);
     }
   };
   satementxml.open("GET", "https://pedstatements.github.io/statements.xml", true);
@@ -136,7 +136,7 @@ function loadXMLDocs() {
   var retiredxml = new XMLHttpRequest();
   retiredxml.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-      loadRetiredTable(this);
+      loadRetiredTable(retiredxml);
     }
   };
   retiredxml.open("GET", "https://pedstatements.github.io/retired.xml", true);
@@ -168,6 +168,16 @@ function cvtdate(str) {
         answer = yr + "-" + nummo2 + "-" + day;
     }
     return(answer);
+}
+
+function checkForUpdates(chngdt, updflag, shtlnk) {
+    var output = "";
+    if (updflag == "yes") {
+        output = "<a href=\"updates.html?" + shtlnk + "\">" + cvtdate(chngdt) + "</a>";
+    } else {
+        output = cvtdate(chngdt);
+    }
+    return output;
 }
     
 function loadStatementTable(xml) {
@@ -203,6 +213,7 @@ function loadStatementTable(xml) {
     comm = gebtn(x[i].getElementsByTagName("Committee"));
     reaff = gebtn(x[i].getElementsByTagName("Reaffirmed"));
     upd = gebtn(x[i].getElementsByTagName("updated"));
+    updflg = gebtn(x[i].getElementsByTagName("hasupdates"));
     changed = gebtn(x[i].getElementsByTagName("changed"));
     DOI = gebtn(x[i].getElementsByTagName("DOI"));
     kw = gebtn(x[i].getElementsByTagName("kwrd"));
@@ -216,7 +227,7 @@ function loadStatementTable(xml) {
         "<td class=\"commclass\">" + comm + "</td>" +
         "<td class=\"dateclass\">" + cvtdate(reaff) + "</td>" +
         "<td class=\"dateclass\">" + cvtdate(upd) + "</td>" +
-        "<td class=\"dateclass\">" + cvtdate(changed) + "</td>" +
+        "<td class=\"dateclass\"><p style=\"display: none;\">" + cvtdate(changed) + "</p>" + checkForUpdates(changed,updflg,shortlink) + "</td>" +
         "<td class=\"doiclass\">" + doiurl + "</td>" +
         "<td class=\"kwclass\">" + kw + "</td>" +
     "</tr>";
