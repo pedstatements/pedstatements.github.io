@@ -2,6 +2,7 @@
 <html>
 <head>
     <meta charset="utf-8">
+    <title>Pedstatements</title>
 </head>
 <base target="_blank">
 <style>
@@ -81,6 +82,9 @@ text-decoration: underline;
   color: orange;
     text-decoration: none;
 }
+p {
+display: inline;
+}
 p.pclass {
 display: inline;
 font-size: 18px;
@@ -93,31 +97,50 @@ font-size: 18px;
 #ltch:hover > #ar5 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
 #jnar:hover > #ar6 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
 #kywd:hover > #ar7 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
+
+#rtre:hover > #br0 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
+#rtsn:hover > #br1 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
+#rtdp:hover > #br2 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
+#rtrd:hover > #br3 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
+#rtja:hover > #br4 { text-shadow: -2px 0 2px navy, 0 2px 2px navy, 2px 0 2px navy, 0 -2px 2px navy; color: azure; }
 </style>
 <body>
 <div style="font-weight: bold; font-size: 24px; text-align: center;">Pedstatements</div>
 
 <br>
-<div style="text-align: center; font-size: 12px">A curated database of current Canadian Pediatric Society guidelines and position statements.</div>
+<div style="text-align: center; font-size: 12px">A curated database of current Canadian Pediatric Society guidelines and position statements. There are <p id="statnum"></p> active documents.</div>
 <div style="text-align: center; font-size: 12px">Follow <a id="twitlink" href="https://twitter.com/pedstatements">@pedstatements</a> on Twitter for new statements and latest updates to current guidelines.</div>
+<div style="text-align: center; font-size: 12px">Click <a id="retjump" href="#rettitle" target="_self">here</a> to jump to the retired statement list.</div>
 <div style="float: left;" id="lastupdated"></div>
 <div style="float: right;">Show statement keywords :<input type="checkbox" id="kwbox" name="kwbox" value="off" onchange="toggleKeywords()">&nbsp;</div>
 
-<table id="demo"></table>
+<table id="statetable"></table>
+<br>
+<div id="rettitle" style="font-weight: bold; font-size: 18px; text-align: center;">Retired Statements</div>
+<table id="rettable"></table>
 <br>
 <div style="text-align: center;">This site is not affiliated with the Canadian Pediatric Society.</div>
 <script>
-    loadXMLDoc()
+    loadXMLDocs()
 
-function loadXMLDoc() {
-  var xmlhttp = new XMLHttpRequest();
-  xmlhttp.onreadystatechange = function() {
+function loadXMLDocs() {
+  var satementxml = new XMLHttpRequest();
+  satementxml.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
-      loadTable(this);
+      loadStatementTable(this);
     }
   };
-  xmlhttp.open("GET", "https://pedstatements.github.io/statements.xml", true);
-  xmlhttp.send();
+  satementxml.open("GET", "https://pedstatements.github.io/statements.xml", true);
+  satementxml.send();
+    
+  var retiredxml = new XMLHttpRequest();
+  retiredxml.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+      loadRetiredTable(this);
+    }
+  };
+  retiredxml.open("GET", "https://pedstatements.github.io/retired.xml", true);
+  retiredxml.send();
 }
 
 function gebtn(tag) {
@@ -147,19 +170,19 @@ function cvtdate(str) {
     return(answer);
 }
     
-function loadTable(xml) {
+function loadStatementTable(xml) {
   var i;
   var xmlDoc = xml.responseXML;
   var table = 
       "<tr>" +
-          "<th onclick=\"sortTable(0)\" id=\"updt\">Upload Date <p class=\"pclass\" id=\"ar0\">⇵</p></th>" +
-          "<th onclick=\"sortTable(1)\" id=\"stnm\">Statement Name <p class=\"pclass\" id=\"ar1\">⇵</p></th>" +
-          "<th onclick=\"sortTable(2)\" id=\"cmte\">Committees <p class=\"pclass\" id=\"ar2\">⇵</p></th>" +
-          "<th onclick=\"sortTable(3)\" id=\"rfdt\">Reaffirmed Date <p class=\"pclass\" id=\"ar3\">⇵</p></th>" +
-          "<th onclick=\"sortTable(4)\" id=\"ofup\">Last Official Update <p class=\"pclass\" id=\"ar4\">⇵</p></th>" +
-          "<th onclick=\"sortTable(5)\" id=\"ltch\">Last Changed <p class=\"pclass\" id=\"ar5\">⇵</p></th>" +
-          "<th onclick=\"sortTable(6)\" id=\"jnar\">Journal Article <p class=\"pclass\" id=\"ar6\">⇵</p></th>" +
-          "<th class=\"kwclass\" onclick=\"sortTable(7)\" id=\"kywd\">Keywords <p class=\"pclass\" id=\"ar7\">⇵</p></th>" +
+          "<th onclick=\"sortTable(0,'statetable')\" id=\"updt\">Upload Date <p class=\"pclass\" id=\"ar0\">⇵</p></th>" +
+          "<th onclick=\"sortTable(1,'statetable')\" id=\"stnm\">Statement Name <p class=\"pclass\" id=\"ar1\">⇵</p></th>" +
+          "<th onclick=\"sortTable(2,'statetable')\" id=\"cmte\">Committees <p class=\"pclass\" id=\"ar2\">⇵</p></th>" +
+          "<th onclick=\"sortTable(3,'statetable')\" id=\"rfdt\">Reaffirmed Date <p class=\"pclass\" id=\"ar3\">⇵</p></th>" +
+          "<th onclick=\"sortTable(4,'statetable')\" id=\"ofup\">Last Official Update <p class=\"pclass\" id=\"ar4\">⇵</p></th>" +
+          "<th onclick=\"sortTable(5,'statetable')\" id=\"ltch\">Last Changed <p class=\"pclass\" id=\"ar5\">⇵</p></th>" +
+          "<th onclick=\"sortTable(6,'statetable')\" id=\"jnar\">Journal Article <p class=\"pclass\" id=\"ar6\">⇵</p></th>" +
+          "<th class=\"kwclass\" onclick=\"sortTable(7,'statetable')\" id=\"kywd\">Keywords <p class=\"pclass\" id=\"ar7\">⇵</p></th>" +
       "</tr>";
   var x = xmlDoc.getElementsByTagName("statement");
   var posted;
@@ -199,22 +222,62 @@ function loadTable(xml) {
     "</tr>";
     doiurl = ""
   }
-  document.getElementById("demo").innerHTML = table;
+  document.getElementById("statetable").innerHTML = table;
 var dtstr = xml.getResponseHeader("Last-Modified");
     var lstmd = new Date(dtstr);
 document.getElementById("lastupdated").innerHTML = "&nbsp;Last updated: " + lstmd.getFullYear() + "-" + ("0" + (lstmd.getMonth() + 1)).slice(-2) + "-" + ("0" + lstmd.getDate()).slice(-2);
+document.getElementById("statnum").innerHTML = x.length;
 }
 
+function loadRetiredTable(xml) {
+  var i;
+  var xmlDoc = xml.responseXML;
+  var table = 
+      "<tr>" +
+          "<th onclick=\"sortTable(0,'rettable')\" id=\"rtre\">Retirement Date <p class=\"pclass\" id=\"br0\">⇵</p></th>" +
+          "<th onclick=\"sortTable(1,'rettable')\" id=\"rtsn\">Statement Name <p class=\"pclass\" id=\"br1\">⇵</p></th>" +
+          "<th onclick=\"sortTable(2,'rettable')\" id=\"rtdp\">Date Posted <p class=\"pclass\" id=\"br2\">⇵</p></th>" +
+          "<th onclick=\"sortTable(3,'rettable')\" id=\"rtrd\">Reaffirmed Date <p class=\"pclass\" id=\"br3\">⇵</p></th>" +
+          "<th onclick=\"sortTable(4,'rettable')\" id=\"rtja\">Journal Article <p class=\"pclass\" id=\"br4\">⇵</p></th>" +
+      "</tr>";
+  var x = xmlDoc.getElementsByTagName("statement");
+  var posted;
+  var nam;
+  var reaff;
+  var retired;
+  var DOI;
+  var doiurl = "";
+
+  for (i = 0; i <x.length; i++) { 
+    posted = gebtn(x[i].getElementsByTagName("posted"));
+    nam = gebtn(x[i].getElementsByTagName("name"));
+    reaff = gebtn(x[i].getElementsByTagName("reaffirmed"));
+    retired = gebtn(x[i].getElementsByTagName("retired"));
+    DOI = gebtn(x[i].getElementsByTagName("DOI"));
+    if (DOI.length > 0) {
+        doiurl = "<a href=https://doi.org/" + DOI + ">DOI</a>";
+    }
+      
+    table += "<tr class=\"tablerows\">" +
+        "<td class=\"dateclass\">" + retired + "</td>" +
+        "<td class=\"namclass\">" + nam + "</td>" +
+        "<td class=\"dateclass\">" + posted + "</td>" +
+        "<td class=\"dateclass\">" + reaff + "</td>" +
+        "<td class=\"doiclass\">" + doiurl + "</td>" +
+    "</tr>";
+    doiurl = ""
+  }
+  document.getElementById("rettable").innerHTML = table;
+}
+    
 function toggleKeywords() {
    var x = document.getElementsByClassName('kwclass');
    if (document.getElementById('kwbox').checked == true) {
-     console.log("checked");
      var i;
        for (i = 0; i < x.length; i++) {
            x[i].style.display = 'table-cell';
        }
    } else {
-     console.log("unchecked");
      var j;
        for (j = 0; j < x.length; j++) {
            x[j].style.display = 'none';
@@ -223,10 +286,10 @@ function toggleKeywords() {
     
 }
     
-function sortTable(n) {
+function sortTable(n, whichtable) {
     var table, rows, switching, i, x, y, shouldSwitch, dir, switchcount = 0;
-  table = document.getElementById("demo");
-  switching = true;
+  table = document.getElementById(whichtable);
+    switching = true;
   //Set the sorting direction to ascending:
   dir = "asc";
   /*Make a loop that will continue until
