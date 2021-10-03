@@ -147,7 +147,7 @@ function loadUpdatesTable(stxml,upxml) {
         posted = gebtn(stnd[i].getElementsByTagName("posted"));
         if (shortlink === queryString) {
             console.log("found");
-            document.getElementById("stattitle").innerHTML = "Updates to \"" + nam + "\"";
+            document.getElementById("stattitle").innerHTML = "Updates to \"<a href=\"https://www.cps.ca/documents/position/" + shortlink + "\">" + nam + "</a>\"";
             var found = true;
             updflg = gebtn(stnd[i].getElementsByTagName("hasupdates"));
             if (updflg === "yes") {
