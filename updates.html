@@ -180,9 +180,9 @@ function loadUpdatesTable(stxml,upxml) {
                 document.getElementById("lowbr").style.display = "none";
                 if (cvtdate(posted) > "2021-09-01") {
                     console.log("newer");
-                    document.getElementById("stattitle").innerHTML = "\"" + nam + "\" has no significant updates.";
+                    document.getElementById("stattitle").innerHTML = "\"<a href=\"https://www.cps.ca/documents/position/" + shortlink + "\">" + nam + "</a>\" has no significant updates.";
                 } else {
-                    document.getElementById("stattitle").innerHTML = "\"" + nam + "\" has no significant updates since 2021-09-01.";  
+                    document.getElementById("stattitle").innerHTML = "\"<a href=\"https://www.cps.ca/documents/position/" + shortlink + "\">" + nam + "</a>\" has no significant updates since 2021-09-01.";  
                 }
             }
         }
