@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Pedstatements</title>
+</head>
+<base target="_blank">
+<style>
+body {
+background-color: navy;
+font-size: 14px;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
+th,td {
+border : 1px solid navy;
+padding: 2.8px;
+    line-height: 22.4px;
+}
+th {
+background-color: white;
+}
+tr:nth-child(even) {
+background-color: #f0faff;
+}
+tr.tablerows:hover {
+background-color: white;
+}
+table {
+clear:both;
+background-color: #f0ffff;
+border-collapse: collapse;
+color: black;
+box-shadow: 0px 0px 10px 2px rgba(255, 255, 255, 0.5);
+margin: 4px;
+margin-left: auto;
+margin-right: auto;
+}
+td.dateclass,td.doiclass {
+text-align: center;
+}
+td.namclass {
+font-weight: bold;
+width: 33%;
+}
+a:link {
+  color: navy;
+font-weight: bold;
+text-decoration: none;
+}
+a:visited {
+  color: #663399;
+    text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+a:active {
+  color: orange;
+    text-decoration: none;
+}
+p {
+display: inline;
+}
+p.pclass {
+display: inline;
+font-size: 18px;
+}
+</style>
+<body>
+<div style="font-weight: bold; font-size: 18px; text-align: center;" id="stattitle"></div>
+
+<br>
+
+<table id="uptable"></table>
+<br id="lowbr">
+<div style="text-align: center;">This site is not affiliated with the Canadian Pediatric Society.</div>
+<script>
+    loadXMLDocs()
+    
+const queryString = window.location.search.slice(1);
+console.log(queryString);
+    
+function loadXMLDocs() {
+  var satementxml = new XMLHttpRequest();
+  satementxml.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        var updatesxml = new XMLHttpRequest();
+        updatesxml.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+                loadUpdatesTable(satementxml, updatesxml);
+            }
+        };
+        updatesxml.open("GET", "https://pedstatements.github.io/updates.xml", true);
+        updatesxml.send();
+    }
+  };
+  satementxml.open("GET", "https://pedstatements.github.io/statements.xml", true);
+  satementxml.send();
+}
+
+function gebtn(tag) {
+    name = "";
+    tot = "";
+    query = tag[0].childNodes;
+    if (query.length > 0) {
+        name = tag[0].childNodes[0].nodeValue;
+        for (i = 1; i < tag.length; i++) { 
+            nxt = tag[i].childNodes[0].nodeValue;
+            name += "; " + nxt;            
+        }
+    }
+    return name;
+}    
+
+function cvtdate(str) {
+    answer = "";
+    if (str.length > 0) {
+        day = str.substring(0,2);
+        letmo = str.substring(3,6);
+        nummo = "JanFebMarAprMayJunJulAugSepOctNovDec".indexOf(letmo) / 3 + 1;
+        nummo2 = ("0" + nummo).slice(-2);
+        yr = "20" + str.substring(7,9);
+        answer = yr + "-" + nummo2 + "-" + day;
+    }
+    return(answer);
+}
+    
+function loadUpdatesTable(stxml,upxml) {
+  var i;
+  var stxmlDoc = stxml.responseXML;
+  var upxmlDoc = upxml.responseXML;
+  var table = 
+      "<tr>" +
+          "<th id=\"chdt\">Date</th>" +
+          "<th id=\"chch\">Change</th>" +
+      "</tr>";
+  var stnd = stxmlDoc.getElementsByTagName("statement");
+  var upnd = upxmlDoc.getElementsByTagName("statement");
+  var shortlink;
+  var nam;
+  var updflg = "no";
+  var found = false;
+  for (i = 0; i <stnd.length; i++) {
+        shortlink = gebtn(stnd[i].getElementsByTagName("shortlink"));
+        nam = gebtn(stnd[i].getElementsByTagName("name"));
+        posted = gebtn(stnd[i].getElementsByTagName("posted"));
+        if (shortlink === queryString) {
+            console.log("found");
+            document.getElementById("stattitle").innerHTML = "Updates to \"" + nam + "\"";
+            var found = true;
+            updflg = gebtn(stnd[i].getElementsByTagName("hasupdates"));
+            if (updflg === "yes") {
+                console.log("has updates");
+                var j;
+                var statid;
+                var updatelist;
+                for (j = 0; j <upnd.length; j++) {
+                  statid = upnd[j].getAttribute("ID");
+                  if (statid === queryString){
+                        updatelist = upnd[j].getElementsByTagName("update");
+                      var k;
+                      var vlu;
+                      var dte;
+                      for (k = (updatelist.length - 1); k > -1; k--) {
+                         vlu = updatelist[k].childNodes[0].nodeValue;
+                         dte = updatelist[k].getAttribute("Date");
+                          
+                            table += "<tr class=\"tablerows\">" +
+                                "<td class=\"dateclass\">" + dte + "</td>" +
+                                "<td class=\"updclass\">" + vlu + "</td>" +
+                                "</tr>";
+                      }
+                  }
+                }
+                document.getElementById("uptable").innerHTML = table;
+            } else {
+                console.log("no updates");
+                document.getElementById("uptable").style.display = "none";
+                document.getElementById("lowbr").style.display = "none";
+                if (cvtdate(posted) > "2021-09-01") {
+                    console.log("newer");
+                    document.getElementById("stattitle").innerHTML = "\"" + nam + "\" has no significant updates.";
+                } else {
+                    document.getElementById("stattitle").innerHTML = "\"" + nam + "\" has no significant updates since 2021-09-01.";  
+                }
+            }
+        }
+  }
+  if (found === false) {
+      console.log("not found");
+      document.getElementById("stattitle").innerHTML = "Statement not found";
+      document.getElementById("uptable").style.display = "none";
+      document.getElementById("lowbr").style.display = "none";
+  }
+}
+    
+</script>
+</body>
+</html>
