@@ -638,6 +638,7 @@
   </statement>
   <statement ID="covid-19-vaccine-for-children">
     <update Date="2021-10-05"><![CDATA[
+        <ul>
         <li>Discusses increased cases in children with delta variant</li>
         <li>Updates data to October 1, 2021</li>
         <li>Comments on adolescents with an infection rate like young adults while having a lower incidence of morbidity</li>
@@ -648,6 +649,7 @@
         <li>Adds discussion about when to vaccinate patients who have had MISC</li>
         <li>Adds that covid vaccines can now be given with other vaccines</li>
         <li>Updates authors</li>
+        </ul>
     ]]></update>
     <update Date="2021-11-02">Updates formatting and grammar</update>
   </statement>
