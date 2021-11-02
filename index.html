@@ -208,7 +208,7 @@ function loadStatementTable(xml) {
   var kw;
   var doiurl = "";
 
-  for (i = 0; i <x.length; i++) { 
+  for (i = (x.length-1); i > -1; i--) { 
     posted = gebtn(x[i].getElementsByTagName("posted"));
     nam = gebtn(x[i].getElementsByTagName("name"));
     shortlink = gebtn(x[i].getElementsByTagName("shortlink"));
@@ -261,7 +261,7 @@ function loadRetiredTable(xml) {
   var DOI;
   var doiurl = "";
 
-  for (i = 0; i <x.length; i++) { 
+  for (i = (x.length-1); i > -1; i--) { 
     posted = gebtn(x[i].getElementsByTagName("posted"));
     nam = gebtn(x[i].getElementsByTagName("name"));
     reaff = gebtn(x[i].getElementsByTagName("reaffirmed"));
