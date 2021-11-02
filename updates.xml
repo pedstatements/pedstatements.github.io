@@ -637,7 +637,19 @@
     <update />
   </statement>
   <statement ID="covid-19-vaccine-for-children">
-    <update />
+    <update Date="2021-10-05"><![CDATA[
+        <li>Discusses increased cases in children with delta variant</li>
+        <li>Updates data to October 1, 2021</li>
+        <li>Comments on adolescents with an infection rate like young adults while having a lower incidence of morbidity</li>
+        <li>Expands upon the effect of comorbidities on covid morbidity and reviews recent studies</li>
+        <li>Adds the trade name for covid vaccines and that the Moderna vaccine was authorized for adolescents</li>
+        <li>Updates vaccine efficacy and adverse effects data and adds data for the Moderna vaccine</li>
+        <li>Expands upon populations not included in vaccine studies, recommending vaccination for pregnant or breastfeeding women, and provides guidance for immunocompromised patients</li>
+        <li>Adds discussion about when to vaccinate patients who have had MISC</li>
+        <li>Adds that covid vaccines can now be given with other vaccines</li>
+        <li>Updates authors</li>
+    ]]></update>
+    <update Date="2021-11-02">Updates formatting and grammar</update>
   </statement>
   <statement ID="adrenal-suppression">
     <update />
