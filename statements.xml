@@ -3385,22 +3385,39 @@
     <kwrd>LAIV</kwrd>
     <kwrd>NACI</kwrd>
   </statement>
-  <?ignore
   <statement>
     <name>The management of infants, children, and youth at risk for hepatitis C virus (HCV) infection</name>
-    <shortlink>the-management-of-infants-children-and-youth-at-risk-for-hepatitis-c-virus</shortlink>
-    <posted>29-Sep-21</posted>
+    <shortlink>the-management-of-hepatitis-c-virus</shortlink>
+    <posted>05-Nov-21</posted>
     <Reaffirmed />
     <updated />
     <hasupdates>no</hasupdates>
-    <changed>29-Sep-21</changed>
-    <Committee></Committee>
+    <changed>05-Nov-21</changed>
+    <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI />
     <kwrd>Children</kwrd>
     <kwrd>Direct-acting antivirals (DAAs)</kwrd>
     <kwrd>Hepatitis C virus</kwrd>
     <kwrd>Vertical transmission</kwrd>
   </statement>
+  <statement>
+    <name>Managing an acute asthma exacerbation in children</name>
+    <shortlink>managing-an-acute-asthma-exacerbation</shortlink>
+    <posted>05-Nov-21</posted>
+    <Reaffirmed />
+    <updated />
+    <hasupdates>no</hasupdates>
+    <changed>05-Nov-21</changed>
+    <Committee>Acute Care Committee</Committee>
+    <Committee>Paediatric Emergency Medicine Section</Committee>
+    <DOI />
+    <kwrd>Asthma</kwrd>
+    <kwrd>Disposition</kwrd>
+    <kwrd>Emergency management</kwrd>
+    <kwrd>Paediatrics</kwrd>
+    <kwrd>Preschoolers</kwrd>
+  </statement>
+  <?ignore
   <statement>
     <name></name>
     <shortlink></shortlink>
