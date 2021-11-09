@@ -543,22 +543,6 @@
     <kwrd>Sedentary behaviour</kwrd>
   </statement>
   <statement>
-    <name>Managing the paediatric patient with an acute asthma exacerbation</name>
-    <shortlink>management-acute-asthma-exacerbation</shortlink>
-    <posted>01-May-12</posted>
-    <Reaffirmed>30-Jan-17</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>07-Aug-19</changed>
-    <Committee>Acute Care Committee</Committee>
-    <DOI>10.1093/pch/17.5.251</DOI>
-    <kwrd>Asthma</kwrd>
-    <kwrd>Disposition</kwrd>
-    <kwrd>Emergency management</kwrd>
-    <kwrd>Paediatrics</kwrd>
-    <kwrd>Preschoolers</kwrd>
-  </statement>
-  <statement>
     <name>The Baby-Friendly Initiative: Protecting, promoting and supporting breastfeeding</name>
     <shortlink>baby-friendly-initiative-breastfeeding</shortlink>
     <posted>01-Jun-12</posted>
@@ -2814,18 +2798,6 @@
     <kwrd>Screening</kwrd>
   </statement>
   <statement>
-    <name>Current epidemiology and guidance for COVID-19 caused by SARS-CoV-2 virus, in children: March 2020</name>
-    <shortlink>current-epidemiology-and-guidance-for-covid-19-march-2020</shortlink>
-    <posted>25-Mar-20</posted>
-    <Reaffirmed />
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>30-Mar-20</changed>
-    <Committee>Infectious Diseases and Immunization Committee</Committee>
-    <DOI />
-    <kwrd />
-  </statement>
-  <statement>
     <name>Paediatric asthma and COVID-19</name>
     <shortlink>paediatric-asthma-and-covid-19</shortlink>
     <posted>01-Apr-20</posted>
@@ -2905,18 +2877,6 @@
     <kwrd>Children</kwrd>
     <kwrd>Coronavirus</kwrd>
     <kwrd>COVID-19</kwrd>
-  </statement>
-  <statement>
-    <name>Update on COVID-19 epidemiology and impact on medical care in children: April 2020</name>
-    <shortlink>update-on-covid-19-epidemiology-and-impact-on-medical-care-in-children-april-2020</shortlink>
-    <posted>29-Apr-20</posted>
-    <Reaffirmed />
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>14-Sep-20</changed>
-    <Committee>Infectious Diseases and Immunization Committee</Committee>
-    <DOI />
-    <kwrd />
   </statement>
   <statement>
     <name>What paediatricians can do to support children and youth during the COVID-19 pandemic</name>
@@ -3391,7 +3351,7 @@
     <posted>05-Nov-21</posted>
     <Reaffirmed />
     <updated />
-    <hasupdates>no</hasupdates>
+    <hasupdates>yes</hasupdates>
     <changed>05-Nov-21</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI />
@@ -3406,7 +3366,7 @@
     <posted>05-Nov-21</posted>
     <Reaffirmed />
     <updated />
-    <hasupdates>no</hasupdates>
+    <hasupdates>yes</hasupdates>
     <changed>05-Nov-21</changed>
     <Committee>Acute Care Committee</Committee>
     <Committee>Paediatric Emergency Medicine Section</Committee>
