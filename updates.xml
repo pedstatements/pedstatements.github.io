@@ -652,6 +652,7 @@
         </ul>
     ]]></update>
     <update Date="2021-11-02">Updates formatting and grammar</update>
+    <update Date="2021-11-08">Minor formatting and significant reference revision</update>
   </statement>
   <statement ID="adrenal-suppression">
     <update />
@@ -673,5 +674,13 @@
   <statement ID="vaccine-recommendations-2021-2022-influenza-season">
     <update Date="2021-10-01">Posted</update>
     <update Date="2021-10-14">Minor typo corrections</update>
+  </statement>
+  <statement ID="the-management-of-hepatitis-c-virus">
+    <update Date="2021-11-05">Posted</update>
+    <update Date="2021-11-08">Fixed an inline reference formatting error</update>
+  </statement>
+  <statement ID="managing-an-acute-asthma-exacerbation">
+    <update Date="2021-11-05">Posted</update>
+    <update Date="2021-11-08">Typos</update>
   </statement>
 </root>
