@@ -139,7 +139,7 @@
     <update />
   </statement>
   <statement ID="child-and-youth-injury-prevention">
-    <update />
+    <update Date="2021-11-30">Changes the reccomended resource "Alberta Centre for Injury Control and Research (ACICR)" to "Injury Prevention Centre"</update>
   </statement>
   <statement ID="bodychecking-ice-hockey">
     <update />
@@ -211,7 +211,15 @@
     <update />
   </statement>
   <statement ID="bronchiolitis">
-    <update />
+    <update Date="2021-11-30"><![CDATA[
+      <ul>
+      <li>Adds that nasopharyngeal swabs can be indicated in high-risk patients if it will influence treatment decisions</li>
+      <li>Updates UTI incidence in bronchiolitis and clarifies the incidence with proper UA results</li>
+      <li>Changes respiratory rate suggesting severe respiratory distress under guidelines for admission from >70/min to >60/min</li>
+      <li>Adds that antibiotics are often inappropriately prescribed for AOM in bronchiolitis</li>
+      <li>Adds recommendation for droplet and contact precautions including mask and eye protection</li>
+      </ul>
+    ]]></update>
   </statement>
   <statement ID="nutrition-healthy-term-infants-6-to-24-months">
     <update />
