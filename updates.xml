@@ -680,22 +680,15 @@
     <update />
   </statement>
   <statement ID="vaccine-recommendations-2021-2022-influenza-season">
-    <update Date="2021-10-01">Posted</update>
-    <update Date="2021-10-14">Minor typo corrections</update>
+    <update />
   </statement>
   <statement ID="the-management-of-hepatitis-c-virus">
-    <update Date="2021-11-05">Posted</update>
-    <update Date="2021-11-08">Fixed an inline reference formatting error</update>
-    <update Date="2021-11-08">Minor formatting changes and adding missing reference title text</update>
+    <update />
   </statement>
   <statement ID="managing-an-acute-asthma-exacerbation">
-    <update Date="2021-11-05">Posted</update>
-    <update Date="2021-11-08">Typos</update>
-    <update Date="2021-11-16">Reformatted table 2 to fit on one page</update>
-    <update Date="2021-11-17">Minor formatting changes</update>
+    <update />
   </statement>
   <statement ID="neonatal-brachial-plexus-palsy">
-    <update Date="2021-12-03">Posted</update>
-    <update Date="2021-12-06">Minor formatting changes</update>
+    <update />
   </statement>
 </root>
