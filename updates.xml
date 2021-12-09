@@ -659,8 +659,8 @@
         <li>Updates authors</li>
         </ul>
     ]]></update>
-    <update Date="2021-11-02">Updates formatting and grammar</update>
-    <update Date="2021-11-08">Minor formatting and significant reference revision</update>
+    <update Date="2021-11-08">Significant reference revision</update>
+    <update Date="2021-12-08">Changed title to specify 12 years and older, and added an addednum on risk of mycarditis and pericarditis based on updated NACI guidelines.</update>
   </statement>
   <statement ID="adrenal-suppression">
     <update />
