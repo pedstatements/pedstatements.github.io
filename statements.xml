@@ -3408,6 +3408,38 @@
     <kwrd>Food allergy</kwrd>
     <kwrd>Infants</kwrd>
   </statement>
+  <statement>
+    <name>Management of the patent ductus arteriosus in preterm infants</name>
+    <shortlink>patent-ductus-arteriosus</shortlink>
+    <posted>01-Feb-22</posted>
+    <Reaffirmed />
+    <updated />
+    <hasupdates>no</hasupdates>
+    <changed>01-Feb-22</changed>
+    <Committee>Fetus and Newborn Committee</Committee>
+    <Committee>Drug Therapy and Hazardous Substances Committee</Committee>
+    <DOI />
+    <kwrd>Cyclo-oxygenase inhibitors (COX-I)</kwrd>
+    <kwrd>Hemodynamically significant (hs)-PDA</kwrd>
+    <kwrd>Patent ductus arteriosus (PDA)</kwrd>
+    <kwrd>Preterm infants</kwrd>
+    <kwrd>Procedural PDA closure</kwrd>
+  </statement>
+  <statement>
+    <name>Acute complications in children with sickle cell disease: Prevention and management</name>
+    <shortlink>acute-complications-with-sickle-cell</shortlink>
+    <posted>01-Feb-22</posted>
+    <Reaffirmed />
+    <updated />
+    <hasupdates>no</hasupdates>
+    <changed>01-Feb-22</changed>
+    <Committee>Acute Care Committee</Committee>
+    <DOI />
+    <kwrd>Hemolytic anemia</kwrd>
+    <kwrd>Hemoglobinopathy</kwrd>
+    <kwrd>Hydroxyurea</kwrd>
+    <kwrd>Newborn screening</kwrd>
+  </statement>
   <?ignore
   <statement>
     <name></name>
