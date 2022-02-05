@@ -105,6 +105,7 @@ font-size: 18px;
 #rtdp:hover > #br2 { text-shadow: -2px 0 2px #003478, 0 2px 2px #003478, 2px 0 2px #003478, 0 -2px 2px #003478; color: #f2f2f2; }
 #rtrd:hover > #br3 { text-shadow: -2px 0 2px #003478, 0 2px 2px #003478, 2px 0 2px #003478, 0 -2px 2px #003478; color: #f2f2f2; }
 #rtja:hover > #br4 { text-shadow: -2px 0 2px #003478, 0 2px 2px #003478, 2px 0 2px #003478, 0 -2px 2px #003478; color: #f2f2f2; }
+#rtno:hover > #br5 { text-shadow: -2px 0 2px #003478, 0 2px 2px #003478, 2px 0 2px #003478, 0 -2px 2px #003478; color: #f2f2f2; }
 </style>
 <body>
 <div style="font-weight: bold; font-size: 24px; text-align: center; color: #003478">Pedstatements 🍁&#xFE0E;</div>
@@ -252,6 +253,7 @@ function loadRetiredTable(xml) {
           "<th onclick=\"sortTable(2,'rettable')\" id=\"rtdp\">Date Posted <p class=\"pclass\" id=\"br2\">⇵</p></th>" +
           "<th onclick=\"sortTable(3,'rettable')\" id=\"rtrd\">Reaffirmed Date <p class=\"pclass\" id=\"br3\">⇵</p></th>" +
           "<th onclick=\"sortTable(4,'rettable')\" id=\"rtja\">Journal Article <p class=\"pclass\" id=\"br4\">⇵</p></th>" +
+          "<th onclick=\"sortTable(5,'rettable')\" id=\"rtno\">Note <p class=\"pclass\" id=\"br5\">⇵</p></th>" +
       "</tr>";
   var x = xmlDoc.getElementsByTagName("statement");
   var posted;
@@ -260,6 +262,7 @@ function loadRetiredTable(xml) {
   var retired;
   var DOI;
   var doiurl = "";
+  var retno;
 
   for (i = (x.length-1); i > -1; i--) { 
     posted = gebtn(x[i].getElementsByTagName("posted"));
@@ -267,6 +270,7 @@ function loadRetiredTable(xml) {
     reaff = gebtn(x[i].getElementsByTagName("reaffirmed"));
     retired = gebtn(x[i].getElementsByTagName("retired"));
     DOI = gebtn(x[i].getElementsByTagName("DOI"));
+    retno = gebtn(x[i].getElementsByTagName("note"));
     if (DOI.length > 0) {
         doiurl = "<a href=https://doi.org/" + DOI + ">DOI</a>";
     }
@@ -277,6 +281,7 @@ function loadRetiredTable(xml) {
         "<td class=\"dateclass\">" + posted + "</td>" +
         "<td class=\"dateclass\">" + reaff + "</td>" +
         "<td class=\"doiclass\">" + doiurl + "</td>" +
+        "<td class=\"dateclass\">" + retno + "</td>" +
     "</tr>";
     doiurl = ""
   }
