@@ -3230,18 +3230,6 @@
     <kwrd> S-ECC, severe ECC</kwrd>
   </statement>
   <statement>
-    <name>COVID-19 vaccine for children</name>
-    <shortlink>covid-19-vaccine-for-children</shortlink>
-    <posted>21-May-21</posted>
-    <Reaffirmed />
-    <updated>08-Dec-21</updated>
-    <hasupdates>yes</hasupdates>
-    <changed>08-Dec-21</changed>
-    <Committee>Infectious Diseases and Immunization Committee</Committee>
-    <DOI />
-    <kwrd />
-  </statement>
-  <statement>
     <name>Adrenal suppression from exogenous glucocorticoids: Recognizing risk factors and preventing morbidity</name>
     <shortlink>adrenal-suppression</shortlink>
     <posted>15-Jun-21</posted>
@@ -3366,18 +3354,6 @@
     <kwrd>Preschoolers</kwrd>
   </statement>
   <statement>
-    <name>COVID-19 vaccine for children 5 to 11 years of age</name>
-    <shortlink>vaccine-for-children-5-to-11</shortlink>
-    <posted>23-Nov-21</posted>
-    <Reaffirmed />
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>23-Nov-21</changed>
-    <Committee>Infectious Diseases and Immunization Committee</Committee>
-    <DOI />
-    <kwrd></kwrd>
-  </statement>
-  <statement>
     <name>The evaluation and management of neonatal brachial plexus palsy </name>
     <shortlink>neonatal-brachial-plexus-palsy</shortlink>
     <posted>03-Dec-21</posted>
@@ -3439,6 +3415,18 @@
     <kwrd>Hemoglobinopathy</kwrd>
     <kwrd>Hydroxyurea</kwrd>
     <kwrd>Newborn screening</kwrd>
+  </statement>
+  <statement>
+    <name>COVID-19 vaccine for children and adolescents </name>
+    <shortlink>covid-19-vaccine-for-children-and-adolescents</shortlink>
+    <posted>04-Feb-22</posted>
+    <Reaffirmed />
+    <updated />
+    <hasupdates>no</hasupdates>
+    <changed>04-Feb-22</changed>
+    <Committee>Infectious Diseases and Immunization Committee</Committee>
+    <DOI />
+    <kwrd></kwrd>
   </statement>
   <?ignore
   <statement>
