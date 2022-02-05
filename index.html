@@ -46,6 +46,10 @@ display: none;
 td.dateclass,td.doiclass {
 text-align: center;
 }
+td.noteclass {
+text-align: center;
+font-size: 12px;
+}
 td.namclass {
 font-weight: bold;
 width: 33%;
@@ -281,7 +285,7 @@ function loadRetiredTable(xml) {
         "<td class=\"dateclass\">" + posted + "</td>" +
         "<td class=\"dateclass\">" + reaff + "</td>" +
         "<td class=\"doiclass\">" + doiurl + "</td>" +
-        "<td class=\"kwclass\">" + retno + "</td>" +
+        "<td class=\"noteclass\">" + retno + "</td>" +
     "</tr>";
     doiurl = ""
   }
