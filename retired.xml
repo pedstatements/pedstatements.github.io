@@ -6,6 +6,7 @@
     <reaffirmed>2018-02-01</reaffirmed>
     <retired>2021-09-01</retired>
     <DOI>10.1093/pch/5.6.333</DOI>
+    <note></note>
   </statement>
   <statement>
     <name>Recommendations for the use of pacifiers</name>
@@ -13,6 +14,7 @@
     <reaffirmed>2018-02-01</reaffirmed>
     <retired>2021-09-01</retired>
     <DOI>10.1093/pch/8.8.515</DOI>
+    <note></note>
   </statement>
   <statement>
     <name>Homeopathy in the paediatric population</name>
@@ -20,6 +22,7 @@
     <reaffirmed>2018-02-01</reaffirmed>
     <retired>2021-09-01</retired>
     <DOI>10.1093/pch/10.3.173</DOI>
+    <note></note>
   </statement>
   <statement>
     <name>Air travel and children's health issues</name>
@@ -27,6 +30,7 @@
     <reaffirmed>2018-02-01</reaffirmed>
     <retired>2021-09-01</retired>
     <DOI>10.1093/pch/12.1.45</DOI>
+    <note></note>
   </statement>
   <statement>
     <name>Special considerations for the health supervision of children and youth in foster care</name>
@@ -34,6 +38,7 @@
     <reaffirmed>2018-02-01</reaffirmed>
     <retired>2021-09-01</retired>
     <DOI>10.1093/pch/13.2.129</DOI>
+    <note></note>
   </statement>
   <statement>
     <name>Footwear for children</name>
@@ -41,6 +46,7 @@
     <reaffirmed>2018-02-01</reaffirmed>
     <retired>2021-09-01</retired>
     <DOI>10.1093/pch/14.2.119</DOI>
+    <note></note>
   </statement>
   <statement>
     <name>Extended-release medications for children and adolescents with attention-deficit hyperactivity disorder</name>
@@ -48,6 +54,7 @@
     <reaffirmed>2018-02-01</reaffirmed>
     <retired>2021-09-01</retired>
     <DOI>10.1093/pch/14.9.593</DOI>
+    <note></note>
   </statement>
   <statement>
     <name>Vegetarian diets in children and adolescents</name>
@@ -55,6 +62,7 @@
     <reaffirmed>2018-02-01</reaffirmed>
     <retired>2021-09-01</retired>
     <DOI>10.1093/pch/15.5.303</DOI>
+    <note></note>
   </statement>
   <statement>
     <name>Vaccine recommendations for children and youth for the 2020/2021 influenza season</name>
@@ -62,6 +70,7 @@
     <reaffirmed></reaffirmed>
     <retired>2021-10-01</retired>
     <DOI></DOI>
+    <note>Replaced by reccomendations for 2021/2022</note>
   </statement>
   <statement>
     <name>Managing the paediatric patient with an acute asthma exacerbation</name>
@@ -69,6 +78,7 @@
     <reaffirmed>2017-01-30</reaffirmed>
     <retired>2021-11-08</retired>
     <DOI>10.1093/pch/17.5.251</DOI>
+    <note>Replaced by new signficantly updated statement</note>
   </statement>
   <statement>
     <name>Current epidemiology and guidance for COVID-19 caused by SARS-CoV-2 virus, in children: March 2020</name>
@@ -76,6 +86,7 @@
     <reaffirmed></reaffirmed>
     <retired>2021-11-08</retired>
     <DOI></DOI>
+    <note></note>
   </statement>
   <statement>
     <name>Update on COVID-19 epidemiology and impact on medical care in children: April 2020</name>
@@ -83,6 +94,7 @@
     <reaffirmed></reaffirmed>
     <retired>2021-11-08</retired>
     <DOI></DOI>
+    <note>Information incorporated into covid vaccine statements</note>
   </statement>
   <statement>
     <name>Perinatal brachial plexus palsy</name>
@@ -90,5 +102,22 @@
     <reaffirmed>2018-02-28</reaffirmed>
     <retired>2021-12-17</retired>
     <DOI>10.1093/pch/11.2.111</DOI>
+    <note>Replaced with new brachial plexus palsy statement</note>
+  </statement>
+  <statement>
+    <name>COVID-19 vaccine for children 12 years and older</name>
+    <posted>2021-05-21</posted>
+    <reaffirmed></reaffirmed>
+    <retired>2022-02-04</retired>
+    <DOI></DOI>
+    <note>Amalgamated with information on age 5-11 into one new statement</note>
+  </statement>
+  <statement>
+    <name>COVID-19 vaccine for children 5 to 11 years of age</name>
+    <posted>2021-11-23</posted>
+    <reaffirmed></reaffirmed>
+    <retired>2022-02-04</retired>
+    <DOI></DOI>
+    <note>Amalgamated with information on age >12 into one new statement</note>
   </statement>
 </root>
