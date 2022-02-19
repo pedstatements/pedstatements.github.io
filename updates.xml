@@ -691,4 +691,7 @@
   <statement ID="neonatal-brachial-plexus-palsy">
     <update />
   </statement>
+  <statement ID="covid-19-vaccine-for-children-and-adolescents">
+    <update Date="2022-02-17">Corrected pediatric covid death rate from 0.8 to 0.08%</update>
+  </statement>
 </root>
