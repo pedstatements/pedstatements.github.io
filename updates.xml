@@ -489,7 +489,7 @@
     <update />
   </statement>
   <statement ID="neuroprotection">
-    <update />
+    <update Date="2022-03-15">Changes recommendation that all infants receive 30 to 120 seconds of delayed cord clamping to 60 to 120 seconds. Adds link to new cord care position statement. Removes recommendation to consider cord milking, and adds that it can cause severe IVH in very preterm infants.</update>
   </statement>
   <statement ID="lead-toxicity">
     <update />
