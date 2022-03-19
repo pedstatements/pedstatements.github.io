@@ -694,4 +694,7 @@
   <statement ID="covid-19-vaccine-for-children-and-adolescents">
     <update Date="2022-02-17">Corrected pediatric covid death rate from 0.8 to 0.08%</update>
   </statement>
+  <statement ID="umbilical-cord-management-in-preterm-and-term-infants">
+    <update Date="2022-03-18">Clarified that it would be reasonable to give IM oxytocin without waiting for cord clamping in preterm births with low risk of post-partum hemorrhage</update>
+  </statement>
 </root>
