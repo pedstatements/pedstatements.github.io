@@ -693,6 +693,7 @@
   </statement>
   <statement ID="covid-19-vaccine-for-children-and-adolescents">
     <update Date="2022-02-17">Corrected pediatric covid death rate from 0.8 to 0.08%</update>
+    <update Date="2022-03-25">Added addendum adding the Moderna vaccine approval for 6-11 years old, and reiterated that the Pfizer vaccine is preferred due to less myocarditis risk, however the Moderna vaccine may be more effective in immunocompromised patients and may be considered in this population</update>
   </statement>
   <statement ID="umbilical-cord-management-in-preterm-and-term-infants">
     <update Date="2022-03-18">Clarified that it would be reasonable to give IM oxytocin without waiting for cord clamping in preterm births with low risk of post-partum hemorrhage</update>
