@@ -65,18 +65,6 @@
     <kwrd>Term newborn</kwrd>
   </statement>
   <statement>
-    <name>Transition to adult care for youth with special health care needs</name>
-    <shortlink>transition-youth-special-needs</shortlink>
-    <posted>01-Nov-07</posted>
-    <Reaffirmed>28-Feb-18</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
-    <Committee>Adolescent Health Committee</Committee>
-    <DOI>10.1093/pch/12.9.785</DOI>
-    <kwrd />
-  </statement>
-  <statement>
     <name>Harm reduction: An approach to reducing risky health behaviours in adolescents</name>
     <shortlink>harm-reduction-risky-health-behaviours</shortlink>
     <posted>01-Jan-08</posted>
@@ -3297,6 +3285,25 @@
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1016/j.jogc.2022.01.007</DOI>
     <kwrd></kwrd>
+  </statement>
+  <statement>
+    <name>A call for action: Recommendations to improve transition to adult care for youth with complex health care needs</name>
+    <shortlink>transition-to-adult-care-for-youth</shortlink>
+    <posted>13-Apr-22</posted>
+    <Reaffirmed />
+    <updated />
+    <hasupdates>no</hasupdates>
+    <changed>13-Apr-22</changed>
+    <Committee>Adolescent Health Committee</Committee>
+    <DOI />
+    <kwrd>Adolescent</kwrd>
+    <kwrd>Adult Care</kwrd>
+    <kwrd>Chronic Illness</kwrd>
+    <kwrd>Medical Complexity</kwrd>
+    <kwrd>Transfer</kwrd>
+    <kwrd>Transition</kwrd>
+    <kwrd>Young Adult</kwrd>
+    <kwrd>Youth</kwrd>
   </statement>
   <?ignore
   <statement>
