@@ -345,7 +345,8 @@
     <update />
   </statement>
   <statement ID="the-prevention-of-firearm-injuries-in-canadian-youth">
-    <update />
+    <update Date="2018-04-16">Posted</update>
+    <update Date="2022-06-20">Corrected the maximum projectile velocity for gun to not be considrered a firearm in the Firearms Act to 152 m/s from 182 m/s.</update>
   </statement>
   <statement ID="rapid-response-systems-for-paediatrics">
     <update />
