@@ -93,11 +93,11 @@ function loadXMLDocs() {
                 loadUpdatesTable(satementxml, updatesxml);
             }
         };
-        updatesxml.open("GET", "https://pedstatements.github.io/updates.xml", true);
+        updatesxml.open("GET", "updates.xml", true);
         updatesxml.send();
     }
   };
-  satementxml.open("GET", "https://pedstatements.github.io/statements.xml", true);
+  satementxml.open("GET", "statements.xml", true);
   satementxml.send();
 }
 
