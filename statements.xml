@@ -3315,6 +3315,43 @@
     <kwrd>Children</kwrd>
     <kwrd>Mental health</kwrd>
   </statement>
+  <statement>
+    <name>Best practices in pain assessment and management for children</name>
+    <shortlink>pain-assessment-and-management</shortlink>
+    <posted>04-Nov-22</posted>
+    <Reaffirmed />
+    <updated />
+    <hasupdates>no</hasupdates>
+    <changed>04-Nov-22</changed>
+    <Committee>Acute Care Committee</Committee>
+    <Committee>Hospital Paediatrics Section</Committee>
+    <Committee>Paediatric Emergency Medicine Section</Committee>
+    <DOI />
+    <kwrd>Analgesia</kwrd>
+    <kwrd>Assessment</kwrd>
+    <kwrd>Paediatrics</kwrd>
+    <kwrd>Pain</kwrd>
+    <kwrd>Treatment</kwrd>
+  </statement>
+  <statement>
+    <name>Medical management of gastro-esophageal reflux in healthy infants </name>
+    <shortlink>gastro-esophageal-reflux-in-healthy-infants</shortlink>
+    <posted>04-Nov-22</posted>
+    <Reaffirmed />
+    <updated />
+    <hasupdates>no</hasupdates>
+    <changed>04-Nov-22</changed>
+    <Committee>Acute Care Committee</Committee>
+    <Committee>Community Paediatrics Committee</Committee>
+    <DOI />
+    <kwrd>Children</kwrd>
+    <kwrd>Gastroesophageal reflux (GER)</kwrd>
+    <kwrd>Gastroesophageal reflux disease (GERD)</kwrd>
+    <kwrd>H2 receptor antagonists (H2RAs)</kwrd>
+    <kwrd>Infants</kwrd>
+    <kwrd>Prokinetics</kwrd>
+    <kwrd>Proton pump inhibitor (PPI)</kwrd>
+  </statement>
   <?ignore
   <statement>
     <name></name>
