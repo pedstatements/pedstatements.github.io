@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <root>
   <statement>
-    <name>The use of fluoride in infants and children</name>
-    <shortlink>fluoride-use</shortlink>
-    <posted>01-Oct-02</posted>
-    <Reaffirmed>25-Feb-19</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
-    <Committee>Nutrition and Gastroenterology Committee</Committee>
-    <DOI>10.1093/pch/7.8.569</DOI>
-    <kwrd />
-  </statement>
-  <statement>
     <name>Dieting in adolescence</name>
     <shortlink>dieting-adolescence</shortlink>
     <posted>01-Sep-04</posted>
@@ -155,21 +143,6 @@
     <kwrd />
   </statement>
   <statement>
-    <name>Inhalant abuse</name>
-    <shortlink>inhalant-abuse</shortlink>
-    <posted>01-Sep-10</posted>
-    <Reaffirmed>28-Feb-18</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
-    <Committee>First Nations, Inuit and Métis Health Committee</Committee>
-    <DOI>10.1093/pch/15.7.443</DOI>
-    <kwrd>Abuse</kwrd>
-    <kwrd>Inhalant</kwrd>
-    <kwrd>Solvent</kwrd>
-    <kwrd>Volatile substance</kwrd>
-  </statement>
-  <statement>
     <name>Emergency treatment of anaphylaxis in infants and children</name>
     <shortlink>emergency-treatment-anaphylaxis</shortlink>
     <posted>01-Jan-11</posted>
@@ -282,21 +255,6 @@
     <kwrd>Suffocation</kwrd>
   </statement>
   <statement>
-    <name>Psychosocial aspects of child and adolescent obesity</name>
-    <shortlink>sychosocial-child-adolescent-obesity</shortlink>
-    <posted>01-Mar-12</posted>
-    <Reaffirmed />
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>04-Apr-16</changed>
-    <Committee>Healthy Active Living Committee</Committee>
-    <DOI>10.1093/pch/17.4.205</DOI>
-    <kwrd>Child</kwrd>
-    <kwrd>Mental health</kwrd>
-    <kwrd>Obesity</kwrd>
-    <kwrd>Psychosocial</kwrd>
-  </statement>
-  <statement>
     <name>Kangaroo care for the preterm infant and family</name>
     <shortlink>kangaroo-care-for-preterm-infant</shortlink>
     <posted>01-Mar-12</posted>
@@ -310,23 +268,6 @@
     <kwrd>Kangaroo care</kwrd>
     <kwrd>Preterm infant</kwrd>
     <kwrd>Skin-to-skin care</kwrd>
-  </statement>
-  <statement>
-    <name>Healthy active living: Physical activity guidelines for children and adolescents</name>
-    <shortlink>physical-activity-guidelines</shortlink>
-    <posted>01-Apr-12</posted>
-    <Reaffirmed />
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
-    <Committee>Healthy Active Living Committee</Committee>
-    <DOI>10.1093/pch/17.4.209 </DOI>
-    <kwrd>Adolescents</kwrd>
-    <kwrd>Children</kwrd>
-    <kwrd>Obesity</kwrd>
-    <kwrd>Physical activity</kwrd>
-    <kwrd>Screen time</kwrd>
-    <kwrd>Sedentary behaviour</kwrd>
   </statement>
   <statement>
     <name>The Baby-Friendly Initiative: Protecting, promoting and supporting breastfeeding</name>
@@ -525,22 +466,6 @@
     <kwrd>Complementary foods</kwrd>
     <kwrd>Infant</kwrd>
     <kwrd>Weaning</kwrd>
-  </statement>
-  <statement>
-    <name>Sport nutrition for young athletes</name>
-    <shortlink>sport-nutrition-for-young-athletes</shortlink>
-    <posted>02-Apr-13</posted>
-    <Reaffirmed />
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>03-Feb-21</changed>
-    <Committee>Paediatric Sports and Exercise Medicine Section</Committee>
-    <DOI>10.1093/pch/18.4.200</DOI>
-    <kwrd>Adolescents</kwrd>
-    <kwrd>Athletes</kwrd>
-    <kwrd>Children</kwrd>
-    <kwrd>Nutrition</kwrd>
-    <kwrd>Sports</kwrd>
   </statement>
   <statement>
     <name>Nutrition for healthy term infants, birth to six months: An overview</name>
@@ -1267,18 +1192,6 @@
     <kwrd>Oral vaccine</kwrd>
     <kwrd>Rotavirus</kwrd>
     <kwrd>Vaccine</kwrd>
-  </statement>
-  <statement>
-    <name>Update for Canadian NRP providers: A case-based review</name>
-    <shortlink>neonatal-resuscitation-guidelines</shortlink>
-    <posted>11-Aug-17</posted>
-    <Reaffirmed />
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>16-Nov-20</changed>
-    <Committee>Neonatal Resuscitation Program Education Subcommittee</Committee>
-    <DOI>10.1093/pch/pxx095 </DOI>
-    <kwrd>Debriefing, Education, Guidelines, Neonatal resuscitation, Resuscitation training, Simulation</kwrd>
   </statement>
   <statement>
     <name>The relationship between paediatric practitioners and 'industry'</name>
@@ -2718,23 +2631,6 @@
     <kwrd>Wellness</kwrd>
   </statement>
   <statement>
-    <name>Vaccine recommendations for children and youth for the 2020/2021 influenza season</name>
-    <shortlink>vaccine-recommendations-2020-2021-influenza-season</shortlink>
-    <posted>25-Sep-20</posted>
-    <Reaffirmed />
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
-    <Committee>Infectious Diseases and Immunization Committee</Committee>
-    <DOI />
-    <kwrd>Children</kwrd>
-    <kwrd>COVID-19</kwrd>
-    <kwrd>Influenza vaccine</kwrd>
-    <kwrd>Inactivated influenza vaccine</kwrd>
-    <kwrd>LAIV</kwrd>
-    <kwrd>NACI</kwrd>
-  </statement>
-  <statement>
     <name>Guidelines for the management of suspected and confirmed bacterial meningitis in Canadian children older than 2 months of age</name>
     <shortlink>management-of-bacterial-meningitis</shortlink>
     <posted>19-Oct-20</posted>
@@ -3005,23 +2901,6 @@
     <kwrd>Developmental coordination disorder</kwrd>
     <kwrd>Diagnosis</kwrd>
     <kwrd>Community paediatrics</kwrd>
-  </statement>
-  <statement>
-    <name>Vaccine recommendations for children and youth for the 2021/2022 influenza season</name>
-    <shortlink>vaccine-recommendations-2021-2022-influenza-season</shortlink>
-    <posted>01-Oct-21</posted>
-    <Reaffirmed />
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>14-Oct-21</changed>
-    <Committee>Infectious Diseases and Immunization Committee</Committee>
-    <DOI />
-    <kwrd>Children</kwrd>
-    <kwrd>COVID-19</kwrd>
-    <kwrd>Influenza vaccine</kwrd>
-    <kwrd>Inactivated influenza vaccine</kwrd>
-    <kwrd>LAIV</kwrd>
-    <kwrd>NACI</kwrd>
   </statement>
   <statement>
     <name>The management of infants, children, and youth at risk for hepatitis C virus (HCV) infection</name>
