@@ -282,4 +282,70 @@
       Replaced with endorsement of the NACI's 2022 statement <a href="https://www.canada.ca/en/public-health/services/publications/vaccines-immunization/palivizumab-respiratory-syncitial-virus-infection-infants.html">Recommended use of palivizumab to reduce complications of respiratory syncytial virus infection in infants</a>, summarized <a href="https://www.canada.ca/en/public-health/services/reports-publications/canada-communicable-disease-report-ccdr/monthly-issue/2022-48/issue-7-8-july-august-2022/summary-national-advisory-committee-immunization-naci-statement-update-recommended-use-palivizumab-reduce-complications-respiratory-syncytial-virus-infection-infants.html">here</a>.
     ]]></note>
   </statement>
+  <statement>
+    <name>The use of fluoride in infants and children</name>
+    <posted>2002-10-01</posted>
+    <reaffirmed>2019-02-25</reaffirmed>
+    <retired>2022-11-08</retired>
+    <DOI>10.1093/pch/7.8.569</DOI>
+    <note></note>
+  </statement>
+  <statement>
+    <name>Inhalant abuse</name>
+    <posted>2010-09-01</posted>
+    <reaffirmed>2018-02-28</reaffirmed>
+    <retired>2022-11-08</retired>
+    <DOI>10.1093/pch/15.7.443</DOI>
+    <note></note>
+  </statement>
+  <statement>
+    <name>Update for Canadian NRP providers: A case-based review</name>
+    <posted>2017-08-11</posted>
+    <reaffirmed></reaffirmed>
+    <retired>2022-11-08</retired>
+    <DOI>10.1093/pch/pxx095</DOI>
+    <note></note>
+  </statement>
+  <statement>
+    <name>Healthy active living: Physical activity guidelines for children and adolescents</name>
+    <posted>2012-04-01</posted>
+    <reaffirmed></reaffirmed>
+    <retired>2022-11-08</retired>
+    <DOI>10.1093/pch/17.4.209</DOI>
+    <note></note>
+  </statement>
+  <statement>
+    <name>Psychosocial aspects of child and adolescent obesity</name>
+    <posted>2012-04-01</posted>
+    <reaffirmed></reaffirmed>
+    <retired>2022-11-08</retired>
+    <DOI>10.1093/pch/17.4.205</DOI>
+    <note></note>
+  </statement>
+  <statement>
+    <name>Sport nutrition for young athletes</name>
+    <posted>2013-04-02</posted>
+    <reaffirmed></reaffirmed>
+    <retired>2022-11-08</retired>
+    <DOI>10.1093/pch/18.4.200</DOI>
+    <note></note>
+  </statement>
+  <statement>
+    <name>Vaccine recommendations for children and youth for the 2021/2022 influenza season</name>
+    <posted>2021-10-01</posted>
+    <reaffirmed></reaffirmed>
+    <retired>2022-11-08</retired>
+    <DOI></DOI>
+    <note>Replaced with 2022/2023 influenza season statement</note>
+  </statement>
+  <?ignore
+  <statement>
+    <name></name>
+    <posted></posted>
+    <reaffirmed></reaffirmed>
+    <retired></retired>
+    <DOI></DOI>
+    <note></note>
+  </statement>
+  ?>
 </root>
