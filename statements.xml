@@ -3184,11 +3184,11 @@
     <Reaffirmed />
     <updated />
     <hasupdates>no</hasupdates>
-    <changed>04-Nov-22</changed>
+    <changed>09-Dec-22</changed>
     <Committee>Acute Care Committee</Committee>
     <Committee>Hospital Paediatrics Section</Committee>
     <Committee>Paediatric Emergency Medicine Section</Committee>
-    <DOI />
+    <DOI>10.1093/pch/pxac048</DOI>
     <kwrd>Analgesia</kwrd>
     <kwrd>Assessment</kwrd>
     <kwrd>Paediatrics</kwrd>
@@ -3275,6 +3275,21 @@
     <kwrd>Diabetes mellitus</kwrd>
     <kwrd>Diabetic ketoacidosis (DKA)</kwrd>
     <kwrd>Paediatric</kwrd>
+  </statement>
+  <statement>
+    <name>Using probiotics in paediatric populations</name>
+    <shortlink>probiotics-in-paediatric-populations</shortlink>
+    <posted>09-Dec-22</posted>
+    <Reaffirmed />
+    <updated />
+    <hasupdates>no</hasupdates>
+    <changed></changed>
+    <Committee>Nutrition and Gastroenterology Committee</Committee>
+    <DOI />
+    <kwrd>Irritable bowel syndrome (IBS)</kwrd>
+    <kwrd>Neonates</kwrd>
+    <kwrd>Prevention</kwrd>
+    <kwrd>Probiotics</kwrd>
   </statement>
   <?ignore
   <statement>
