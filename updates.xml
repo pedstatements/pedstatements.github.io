@@ -706,4 +706,15 @@
   <statement ID="umbilical-cord-management-in-preterm-and-term-infants">
     <update Date="2022-03-18">Clarified that it would be reasonable to give IM oxytocin without waiting for cord clamping in preterm births with low risk of post-partum hemorrhage</update>
   </statement>
+  <statement ID="managing-critical-drug-shortages">
+    <update Date="2023-01-10">Corrected table to move Penicillin VK under GAS pharyngitis insteaqd of AOM</update>
+  </statement>
+  <statement ID="current-recommendations-for-management-of-paediatric-diabetic-ketoacidosis">
+    <update Date="2023-01-09"><![CDATA[
+        <ul>
+        <li>Changed the definition of hypocapnia in Table 3 to pCO2 <21 instead of <18</li>
+        <li>Added reducing IV fluid rate to 75% maintenance to the CI management list</li>
+        </ul>
+    ]]></update>
+  </statement>
 </root>
