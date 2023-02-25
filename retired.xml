@@ -378,6 +378,54 @@
     <DOI>10.1093/pch/17.9.509</DOI>
     <note>Supplanted by combined concussion and bodychecking statement.</note>
   </statement>
+  <statement>
+    <name>A harmonized immunization schedule for Canada: A call to action</name>
+    <posted>2011-01-01</posted>
+    <reaffirmed>2018-02-28</reaffirmed>
+    <retired>2023-02-24</retired>
+    <DOI>10.1093/pch/16.1.29</DOI>
+    <note></note>
+  </statement>
+  <statement>
+    <name>Melatonin for the management of sleep disorders in children and adolescents</name>
+    <posted>2012-06-01</posted>
+    <reaffirmed>2021-08-10</reaffirmed>
+    <retired>2023-02-24</retired>
+    <DOI>10.1093/pch/17.6.331</DOI>
+    <note></note>
+  </statement>
+  <statement>
+    <name>Preventing mosquito and tick bites: A Canadian update</name>
+    <posted>2014-06-13</posted>
+    <reaffirmed>2020-01-01</reaffirmed>
+    <retired>2023-02-24</retired>
+    <DOI>10.1093/pch/19.6.326</DOI>
+    <note></note>
+  </statement>
+  <statement>
+    <name>Recommendations for the use of rotavirus vaccines in infants</name>
+    <posted>2017-06-30</posted>
+    <reaffirmed></reaffirmed>
+    <retired>2023-02-24</retired>
+    <DOI>10.1093/pch/pxx072</DOI>
+    <note></note>
+  </statement>
+  <statement>
+    <name>Skiing and snowboarding injury prevention</name>
+    <posted>2012-01-01</posted>
+    <reaffirmed>2020-01-01</reaffirmed>
+    <retired>2023-02-24</retired>
+    <DOI>10.1093/pch/17.1.35</DOI>
+    <note></note>
+  </statement>
+  <statement>
+    <name>Zika virus: What does a physician caring for children in Canada need to know?</name>
+    <posted>2017-03-30</posted>
+    <reaffirmed></reaffirmed>
+    <retired>2023-02-24</retired>
+    <DOI>10.1093/pch/pxx012</DOI>
+    <note></note>
+  </statement>
   <?ignore
   <statement>
     <name></name>
