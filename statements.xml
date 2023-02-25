@@ -160,22 +160,6 @@
     <kwrd>Treatment</kwrd>
   </statement>
   <statement>
-    <name>A harmonized immunization schedule for Canada: A call to action</name>
-    <shortlink>harmonized-immunization-schedule-Canada</shortlink>
-    <posted>01-Jan-11</posted>
-    <Reaffirmed>28-Feb-18</Reaffirmed>
-    <updated>14-Apr-14</updated>
-    <hasupdates>no</hasupdates>
-    <changed>06-Apr-18</changed>
-    <Committee>Infectious Diseases and Immunization Committee</Committee>
-    <DOI>10.1093/pch/16.1.29</DOI>
-    <kwrd>Adolescent</kwrd>
-    <kwrd>Canada</kwrd>
-    <kwrd>Children</kwrd>
-    <kwrd>Immunization</kwrd>
-    <kwrd>Vaccine schedule</kwrd>
-  </statement>
-  <statement>
     <name>Management of community-associated methicillin-resistant Staphylococcus aureus skin abscesses in children</name>
     <shortlink>methicillin-resistant-Staphylococcus-aureus-skin-abscesses</shortlink>
     <posted>01-Feb-11</posted>
@@ -223,22 +207,6 @@
     <kwrd>Research</kwrd>
   </statement>
   <statement>
-    <name>Skiing and snowboarding injury prevention</name>
-    <shortlink>skiing-snowboarding-injury</shortlink>
-    <posted>01-Jan-12</posted>
-    <Reaffirmed>01-Jan-20</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
-    <Committee>Injury Prevention Committee</Committee>
-    <DOI>10.1093/pch/17.1.35</DOI>
-    <kwrd>Helmet</kwrd>
-    <kwrd>Injury</kwrd>
-    <kwrd>Skiing</kwrd>
-    <kwrd>Snowboarding</kwrd>
-    <kwrd>Wrist guard</kwrd>
-  </statement>
-  <statement>
     <name>Preventing choking and suffocation in children</name>
     <shortlink>preventing-choking-suffocation-children</shortlink>
     <posted>01-Feb-12</posted>
@@ -283,22 +251,6 @@
     <kwrd>Baby-Friendly Initiative</kwrd>
     <kwrd>Breastfeeding</kwrd>
     <kwrd>Breast milk</kwrd>
-  </statement>
-  <statement>
-    <name>Melatonin for the management of sleep disorders in children and adolescents</name>
-    <shortlink>melatonin-sleep-disorders-children-adolescents</shortlink>
-    <posted>01-Jun-12</posted>
-    <Reaffirmed>10-Aug-21</Reaffirmed>
-    <updated>27-Aug-18</updated>
-    <hasupdates>no</hasupdates>
-    <changed>25-Aug-21</changed>
-    <Committee>Community Paediatrics Committee</Committee>
-    <DOI>10.1093/pch/17.6.331</DOI>
-    <kwrd>Attention-deficit hyperactivity disorder</kwrd>
-    <kwrd>Autism</kwrd>
-    <kwrd>Developmental disabilities</kwrd>
-    <kwrd>Melatonin</kwrd>
-    <kwrd>Sleep disorders</kwrd>
   </statement>
   <statement>
     <name>Preventing injuries from all-terrain vehicles</name>
@@ -583,10 +535,10 @@
     <name>Clostridium difficile in paediatric populations</name>
     <shortlink>clostridium-difficile-in-paediatric-populations</shortlink>
     <posted>10-Jan-14</posted>
-    <Reaffirmed />
+    <Reaffirmed>24-Feb-23</Reaffirmed>
     <updated>05-Mar-20</updated>
     <hasupdates>no</hasupdates>
-    <changed>05-Mar-20</changed>
+    <changed>24-Feb-23</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/19.1.43</DOI>
     <kwrd>CDI</kwrd>
@@ -669,23 +621,6 @@
     <kwrd>VUR</kwrd>
   </statement>
   <statement>
-    <name>Preventing mosquito and tick bites: A Canadian update</name>
-    <shortlink>preventing-mosquito-and-tick-bites</shortlink>
-    <posted>13-Jun-14</posted>
-    <Reaffirmed>01-Jan-20</Reaffirmed>
-    <updated>12-Dec-19</updated>
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
-    <Committee>Infectious Diseases and Immunization Committee</Committee>
-    <DOI>10.1093/pch/19.6.326</DOI>
-    <kwrd>DEET</kwrd>
-    <kwrd>Icaridin</kwrd>
-    <kwrd>Lyme disease</kwrd>
-    <kwrd>Permethrin</kwrd>
-    <kwrd>Picaridin</kwrd>
-    <kwrd>West Nile virus</kwrd>
-  </statement>
-  <statement>
     <name>Bronchiolitis: Recommendations for diagnosis, monitoring and management of children one to 24 months of age</name>
     <shortlink>bronchiolitis</shortlink>
     <posted>03-Nov-14</posted>
@@ -705,10 +640,10 @@
     <name>Nutrition for healthy term infants, six to 24 months: An overview</name>
     <shortlink>nutrition-healthy-term-infants-6-to-24-months</shortlink>
     <posted>05-Dec-14</posted>
-    <Reaffirmed>01-Jan-20</Reaffirmed>
+    <Reaffirmed>24-Feb-23</Reaffirmed>
     <updated>12-Dec-19</updated>
     <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
+    <changed>24-Feb-23</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI>10.1093/pch/19.10.547</DOI>
     <kwrd>Breastfeeding</kwrd>
@@ -1064,28 +999,13 @@
     <kwrd>Screening</kwrd>
   </statement>
   <statement>
-    <name>Zika virus: What does a physician caring for children in Canada need to know?</name>
-    <shortlink>Zika-virus</shortlink>
-    <posted>30-Mar-17</posted>
-    <Reaffirmed />
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>16-Nov-20</changed>
-    <Committee>Infectious Diseases and Immunization Committee</Committee>
-    <DOI>10.1093/pch/pxx012</DOI>
-    <kwrd>Congenital infection</kwrd>
-    <kwrd>Microcephaly</kwrd>
-    <kwrd>Teratogen</kwrd>
-    <kwrd>Zika virus</kwrd>
-  </statement>
-  <statement>
     <name>Caring for children and youth from Canadian military families: Special considerations</name>
     <shortlink>military-families</shortlink>
     <posted>03-May-17</posted>
-    <Reaffirmed />
+    <Reaffirmed>24-Feb-23</Reaffirmed>
     <updated />
     <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
+    <changed>24-Feb-23</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/pxx021</DOI>
     <kwrd>Behaviour</kwrd>
@@ -1098,10 +1018,10 @@
     <name>Cannabis and Canada's children and youth</name>
     <shortlink>cannabis-children-and-youth</shortlink>
     <posted>03-May-17</posted>
-    <Reaffirmed />
+    <Reaffirmed>24-Feb-23</Reaffirmed>
     <updated />
     <hasupdates>no</hasupdates>
-    <changed>16-Feb-21</changed>
+    <changed>24-Feb-23</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/pxx017 </DOI>
     <kwrd>Adolescents</kwrd>
@@ -1146,10 +1066,10 @@
     <name>Canada's eight-component vaccine safety system: A primer for health care workers</name>
     <shortlink>vaccine-safety-system</shortlink>
     <posted>15-Jun-17</posted>
-    <Reaffirmed />
+    <Reaffirmed>24-Feb-23</Reaffirmed>
     <updated />
     <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
+    <changed>24-Feb-23</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxx073</DOI>
     <kwrd>AEFI</kwrd>
@@ -1158,23 +1078,6 @@
     <kwrd>IMPACT</kwrd>
     <kwrd>NACI</kwrd>
     <kwrd>Vaccine safety</kwrd>
-  </statement>
-  <statement>
-    <name>Recommendations for the use of rotavirus vaccines in infants</name>
-    <shortlink>rotavirus-vaccines</shortlink>
-    <posted>30-Jun-17</posted>
-    <Reaffirmed />
-    <updated>23-Oct-18</updated>
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
-    <Committee>Infectious Diseases and Immunization Committee</Committee>
-    <DOI>10.1093/pch/pxx072</DOI>
-    <kwrd>Acute gastroenteritis</kwrd>
-    <kwrd>Diarrhea</kwrd>
-    <kwrd>Intussusception</kwrd>
-    <kwrd>Oral vaccine</kwrd>
-    <kwrd>Rotavirus</kwrd>
-    <kwrd>Vaccine</kwrd>
   </statement>
   <statement>
     <name>The relationship between paediatric practitioners and 'industry'</name>
@@ -1221,10 +1124,10 @@
     <name>Energy and sports drinks in children and adolescents</name>
     <shortlink>energy-and-sports-drinks</shortlink>
     <posted>06-Oct-17</posted>
-    <Reaffirmed />
+    <Reaffirmed>24-Feb-23</Reaffirmed>
     <updated />
     <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
+    <changed>24-Feb-23</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI>10.1093/pch/pxx132</DOI>
     <kwrd>Alcohol</kwrd>
@@ -1254,10 +1157,10 @@
     <name>Pulse oximetry screening in newborns to enhance detection of critical congenital heart disease</name>
     <shortlink>pulse-oximetry-screening</shortlink>
     <posted>27-Nov-17</posted>
-    <Reaffirmed />
+    <Reaffirmed>24-Feb-23</Reaffirmed>
     <updated />
     <hasupdates>no</hasupdates>
-    <changed>16-Nov-20</changed>
+    <changed>24-Feb-23</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI>10.1093/pch/pxx136</DOI>
     <kwrd>CCHD</kwrd>
