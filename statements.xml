@@ -3187,6 +3187,38 @@
     <kwrd>Newborn</kwrd>
     <kwrd>Persistent pulmonary hypertension of the newborn</kwrd>
   </statement>
+  <statement>
+    <name>Gene-based drug therapy in children</name>
+    <shortlink>gene-based-drug-therapy-in-children</shortlink>
+    <posted>03-Mar-23</posted>
+    <Reaffirmed />
+    <updated />
+    <hasupdates>no</hasupdates>
+    <changed>03-Mar-23</changed>
+    <Committee>Drug Therapy and Hazardous Substances Commitee</Committee>
+    <DOI />
+    <kwrd>Adolescents</kwrd>
+    <kwrd>dverse drug reactions</kwrd>
+    <kwrd>Child</kwrd>
+    <kwrd>Pharmacogenetics</kwrd>
+    <kwrd>Pharmacogenomics</kwrd>
+  </statement>
+  <statement>
+    <name>Considerations for privacy and confidentiality in adolescent health care service delivery</name>
+    <shortlink>privacy-and-confidentiality-in-adolescent-health-care</shortlink>
+    <posted>03-Mar-23</posted>
+    <Reaffirmed />
+    <updated />
+    <hasupdates>no</hasupdates>
+    <changed>03-Mar-23</changed>
+    <Committee>Adolescent Health Committee</Committee>
+    <DOI />
+    <kwrd>Adolescent</kwrd>
+    <kwrd>Confidentiality</kwrd>
+    <kwrd>Consent</kwrd>
+    <kwrd>Electronic Health Record</kwrd>
+    <kwrd>Privacy</kwrd>
+  </statement>
   <?ignore
   <statement>
     <name></name>
