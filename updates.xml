@@ -720,4 +720,7 @@
   <statement ID="sport-related-concussion-and-bodychecking">
     <update Date="2023-02-17">Changed return to play/sport guideline links from parachute.ca to pedsconcussion.com. Previously linked guidelines avaliable at https://parachute.ca/wp-content/uploads/2019/06/Return-to-School-Strategy.pdf and https://parachute.ca/wp-content/uploads/2019/06/Return-to-Sport-Strategy.pdf</update>
   </statement>
+  <statement ID="gene-based-drug-therapy-in-children">
+    <update Date="2023-03-14">Removed a statement about results not being replicated in children's studies in the mental health section of pharmacogenetics studies.</update>
+  </statement>
 </root>
