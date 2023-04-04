@@ -3202,17 +3202,52 @@
     <kwrd>Electronic Health Record</kwrd>
     <kwrd>Privacy</kwrd>
   </statement>
+  <statement>
+    <name>Reducing perinatal infection risk in newborns of mothers who received inadequate prenatal care</name>
+    <shortlink>reducing-perinatal-infection-risk-in-newborns-of-mothers-who-received-inadequate-prenatal-care</shortlink>
+    <posted>03-Apr-23</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>03-Apr-23</changed>
+    <Committee></Committee>
+    <DOI></DOI>
+    <kwrd>Chlamydia</kwrd>
+    <kwrd>Gonorrhea</kwrd>
+    <kwrd>Hepatitis B</kwrd>
+    <kwrd>Hepatitis C</kwrd>
+    <kwrd>HIV</kwrd>
+    <kwrd>Newborn</kwrd>
+    <kwrd>Prenatal care</kwrd>
+    <kwrd>Syphilis</kwrd>
+  </statement>
+  <statement>
+    <name>From ACEs to early relational health: Implications for clinical practice</name>
+    <shortlink>from-aces-to-early-relational-health</shortlink>
+    <posted>03-Apr-23</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>03-Apr-23</changed>
+    <Committee>Early Years Task Force</Committee>
+    <DOI></DOI>
+    <kwrd>Adverse childhood experiences</kwrd>
+    <kwrd>Child development</kwrd>
+    <kwrd>Relational health</kwrd>
+    <kwrd>Resilience</kwrd>
+    <kwrd>Toxic stress</kwrd>
+  </statement>
   <?ignore
   <statement>
     <name></name>
     <shortlink></shortlink>
     <posted></posted>
-    <Reaffirmed />
-    <updated />
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
     <hasupdates>no</hasupdates>
     <changed></changed>
     <Committee></Committee>
-    <DOI />
+    <DOI></DOI>
     <kwrd></kwrd>
   </statement>
   ?>
