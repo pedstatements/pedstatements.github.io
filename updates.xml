@@ -428,7 +428,7 @@
     <update />
   </statement>
   <statement ID="adhd-2-treatment">
-    <update>Changed evidence for dietary interventions from "small effects" to "conflicting and inadequate evidence". Added Foquest to table 2.</update>
+    <update Date="2023-05-05">Changed evidence for dietary interventions from "small effects" to "conflicting and inadequate evidence". Added Foquest to table 2.</update>
   </statement>
   <statement ID="adhd-comorbid-asd-id-or-prematurity">
     <update />
