@@ -716,6 +716,7 @@
         <li>Added reducing IV fluid rate to 75% maintenance to the CI management list</li>
         </ul>
     ]]></update>
+    <update Date="2023-05-09">Increased potassium threshold for starting insulin infusion to 3.3 mmol/L from 3.0 mmol/L</update>
   </statement>
   <statement ID="sport-related-concussion-and-bodychecking">
     <update Date="2023-02-17">Changed return to play/sport guideline links from parachute.ca to pedsconcussion.com. Previously linked guidelines avaliable at https://parachute.ca/wp-content/uploads/2019/06/Return-to-School-Strategy.pdf and https://parachute.ca/wp-content/uploads/2019/06/Return-to-Sport-Strategy.pdf</update>
