@@ -1653,9 +1653,9 @@
     <shortlink>pneumonia-management-children-youth</shortlink>
     <posted>31-Oct-18</posted>
     <Reaffirmed />
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>27-May-21</changed>
+    <updated>21-Jul-23</updated>
+    <hasupdates>yes</hasupdates>
+    <changed>21-Jul-23</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/20.8.441</DOI>
     <kwrd>Antimicrobial therapy</kwrd>
@@ -3264,8 +3264,8 @@
     <posted>05-Jun-23</posted>
     <Reaffirmed></Reaffirmed>
     <updated></updated>
-    <hasupdates>no</hasupdates>
-    <changed>01-Jun-23</changed>
+    <hasupdates>yes</hasupdates>
+    <changed>12-Jul-23</changed>
     <Committee>Nutrition and Gastroenterology Committee</Committee>
     <DOI></DOI>
     <kwrd>Breastfeeding</kwrd>
@@ -3323,6 +3323,21 @@
     <kwrd>Invasive bacterial infection</kwrd>
     <kwrd>Neutropenia</kwrd>
     <kwrd>Paediatric</kwrd>
+  </statement>
+  <statement>
+    <name>Recognizing and addressing atypical growth</name>
+    <shortlink>recognizing-and-addressing-atypical-growth</shortlink>
+    <posted>11-Jul-23</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>18-Jul-23</changed>
+    <Committee>Nutrition and Gastroenterology Committee</Committee>
+    <DOI></DOI>
+    <kwrd>Growth patterns</kwrd>
+    <kwrd>Management</kwrd>
+    <kwrd>Paediatrics</kwrd>
+    <kwrd>Screening</kwrd>
   </statement>
   <?ignore
   <statement>
