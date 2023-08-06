@@ -437,7 +437,7 @@
     <update />
   </statement>
   <statement ID="pneumonia-management-children-youth">
-    <update />
+    <update Date="2023-07-21">Updated treatment recommendations to suggest non-severe ambulatory and mild hospital pneumonia could be treated with a 5 day course of antibiotics.</update>
   </statement>
   <statement ID="needle-stick-injuries-in-the-community">
     <update />
@@ -723,5 +723,8 @@
   </statement>
   <statement ID="gene-based-drug-therapy-in-children">
     <update Date="2023-03-14">Removed a statement about results not being replicated in children's studies in the mental health section of pharmacogenetics studies.</update>
+  </statement>
+  <statement ID="breastfeeding-and-human-milk-in-the-nicu-from-birth-to-discharge">
+    <update Date="2023-07-12">Added opening statement on the superiority of breastfeeding for infant feeding, and added recommendations that NICUs should have policies to promote breastfeeding and human milk for at-risk infants, and that to inform mothers of infants in the NICU about supports for breastfeeding.</update>
   </statement>
 </root>
