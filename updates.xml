@@ -727,4 +727,7 @@
   <statement ID="breastfeeding-and-human-milk-in-the-nicu-from-birth-to-discharge">
     <update Date="2023-07-12">Added opening statement on the superiority of breastfeeding for infant feeding, and added recommendations that NICUs should have policies to promote breastfeeding and human milk for at-risk infants, and that to inform mothers of infants in the NICU about supports for breastfeeding.</update>
   </statement>
+  <statement ID="vaccine-recommendations-influenza">
+    <update Date="2023-09-25">Updates statement for 2023-2024 influenza season, including current strains, vaccination in the context of covid, and recommendation that IIV4 is generally preferred. Adds note that live intranasal vaccine should not be given immediately after antivirals, and if used within 2 weeks, the patient needs repeat immunization.</update>
+  </statement>
 </root>
