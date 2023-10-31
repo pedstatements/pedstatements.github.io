@@ -730,4 +730,7 @@
   <statement ID="vaccine-recommendations-influenza">
     <update Date="2023-09-25">Updates statement for 2023-2024 influenza season, including current strains, vaccination in the context of covid, and recommendation that IIV4 is generally preferred. Adds note that live intranasal vaccine should not be given immediately after antivirals, and if used within 2 weeks, the patient needs repeat immunization.</update>
   </statement>
+  <statement ID="reducing-perinatal-infection-risk-in-newborns-of-mothers-who-received-inadequate-prenatal-care">
+    <update Date="2023-10-30">Changes recommendation for HBV workup in infants when mother not available to remove suggestion that HBsAg shows active infection as "this may reflect transient non-intact viral particles from the mother". Changes Figure 2 to specify that if mom's HBsAg is unknown and unavailable for testing the infant should get the HBV vaccine +/- HBig.</update>
+  </statement>
 </root>
