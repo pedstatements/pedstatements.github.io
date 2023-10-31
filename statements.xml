@@ -782,23 +782,6 @@
     <kwrd>TM</kwrd>
   </statement>
   <statement>
-    <name>Is the medical use of cannabis a therapeutic option for children?</name>
-    <shortlink>medical-uf-cannabis</shortlink>
-    <posted>05-Feb-16</posted>
-    <Reaffirmed />
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>08-Feb-16</changed>
-    <Committee>Drug Therapy Committee</Committee>
-    <DOI>10.1093/pch/21.1.31</DOI>
-    <kwrd>Cannabinoids</kwrd>
-    <kwrd>Children</kwrd>
-    <kwrd>Epilepsy</kwrd>
-    <kwrd>Medical marijuana</kwrd>
-    <kwrd>Nabiximols</kwrd>
-    <kwrd>Smoking</kwrd>
-  </statement>
-  <statement>
     <name>Retinopathy of prematurity: An update on screening and management</name>
     <shortlink>retinopathy-of-prematurity-screening</shortlink>
     <posted>07-Mar-16</posted>
@@ -3139,9 +3122,9 @@
     <shortlink>reducing-perinatal-infection-risk-in-newborns-of-mothers-who-received-inadequate-prenatal-care</shortlink>
     <posted>03-Apr-23</posted>
     <Reaffirmed></Reaffirmed>
-    <updated></updated>
-    <hasupdates>no</hasupdates>
-    <changed>06-Apr-23</changed>
+    <updated>30-Oct-23</updated>
+    <hasupdates>yes</hasupdates>
+    <changed>30-Oct-23</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI></DOI>
     <kwrd>Chlamydia</kwrd>
