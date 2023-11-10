@@ -342,7 +342,7 @@
     <update />
   </statement>
   <statement ID="head-lice">
-    <update />
+    <update Date="2023-11-08">Removed prices from treatment options, as signficantly out of date.</update>
   </statement>
   <statement ID="the-prevention-of-firearm-injuries-in-canadian-youth">
     <update Date="2018-04-16">Posted</update>
