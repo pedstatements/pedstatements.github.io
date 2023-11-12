@@ -733,4 +733,7 @@
   <statement ID="reducing-perinatal-infection-risk-in-newborns-of-mothers-who-received-inadequate-prenatal-care">
     <update Date="2023-10-30">Changes recommendation for HBV workup in infants when mother not available to remove suggestion that HBsAg shows active infection as "this may reflect transient non-intact viral particles from the mother". Changes Figure 2 to specify that if mom's HBsAg is unknown and unavailable for testing the infant should get the HBV vaccine +/- HBig.</update>
   </statement>
+  <statement ID="management-of-well-appearing-febrile-young-infants-aged-90-days">
+    <update Date="2023-11-10">Corrects the "Aronson rule" to change the minimum "Highest temperature measured in the ED" criteria to 38.0 from 38.5.</update>
+  </statement>
 </root>
