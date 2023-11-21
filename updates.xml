@@ -735,5 +735,6 @@
   </statement>
   <statement ID="management-of-well-appearing-febrile-young-infants-aged-90-days">
     <update Date="2023-11-10">Corrects the "Aronson rule" to change the minimum "Highest temperature measured in the ED" criteria to 38.0 from 38.5.</update>
+    <update Date="2023-11-20">Changes Table 3 to be for infants ≥37 weeks GA instead of ≥35. Corrects cefotaxime frequency in Table 3 for 0-7 days to q8 from q6. Updates the WBC count definitions of pyuria to >10WBC/mm3 or >5WBC/hpf from ≥10WBC/mm3 or ≥5WBC/hpf.</update>
   </statement>
 </root>
