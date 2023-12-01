@@ -449,7 +449,7 @@
     <update />
   </statement>
   <statement ID="salmonella-infections-in-canadian-children">
-    <update />
+    <update Date="2023-11-30">Removed "febrile" from the list of indications for admission and antibiotics in patients with a positive stool culture and no travel (centre box in 3rd level of Figure 1).</update>
   </statement>
   <statement ID="approaches-to-detecting-tuberculosis-in-children-and-youth">
     <update />
