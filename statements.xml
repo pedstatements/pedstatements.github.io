@@ -183,37 +183,6 @@
     <kwrd>Research</kwrd>
   </statement>
   <statement>
-    <name>Preventing choking and suffocation in children</name>
-    <shortlink>preventing-choking-suffocation-children</shortlink>
-    <posted>01-Feb-12</posted>
-    <Reaffirmed>01-Jan-20</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
-    <Committee>Injury Prevention Committee</Committee>
-    <DOI>10.1093/pch/17.2.91</DOI>
-    <kwrd>Anticipatory guidance</kwrd>
-    <kwrd>Choking</kwrd>
-    <kwrd>Injury prevention</kwrd>
-    <kwrd>Strangulation</kwrd>
-    <kwrd>Suffocation</kwrd>
-  </statement>
-  <statement>
-    <name>Kangaroo care for the preterm infant and family</name>
-    <shortlink>kangaroo-care-for-preterm-infant</shortlink>
-    <posted>01-Mar-12</posted>
-    <Reaffirmed>01-Jan-20</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>06-Feb-20</changed>
-    <Committee>Fetus and Newborn Committee</Committee>
-    <DOI>10.1093/pch/17.3.141</DOI>
-    <kwrd>Family-centred care</kwrd>
-    <kwrd>Kangaroo care</kwrd>
-    <kwrd>Preterm infant</kwrd>
-    <kwrd>Skin-to-skin care</kwrd>
-  </statement>
-  <statement>
     <name>Preventing injuries from all-terrain vehicles</name>
     <shortlink>preventing-injury-from-atvs</shortlink>
     <posted>30-Aug-12</posted>
@@ -297,41 +266,6 @@
     <kwrd>Youth</kwrd>
   </statement>
   <statement>
-    <name>Oral health care for children – a call for action</name>
-    <shortlink>oral-health-care-for-children</shortlink>
-    <posted>11-Jan-13</posted>
-    <Reaffirmed>01-Mar-22</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Mar-22</changed>
-    <Committee>Community Paediatrics Committee</Committee>
-    <DOI>10.1093/pch/18.1.37</DOI>
-    <kwrd>Aboriginal communities</kwrd>
-    <kwrd>Early childhood caries</kwrd>
-    <kwrd>Fluoride</kwrd>
-    <kwrd>Immigrants</kwrd>
-    <kwrd>Oral health</kwrd>
-    <kwrd>Prevention</kwrd>
-    <kwrd>Public health policy</kwrd>
-    <kwrd>Social determinants</kwrd>
-  </statement>
-  <statement>
-    <name>Weaning from the breast</name>
-    <shortlink>weaning-from-the-breast</shortlink>
-    <posted>02-Apr-13</posted>
-    <Reaffirmed>01-Mar-22</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Mar-22</changed>
-    <Committee>Community Paediatrics Committee</Committee>
-    <DOI>10.1093/pch/18.4.210</DOI>
-    <kwrd>Breastfeeding</kwrd>
-    <kwrd>Breast milk</kwrd>
-    <kwrd>Complementary foods</kwrd>
-    <kwrd>Infant</kwrd>
-    <kwrd>Weaning</kwrd>
-  </statement>
-  <statement>
     <name>Nutrition for healthy term infants, birth to six months: An overview</name>
     <shortlink>nutrition-healthy-term-infants-overview</shortlink>
     <posted>02-Apr-13</posted>
@@ -382,21 +316,6 @@
     <kwrd>Youth</kwrd>
   </statement>
   <statement>
-    <name>Supporting the mental health of children and youth of separating parents</name>
-    <shortlink>mental-health-children-and-youth-of-separating-parents</shortlink>
-    <posted>03-Sep-13</posted>
-    <Reaffirmed>01-Mar-22</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Mar-22</changed>
-    <Committee>Mental Health and Developmental Disabilities Committee</Committee>
-    <DOI>10.1093/pch/18.7.373</DOI>
-    <kwrd>Divorce</kwrd>
-    <kwrd>Mental health</kwrd>
-    <kwrd>Outcome</kwrd>
-    <kwrd>Separating parents</kwrd>
-  </statement>
-  <statement>
     <name>The medical assessment of bruising in suspected child maltreatment cases: A clinical perspective</name>
     <shortlink>medical-assessment-of-bruising</shortlink>
     <posted>03-Oct-13</posted>
@@ -428,37 +347,6 @@
     <kwrd>Child death review</kwrd>
     <kwrd>Injury prevention</kwrd>
     <kwrd>Youth</kwrd>
-  </statement>
-  <statement>
-    <name>Use of selective serotonin reuptake inhibitor medications for the treatment of child and adolescent mental illness</name>
-    <shortlink>use-of-SSRIs-for-child-adolescent-mental-illness</shortlink>
-    <posted>01-Nov-13</posted>
-    <Reaffirmed>01-Mar-22</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Mar-22</changed>
-    <Committee>Mental Health and Developmental Disabilities Committee</Committee>
-    <DOI>10.1093/pch/18.9.487</DOI>
-    <kwrd>Adolescent</kwrd>
-    <kwrd>Antidepressant</kwrd>
-    <kwrd>Anxiety</kwrd>
-    <kwrd>Depression</kwrd>
-    <kwrd>Psychopharmacology</kwrd>
-    <kwrd>SSRI</kwrd>
-  </statement>
-  <statement>
-    <name>Bicycle helmet use in Canada: The need for legislation to reduce the risk of head injury</name>
-    <shortlink>bike-helmets-to-reduce-risk-of-head-injury</shortlink>
-    <posted>01-Nov-13</posted>
-    <Reaffirmed>01-Jan-20</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
-    <Committee>Injury Prevention Committee</Committee>
-    <DOI>10.1093/pch/18.9.475</DOI>
-    <kwrd>Bicycle helmet</kwrd>
-    <kwrd>Head injuries</kwrd>
-    <kwrd>Legislation</kwrd>
   </statement>
   <statement>
     <name>Clostridium difficile in paediatric populations</name>
@@ -644,21 +532,6 @@
     <kwrd>Frenotomy</kwrd>
     <kwrd>Infant</kwrd>
     <kwrd>Tongue-tie</kwrd>
-  </statement>
-  <statement>
-    <name>The interfacility transport of critically ill newborns</name>
-    <shortlink>interfacility-transport-of-critically-ill-newborns</shortlink>
-    <posted>05-Jun-15</posted>
-    <Reaffirmed>01-Jan-21</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>21-Jan-21</changed>
-    <Committee>Fetus and Newborn Committee</Committee>
-    <DOI>10.1093/pch/20.5.265</DOI>
-    <kwrd>Interfacility transport</kwrd>
-    <kwrd>Intramural</kwrd>
-    <kwrd>Newborn</kwrd>
-    <kwrd>Transport medicine</kwrd>
   </statement>
   <statement>
     <name>Suicidal ideation and behaviour</name>
@@ -1112,23 +985,6 @@
     <kwrd>Pyrethrin</kwrd>
   </statement>
   <statement>
-    <name>The prevention of firearm injuries in Canadian youth</name>
-    <shortlink>the-prevention-of-firearm-injuries-in-canadian-youth</shortlink>
-    <posted>16-Feb-18</posted>
-    <Reaffirmed />
-    <updated />
-    <hasupdates>yes</hasupdates>
-    <changed>20-Jun-22</changed>
-    <Committee>Adolescent Health Committee</Committee>
-    <DOI>10.1093/pch/pxx164</DOI>
-    <kwrd>Adolescent</kwrd>
-    <kwrd>Child</kwrd>
-    <kwrd>Firearm</kwrd>
-    <kwrd>IPV</kwrd>
-    <kwrd>Nonpowder firearm</kwrd>
-    <kwrd>Targeted school violence</kwrd>
-  </statement>
-  <statement>
     <name>Rapid response systems for paediatrics: Suggestions for optimal organization and training</name>
     <shortlink>rapid-response-systems-for-paediatrics</shortlink>
     <posted>16-Feb-18</posted>
@@ -1195,21 +1051,6 @@
     <kwrd>Informed consent</kwrd>
     <kwrd>Mature minors</kwrd>
     <kwrd>SDM</kwrd>
-  </statement>
-  <statement>
-    <name>Medical Assistance in Dying: A Paediatric Perspective</name>
-    <shortlink>medical-assistance-in-dying</shortlink>
-    <posted>12-Apr-18</posted>
-    <Reaffirmed />
-    <updated>12-Jul-22</updated>
-    <hasupdates>yes</hasupdates>
-    <changed>12-Jul-22</changed>
-    <Committee>Bioethics Committee</Committee>
-    <DOI>10.1093/pch/pxx181</DOI>
-    <kwrd>Euthanasia</kwrd>
-    <kwrd>MAID</kwrd>
-    <kwrd>Mature minors</kwrd>
-    <kwrd>Medical assistance in dying</kwrd>
   </statement>
   <statement>
     <name>Supporting and communicating with families experiencing a perinatal loss</name>
