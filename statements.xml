@@ -217,22 +217,6 @@
     <kwrd>Surveillance</kwrd>
   </statement>
   <statement>
-    <name>Community-associated methicillin-resistant Staphylococcus aureus in Indigenous communities in Canada</name>
-    <shortlink>community-associated-MRSA-in-Indigenous-communities</shortlink>
-    <posted>07-Sep-12</posted>
-    <Reaffirmed>01-Jan-20</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
-    <Committee>First Nations, Inuit and Métis Health Committee</Committee>
-    <DOI>10.1093/pch/17.7.395</DOI>
-    <kwrd>Canada</kwrd>
-    <kwrd>Community-acquired infections</kwrd>
-    <kwrd>Indigenous populations</kwrd>
-    <kwrd>Methicillin-resistant S. aureus (MRSA)</kwrd>
-    <kwrd>SSTI</kwrd>
-  </statement>
-  <statement>
     <name>The 'picky eater': The toddler or preschooler who does not eat</name>
     <shortlink>toddler-preschooler-who-does-not-eat</shortlink>
     <posted>01-Oct-12</posted>
@@ -567,23 +551,6 @@
     <kwrd>Infant</kwrd>
     <kwrd>STI</kwrd>
     <kwrd>UTI</kwrd>
-  </statement>
-  <statement>
-    <name>Scabies</name>
-    <shortlink>scabies</shortlink>
-    <posted>05-Oct-15</posted>
-    <Reaffirmed>28-Feb-18</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
-    <Committee>First Nations, Inuit and Métis Health Committee</Committee>
-    <DOI>10.1093/pch/22.7.395</DOI>
-    <kwrd>Crusted scabies</kwrd>
-    <kwrd>Indigenous communities</kwrd>
-    <kwrd>Infestations</kwrd>
-    <kwrd>Norwegian scabies</kwrd>
-    <kwrd>Poverty</kwrd>
-    <kwrd>Pruritus</kwrd>
   </statement>
   <statement>
     <name>Housing need in Canada: Healthy lives start at home</name>
@@ -1267,8 +1234,8 @@
     <posted>16-Aug-18</posted>
     <Reaffirmed />
     <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
+    <hasupdates>yes</hasupdates>
+    <changed>07-Feb-24</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxy096</DOI>
     <kwrd>Chickenpox</kwrd>
