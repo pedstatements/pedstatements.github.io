@@ -407,7 +407,7 @@
     <update />
   </statement>
   <statement ID="exclusion-policies-for-chickenpox">
-    <update />
+    <update Date="2024-02-07">Added addendum that the statement will be retired July 2024 as it is out of date and that patients should isolate until lesions are crusted and have stopped erupting.</update>
   </statement>
   <statement ID="vitamin-k-prophylaxis-in-newborns">
     <update />
