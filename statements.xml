@@ -65,20 +65,6 @@
     <kwrd />
   </statement>
   <statement>
-    <name>Advance care planning for paediatric patients</name>
-    <shortlink>advance-care-planning</shortlink>
-    <posted>01-Nov-08</posted>
-    <Reaffirmed>28-Feb-18</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
-    <Committee>Bioethics Committee</Committee>
-    <DOI>10.1093/pch/13.9.791</DOI>
-    <kwrd>Advance directives</kwrd>
-    <kwrd>Consent</kwrd>
-    <kwrd>Palliative care</kwrd>
-  </statement>
-  <statement>
     <name>Congenital syphilis: No longer just of historical interest</name>
     <shortlink>congenital-syphilis</shortlink>
     <posted>01-Apr-09</posted>
@@ -3168,6 +3154,37 @@
     <kwrd>Injury</kwrd>
     <kwrd>Play</kwrd>
     <kwrd>Risk</kwrd>
+  </statement>
+  <statement>
+    <name>Gene-based drug therapy for children and youth treated with psychoactive medications</name>
+    <shortlink>gene-based-drug-testing-psychoactive-meds</shortlink>
+    <posted>14-Feb-24</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>14-Feb-24</changed>
+    <Committee>Drug Therapy Committee</Committee>
+    <DOI></DOI>
+    <kwrd>Child psychiatry</kwrd>
+    <kwrd>Child and youth mental health</kwrd>
+    <kwrd>Pharmacogenetic testing</kwrd>
+    <kwrd>Precision medicine</kwrd>
+  </statement>
+  <statement>
+    <name>Goals of care conversations and advance care planning for paediatric patients living with serious illness</name>
+    <shortlink>advance-care-planning</shortlink>
+    <posted>07-Mar-24</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>11-Mar-24</changed>
+    <Committee>Bioethics Committee</Committee>
+    <DOI></DOI>
+    <kwrd>Advance care planning</kwrd>
+    <kwrd>Goals of care</kwrd>
+    <kwrd>Palliative care</kwrd>
+    <kwrd>Serious illness</kwrd>
+    <kwrd>Shared decision-making</kwrd>
   </statement>
   <?ignore
   <statement>
