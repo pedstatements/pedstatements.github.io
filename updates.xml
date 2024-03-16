@@ -225,7 +225,7 @@
     <update />
   </statement>
   <statement ID="prophylactic-antibiotics-recurrent-urinary-tract-infections">
-    <update />
+    <update Date="2024-03-15">Added addendum that based on recent RCT and systematic review there was minimal benefit to prophylaxis and increased resistant UTIs, supporting a watchful waiting approach vs prophylaxis.</update>
   </statement>
   <statement ID="type-1-diabetes-in-school">
     <update />
@@ -438,9 +438,18 @@
   </statement>
   <statement ID="pneumonia-management-children-youth">
     <update Date="2023-07-21">Updated treatment recommendations to suggest non-severe ambulatory and mild hospital pneumonia could be treated with a 5 day course of antibiotics.</update>
+    <update Date="2024-03-14">No change to content.</update>
   </statement>
   <statement ID="needle-stick-injuries-in-the-community">
-    <update />
+    <update Date="2024-03-14"><![CDATA[
+        <ul>
+        <li>Updates literature review of HBV transmission case reports, noting no documented previous</li><li>immunization or post-exposure prophylaxis</li>
+        <li>Changes Table 1 for clarification and to note HBV vaccine should be given at different site from HBIG</li>
+        <li>Adds note that some recommend anti-HBc testing but not needed to change management</li>
+        <li>Notes that HIV transmission risk from source on ART and undetectable viral load is low but not zero</li>
+        <li>Adds that injury from child reaching into sharps container is high-risk</li>
+        </ul>
+    ]]></update>
   </statement>
   <statement ID="infection-prevention-and-control-in-paediatric-office-settings">
     <update />
