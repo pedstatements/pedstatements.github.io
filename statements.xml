@@ -65,18 +65,6 @@
     <kwrd />
   </statement>
   <statement>
-    <name>Congenital syphilis: No longer just of historical interest</name>
-    <shortlink>congenital-syphilis</shortlink>
-    <posted>01-Apr-09</posted>
-    <Reaffirmed>28-Feb-18</Reaffirmed>
-    <updated>08-Feb-18</updated>
-    <hasupdates>no</hasupdates>
-    <changed>06-Apr-18</changed>
-    <Committee>Infectious Diseases and Immunization Committee</Committee>
-    <DOI>10.1093/pch/14.5.337</DOI>
-    <kwrd />
-  </statement>
-  <statement>
     <name>Family-based treatment of children and adolescents with anorexia nervosa: Guidelines for the community physician</name>
     <shortlink>anorexia-nervosa-family-based-treatment</shortlink>
     <posted>01-Jan-10</posted>
@@ -428,9 +416,9 @@
     <shortlink>prophylactic-antibiotics-recurrent-urinary-tract-infections</shortlink>
     <posted>06-Feb-15</posted>
     <Reaffirmed>11-Jan-24</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>11-Jan-24</changed>
+    <updated>15-Mar-24</updated>
+    <hasupdates>yes</hasupdates>
+    <changed>15-Mar-24</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/20.1.45</DOI>
@@ -1345,9 +1333,9 @@
     <shortlink>pneumonia-management-children-youth</shortlink>
     <posted>31-Oct-18</posted>
     <Reaffirmed>11-Jan-24</Reaffirmed>
-    <updated>21-Jul-23</updated>
+    <updated>14-Mar-24</updated>
     <hasupdates>yes</hasupdates>
-    <changed>11-Jan-24</changed>
+    <changed>14-Mar-24</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/20.8.441</DOI>
     <kwrd>Antimicrobial therapy</kwrd>
@@ -1359,9 +1347,9 @@
     <shortlink>needle-stick-injuries-in-the-community</shortlink>
     <posted>19-Nov-18</posted>
     <Reaffirmed>11-Jan-24</Reaffirmed>
-    <updated>06-Jan-20</updated>
-    <hasupdates>no</hasupdates>
-    <changed>11-Jan-24</changed>
+    <updated>14-Mar-24</updated>
+    <hasupdates>yes</hasupdates>
+    <changed>14-Mar-24</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/pxy129</DOI>
     <kwrd>Antiretrovirals</kwrd>
