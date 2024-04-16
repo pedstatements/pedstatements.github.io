@@ -404,7 +404,7 @@
     <update />
   </statement>
   <statement ID="stinging-insect-hypersensitivity">
-    <update />
+    <update Date="2024-04-11">Added note that skin reactions are low risk for more severe systemic reactions, discusses the potential strategy of IgE testing followed by skin testing in the context of venom shortages, and notes that hereditary alpha-tryptasemia is more common than systemic mastocytosis when the serum tryptase is elevated.</update>
   </statement>
   <statement ID="exclusion-policies-for-chickenpox">
     <update Date="2024-02-07">Added addendum that the statement will be retired July 2024 as it is out of date and that patients should isolate until lesions are crusted and have stopped erupting.</update>
