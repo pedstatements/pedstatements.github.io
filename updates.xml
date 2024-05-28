@@ -468,7 +468,17 @@
     <update />
   </statement>
   <statement ID="complicated-pneumonia-empyema">
-    <update />
+    <update Date="2024-05-27"><![CDATA[
+        <ul>
+        <li>Updated epidemiology to note that S. pneumoniae is more common than S. aureus and GAS</li>
+        <li>Notes decline in complicated pneumonia since introduction of PCV13 vaccine</li>
+        <li>Suggests discussion with microbiology about molecular testing of pleural fluid, and biochemical analysis is unhelpful</li>
+        <li>Updates management to note minimal evidence, conservative management can be used in mild cases, and that evidence suggests early CT or VATS can reduce hospital stay, but CT is cheaper</li>
+        <li>Notes scenarios when ampicillin may be selected compared to a 3rd generation cephalosporin</li>
+        <li>Adds that dornase alfa has no benefit to children</li>
+        <li>Updates prognosis to remove abnormal lung function testing as a potential outcome</li>
+        </ul>
+    ]]></update>
   </statement>
   <statement ID="oral-ondansetron">
     <update />
