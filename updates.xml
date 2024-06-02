@@ -419,7 +419,7 @@
     <update />
   </statement>
   <statement ID="vaccine-hesitancy-in-immunization-programs">
-    <update />
+    <update Date="2024-05-23">Added more information on subgroups, including factors such as geography, race, and trust in health care and included research from covid when discussing HCP education.</update>
   </statement>
   <statement ID="antiviral-drugs-for-influenza">
     <update />
@@ -451,6 +451,7 @@
         </ul>
     ]]></update>
     <update Date="2024-03-18">Signficantly updates Table 3 and other information on medication options.</update>
+    <update Date="2024-5-27">Clarifies anti-HBs “non-protective” as less than 40 mIU/ml.</update>
   </statement>
   <statement ID="infection-prevention-and-control-in-paediatric-office-settings">
     <update />
