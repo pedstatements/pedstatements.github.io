@@ -3203,6 +3203,25 @@
     <kwrd>Eating Disorder</kwrd>
     <kwrd>Family-based Treatment</kwrd>
   </statement>
+  <statement>
+    <name>Cow’s milk protein allergy in infants and children</name>
+    <shortlink>cows-milk-protein-allergy</shortlink>
+    <posted>25-Jun-24</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>25-Jun-24</changed>
+    <Committee>Nutrition and Gastroenterology Committee</Committee>
+    <DOI></DOI>
+    <kwrd>Amino acid formula (AAF)</kwrd>
+    <kwrd>Cow’s milk intolerance (CMI)</kwrd>
+    <kwrd>Cow’s milk protein allergy (CMPA)</kwrd>
+    <kwrd>Extensively hydrolyzed formula (eHF)</kwrd>
+    <kwrd>Food protein-induced allergic proctocolitis (FPIAP)</kwrd>
+    <kwrd>Food protein-induced enterocolitis syndrome (FPIES)</kwrd>
+    <kwrd>Food protein-induced enteropathy (FPE)</kwrd>
+    <kwrd>Oral food challenge (OFC)</kwrd>
+  </statement>
   <?ignore
   <statement>
     <name></name>
