@@ -463,7 +463,17 @@
     <update Date="2023-11-30">Removed "febrile" from the list of indications for admission and antibiotics in patients with a positive stool culture and no travel (centre box in 3rd level of Figure 1).</update>
   </statement>
   <statement ID="approaches-to-detecting-tuberculosis-in-children-and-youth">
-    <update />
+    <update Date="2024-07-16"><![CDATA[
+        <ul>
+        <li>Updated to include guidance from the 8th edition of the Canadian TB standards from 2022</li>
+        <li>Adds children of foreign-born individuals to the individuals who should be considered for TB</li>
+        <li>Updates incidence data to 2020, noting a decline since 2012</li>
+        <li>Notes that hilar lymphadenopathy is best seen in a lateral chest x-ray</li>
+        <li>Notes that swabs are not appropriate for TB testing</li>
+        <li>Notes that IGRA and TST can be falsely negative in 10-30% of children, especially in miliary disease</li>
+        <li>Adds an addendum that although the AAP Redbook 2024 recommends either IGRA or TST for screening in all ages, both tests should be done if investigating for congenital TB as sensitivity is low in this population</li>
+        </ul>
+    ]]></update>
   </statement>
   <statement ID="acute-hyponatremia-in-hospitalized-children-and-youth">
     <update />
