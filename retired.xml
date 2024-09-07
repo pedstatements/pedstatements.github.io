@@ -635,16 +635,8 @@
     <note></note>
   </statement>
   <statement>
-    <name>Nutrition for healthy term infants, six to 24 months: An overview</name>
-    <posted>2014-12-05</posted>
-    <reaffirmed>2024-02-23</reaffirmed>
-    <retired>2024-08-19</retired>
-    <DOI>10.1093/pch/19.10.547</DOI>
-    <note></note>
-  </statement>
-  <statement>
     <name>Nutrition for healthy term infants, birth to six months: An overview</name>
-    <posted>2013-04-2</posted>
+    <posted>2013-04-02</posted>
     <reaffirmed>2022-03-22</reaffirmed>
     <retired>2024-08-14</retired>
     <DOI>10.1093/pch/18.4.206</DOI>
@@ -664,6 +656,14 @@
     <reaffirmed>2020-01-01</reaffirmed>
     <retired>2024-08-14</retired>
     <DOI>10.1093/pch/17.7.393</DOI>
+    <note></note>
+  </statement>
+  <statement>
+    <name>Nutrition for healthy term infants, six to 24 months: An overview</name>
+    <posted>2014-12-05</posted>
+    <reaffirmed>2024-02-23</reaffirmed>
+    <retired>2024-08-19</retired>
+    <DOI>10.1093/pch/19.10.547</DOI>
     <note></note>
   </statement>
   <?ignore
