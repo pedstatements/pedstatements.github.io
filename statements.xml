@@ -2600,23 +2600,6 @@
     <kwrd>Proton pump inhibitor (PPI)</kwrd>
   </statement>
   <statement>
-    <name>Vaccine recommendations for children and youth for the 2023/2024 influenza season</name>
-    <shortlink>vaccine-recommendations-influenza</shortlink>
-    <posted>09-Nov-22</posted>
-    <Reaffirmed />
-    <updated />
-    <hasupdates>yes</hasupdates>
-    <changed>25-Sep-23</changed>
-    <Committee>Infectious Diseases and Immunization Committee</Committee>
-    <DOI />
-    <kwrd>Children</kwrd>
-    <kwrd>COVID-19</kwrd>
-    <kwrd>CInfluenza vaccine</kwrd>
-    <kwrd>Inactivated influenza vaccine</kwrd>
-    <kwrd>LAIV</kwrd>
-    <kwrd>NACI</kwrd>
-  </statement>
-  <statement>
     <name>Screen time and preschool children: Promoting health and development in a digital world</name>
     <shortlink>screen-time-and-preschool-children</shortlink>
     <posted>24-Nov-22</posted>
@@ -3166,6 +3149,20 @@
     <DOI></DOI>
     <kwrd>Learning challenges</kwrd>
     <kwrd>Specific learning disorder (SLD)</kwrd>
+  </statement>
+  <statement>
+    <name>Literacy in school-aged children: A paediatric approach to advocacy and assessment</name>
+    <shortlink>literacy-in-school-aged-children</shortlink>
+    <posted>2024-Oct-23</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>2024-Oct-22</changed>
+    <Committee>Mental Health and Developmental Disabilities Committee</Committee>
+    <DOI></DOI>
+    <kwrd>Evidence-based reading instruction</kwrd>
+    <kwrd>Literacy</kwrd>
+    <kwrd>Screening</kwrd>
   </statement>
   <?ignore
   <statement>
