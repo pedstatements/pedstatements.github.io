@@ -114,21 +114,6 @@
     <kwrd>Premedication </kwrd>
   </statement>
   <statement>
-    <name>Drug research and treatment for children in Canada: A challenge</name>
-    <shortlink>drug-research-and-treatment</shortlink>
-    <posted>01-Nov-11</posted>
-    <Reaffirmed>25-Feb-19</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>25-Feb-19</changed>
-    <Committee>Drug Therapy Committee</Committee>
-    <DOI>10.1093/pch/16.9.560 </DOI>
-    <kwrd>Canada</kwrd>
-    <kwrd>Children</kwrd>
-    <kwrd>Drugs</kwrd>
-    <kwrd>Research</kwrd>
-  </statement>
-  <statement>
     <name>Preventing injuries from all-terrain vehicles</name>
     <shortlink>preventing-injury-from-atvs</shortlink>
     <posted>30-Aug-12</posted>
@@ -3163,6 +3148,22 @@
     <kwrd>Evidence-based reading instruction</kwrd>
     <kwrd>Literacy</kwrd>
     <kwrd>Screening</kwrd>
+  </statement>
+  <statement>
+    <name>Respiratory syncytial virus (RSV) prevention strategies for the 2024-2025 viral respiratory illness season</name>
+    <shortlink>rsv-prevention-2024-2025</shortlink>
+    <posted>2024-Nov-6</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>2024-Nov-7</changed>
+    <Committee>Infectious Diseases and Immunization Committee</Committee>
+    <DOI></DOI>
+    <kwrd>Infants</kwrd>
+    <kwrd>National Advisory Committee on Immunization (NAC)</kwrd>
+    <kwrd>Respiratory syncytial virus (RSV)</kwrd>
+    <kwrd>RSV monoclonal antibody</kwrd>
+    <kwrd>RSV vaccine</kwrd>
   </statement>
   <?ignore
   <statement>
