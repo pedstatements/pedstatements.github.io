@@ -395,7 +395,13 @@
     <update Date="2023-12-01">Updated links to resources and removed link to retired statement on preventing insect bites.</update>
   </statement>
   <statement ID="strategies-to-improve-childhood-immunization">
-    <update />
+    <update Date="2025-01-22"><![CDATA[
+      <ul>
+      <li>Removes immunization rate table, and provides updated rate data in text</li>
+      <li>Notes that even with 95% vaccine uptake, outbreaks could occur in communities with lower rates</li>
+      <li>Added addendum noting that covid showed that to increasing immunization rates, individual populations must be targeted using a multifaceted approach, and overall increased access to care</li>
+      </ul>
+    ]]></update>
   </statement>
   <statement ID="imaging-the-term-neonatal-brain">
     <update />
@@ -476,7 +482,13 @@
     ]]></update>
   </statement>
   <statement ID="acute-hyponatremia-in-hospitalized-children-and-youth">
-    <update />
+    <update Date="2024-07-15"><![CDATA[
+        <ul>
+        <li>Removes D51/2NS from fluid recommendations throughout statement, and adds RL or plasmalyte as options/li>
+        <li>Suggests RL or plasmalyte instead of 1/2NS to reduce risk of hyperchloremic metabolic acidosis/li>
+        <li>Adds plasmalyte to Table 2/li>
+        </ul>
+    ]]></update>
   </statement>
   <statement ID="complicated-pneumonia-empyema">
     <update Date="2024-05-27"><![CDATA[
@@ -633,7 +645,7 @@
     <update />
   </statement>
   <statement ID="update-on-congenital-cytomegalovirus-infection-prenatal-prevention-newborn-diagnosis-and-management">
-    <update />
+    <update Date="2025-01-24">Added addendum noting potential new evidence for antiviral treatment in congenital CMV with hearing loss with US and other guidelines recommending treatment in these cases.</update>
   </statement>
   <statement ID="comprehensive-care-of-the-ambulatory-child-with-cerebral-palsy-gmfcs-i-and-ii-a-canadian-perspective">
     <update />
@@ -716,7 +728,14 @@
     <update />
   </statement>
   <statement ID="the-management-of-hepatitis-c-virus">
-    <update />
+    <update Date="2024-12-20"><![CDATA[
+        <ul>
+        <li>Noted SOGC will endorse the recommendation to test for HCV during pregnancy this year</li>
+        <li>Updates testing recommendations: negative serology at >12m or RNA PCR at >2m excludes infection, CPS differs from US CDC in suggesting PCR at 2-6m then serology at 18-24m if negative</li>
+        <li>Updates antiviral data to note safe and effective in children and approved in Canada for >3y</li>
+        <li>Added addendum advising testing of other children of HCV affected mothers and public health notification and testing for other STIs in youth with new HCV infection</li>
+        </ul>
+    ]]></update>
   </statement>
   <statement ID="managing-an-acute-asthma-exacerbation">
     <update />
