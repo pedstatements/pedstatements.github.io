@@ -1284,36 +1284,6 @@
     <kwrd>Food allergy</kwrd>
   </statement>
   <statement>
-    <name>HIV in pregnancy: Identification of intrapartum and perinatal HIV exposures</name>
-    <shortlink>hiv-in-pregnancy</shortlink>
-    <posted>15-Feb-19</posted>
-    <Reaffirmed />
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
-    <Committee>Infectious Diseases and Immunization Committee</Committee>
-    <DOI>10.1093/pch/pxy181</DOI>
-    <kwrd>Human immunodeficiency virus</kwrd>
-    <kwrd>Infant</kwrd>
-    <kwrd>Intrapartum transmission</kwrd>
-    <kwrd>Pregnancy</kwrd>
-    <kwrd>Screening</kwrd>
-  </statement>
-  <statement>
-    <name>Vaccine-preventable diseases: Uncommon disease primer for the front-line provider</name>
-    <shortlink>vaccine-preventable-diseases</shortlink>
-    <posted>01-Apr-19</posted>
-    <Reaffirmed />
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
-    <Committee>Infectious Diseases and Immunization Committee</Committee>
-    <DOI>10.1093/pch/pxz044</DOI>
-    <kwrd>Paediatrics</kwrd>
-    <kwrd>Testing</kwrd>
-    <kwrd>Vaccine-preventable diseases (VPD)</kwrd>
-  </statement>
-  <statement>
     <name>Invasive group A streptococcal disease: Management and chemoprophylaxis</name>
     <shortlink>invasive-group-a-streptococcal-disease</shortlink>
     <posted>15-Apr-19</posted>
@@ -1563,25 +1533,6 @@
     <kwrd>Immunization</kwrd>
     <kwrd>Sepsis</kwrd>
     <kwrd>Splenectomy</kwrd>
-  </statement>
-  <statement>
-    <name>Diagnosis and management of sexually transmitted infections in adolescents</name>
-    <shortlink>sexually-transmitted-infections</shortlink>
-    <posted>07-Nov-19</posted>
-    <Reaffirmed />
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>27-May-21</changed>
-    <Committee>Infectious Diseases and Immunization Committee</Committee>
-    <DOI />
-    <kwrd>Chlamydia trachomatis</kwrd>
-    <kwrd>Herpes simplex virus</kwrd>
-    <kwrd>HIV</kwrd>
-    <kwrd>Human papillomavirus</kwrd>
-    <kwrd>Neisseria gonorrhoeae</kwrd>
-    <kwrd>Test-of-cure</kwrd>
-    <kwrd>Treponema pallidum</kwrd>
-    <kwrd>Trichomonas vaginalis</kwrd>
   </statement>
   <statement>
     <name>The screening and management of newborns at risk for low blood glucose</name>
