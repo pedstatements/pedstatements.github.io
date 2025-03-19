@@ -3079,7 +3079,8 @@
     <kwrd>Substance-exposed pregnancy (SEP)</kwrd>
     <kwrd>Trauma-informed care (TIC)</kwrd>
   </statement>
-  <name>Off-road vehicle use by children and adolescents: Strategies to prevent injury</name>
+  <statement>
+    <name>Off-road vehicle use by children and adolescents: Strategies to prevent injury</name>
     <shortlink>off-road-vehicle-use</shortlink>
     <posted>24-Feb-25</posted>
     <Reaffirmed></Reaffirmed>
@@ -3093,6 +3094,24 @@
     <kwrd>A Off-road vehicle (ORV)</kwrd>
     <kwrd>Paediatrics</kwrd>
     <kwrd>Prevention</kwrd>
+  </statement>
+  <statement>
+    <name>Guidelines for detection and management of hyperbilirubinemia in term and late preterm newborns (≥35 weeks gestational age)</name>
+    <shortlink>hyperbilirubinemia-newborns</shortlink>
+    <posted>18-Mar-25</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>18-Mar-25</changed>
+    <Committee>Fetus and Newborn Committee</Committee>
+    <DOI></DOI>
+    <kwrd>Bilirubin</kwrd>
+    <kwrd>Exchange transfusion</kwrd>
+    <kwrd>Hemolysis</kwrd>
+    <kwrd>Hyperbilirubinemiarapy</kwrd>
+    <kwrd>Jaundice</kwrd>
+    <kwrd>Neonates</kwrd>
+    <kwrd>Phototherapy</kwrd>
   </statement>
   <?ignore
   <statement>
