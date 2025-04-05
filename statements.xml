@@ -1521,7 +1521,7 @@
     <name>Iron requirements in the first 2 years of life</name>
     <shortlink>iron-requirements</shortlink>
     <posted>20-Nov-19</posted>
-    <Reaffirmed />
+    <Reaffirmed>26-Mar-25</Reaffirmed>
     <updated />
     <hasupdates>no</hasupdates>
     <changed>02-Feb-21</changed>
@@ -3080,6 +3080,22 @@
     <kwrd>Jaundice</kwrd>
     <kwrd>Neonates</kwrd>
     <kwrd>Phototherapy</kwrd>
+  </statement>
+  <statement>
+    <name>Management of the paediatric patient with acute head trauma</name>
+    <shortlink>acute-head-trauma</shortlink>
+    <posted>28-Mar-25</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>28-Mar-25</changed>
+    <Committee>Acute Care Committee</Committee>
+    <DOI></DOI>
+    <kwrd>Acute head trauma (AHT)</kwrd>
+    <kwrd>Computed tomography (CT) scan)</kwrd>
+    <kwrd>Prevention</kwrd>
+    <kwrd>Skull x-rays</kwrd>
+    <kwrd>Traumatic brain injury (TBI)</kwrd>
   </statement>
   <?ignore
   <statement>
