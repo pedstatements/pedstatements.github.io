@@ -570,7 +570,7 @@
     <update />
   </statement>
   <statement ID="newborns-at-risk-for-low-blood-glucose">
-    <update />
+    <update Date="2025-03-28">Corrected some incorrect GIR values in table 4.</update>
   </statement>
   <statement ID="iron-requirements">
     <update />
