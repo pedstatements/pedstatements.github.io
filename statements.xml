@@ -3124,6 +3124,22 @@
     <kwrd>POCUS</kwrd>
     <kwrd>Ultrasonography</kwrd>
   </statement>
+  <statement>
+    <name>Sleep matters: Supporting healthy sleep for children and youth with neurodevelopmental disabilities (NDDs)</name>
+    <shortlink>sleep-matters-ndds</shortlink>
+    <posted>19-Aug-25</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>19-Aug-25</changed>
+    <Committee>Mental Health and Developmental Disabilities Committee</Committee>
+    <DOI></DOI>
+    <kwrd>Autism</kwrd>
+    <kwrd>Healthy sleep</kwrd>
+    <kwrd>Melatonin</kwrd>
+    <kwrd>Neurodevelopmental disorders</kwrd>
+    <kwrd>Sleep</kwrd>
+  </statement>
   <?ignore
   <statement>
     <name></name>
@@ -3139,3 +3155,4 @@
   </statement>
   ?>
 </root>
+
