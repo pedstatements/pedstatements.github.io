@@ -778,6 +778,14 @@
     <DOI>10.1093/pch/18.5.253</DOI>
     <note>Replaced with new head trauma statement</note>
   </statement>
+  <statement>
+    <name>Vaccine recommendations for children and youth for the 2024/2025 influenza season</name>
+    <posted>2024-09-20</posted>
+    <reaffirmed></reaffirmed>
+    <retired></retired>
+    <DOI></DOI>
+    <note>Replaced with 2025/2026 influzena vaccine statement</note>
+  </statement>
   <?ignore
   <statement>
     <name></name>
@@ -789,3 +797,4 @@
   </statement>
   ?>
 </root>
+
