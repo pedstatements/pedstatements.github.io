@@ -3124,6 +3124,22 @@
     <kwrd>Neurodevelopmental disorders</kwrd>
     <kwrd>Sleep</kwrd>
   </statement>
+  <statement>
+    <name>Cultural safety in practice: Providing quality health care for First Nations, Inuit, and Métis children and youth</name>
+    <shortlink>cultural-safety</shortlink>
+    <posted>18-Sep-25</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>18-Sep-25</changed>
+    <Committee>First Nations, Inuit and Métis Health Committee</Committee>
+    <DOI></DOI>
+    <kwrd>Anti-racism</kwrd>
+    <kwrd>Cultural humility</kwrd>
+    <kwrd>Cultural safety</kwrd>
+    <kwrd>Indigenous health</kwrd>
+    <kwrd>Trauma-informed care</kwrd>
+  </statement>
   <?ignore
   <statement>
     <name></name>
@@ -3139,6 +3155,7 @@
   </statement>
   ?>
 </root>
+
 
 
 
