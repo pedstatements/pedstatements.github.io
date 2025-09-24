@@ -847,9 +847,9 @@
     <shortlink>contraceptive-care</shortlink>
     <posted>12-Jun-18</posted>
     <Reaffirmed>11-Jan-24</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>15-Jan-24</changed>
+    <updated>23-Sep-25</updated>
+    <hasupdates>yes</hasupdates>
+    <changed>23-Sep-25</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/pxx192</DOI>
     <kwrd>Bone mineral density</kwrd>
@@ -1255,9 +1255,9 @@
     <shortlink>universal-access-to-no-cost-contraception-for-youth-in-canada</shortlink>
     <posted>15-May-19</posted>
     <Reaffirmed>29-Oct-24</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>09-Nov-20</changed>
+    <updated>23-Sep-25</updated>
+    <hasupdates>yes</hasupdates>
+    <changed>23-Sep-25</changed>
     <Committee>Adolescent Health Committee</Committee>
     <DOI>10.1093/pch/pxz033</DOI>
     <kwrd>Adolescent</kwrd>
@@ -3155,6 +3155,7 @@
   </statement>
   ?>
 </root>
+
 
 
 
