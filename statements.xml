@@ -343,25 +343,6 @@
     <kwrd>Therapeutic trial</kwrd>
   </statement>
   <statement>
-    <name>Minimizing blood loss and the need for transfusions in very premature infants</name>
-    <shortlink>minimizing-blood-loss</shortlink>
-    <posted>04-Dec-15</posted>
-    <Reaffirmed>01-Jan-21</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>21-Jan-21</changed>
-    <Committee>Fetus and Newborn Committee</Committee>
-    <DOI>10.1093/pch/20.8.451</DOI>
-    <kwrd>Anemia</kwrd>
-    <kwrd>Bilirubin</kwrd>
-    <kwrd>Blood CO2</kwrd>
-    <kwrd>Cord clamping</kwrd>
-    <kwrd>Cord milking</kwrd>
-    <kwrd>Erythropoietin</kwrd>
-    <kwrd>RoP</kwrd>
-    <kwrd>Supplementary iron</kwrd>
-  </statement>
-  <statement>
     <name>Management of acute otitis media in children six months of age and older</name>
     <shortlink>acute-otitis-media</shortlink>
     <posted>05-Feb-16</posted>
@@ -663,9 +644,9 @@
     <shortlink>head-lice</shortlink>
     <posted>15-Feb-18</posted>
     <Reaffirmed>11-Jan-24</Reaffirmed>
-    <updated>08-Nov-23</updated>
+    <updated>11-Sep-25</updated>
     <hasupdates>yes</hasupdates>
-    <changed>11-Jan-24</changed>
+    <changed>03-Oct-25</changed>
     <Committee>Community Paediatrics Committee</Committee>
     <DOI>10.1093/pch/pxx165 </DOI>
     <kwrd>Dimeticone solution</kwrd>
@@ -3155,6 +3136,7 @@
   </statement>
   ?>
 </root>
+
 
 
 
