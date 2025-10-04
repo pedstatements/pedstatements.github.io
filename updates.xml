@@ -343,6 +343,7 @@
   </statement>
   <statement ID="head-lice">
     <update Date="2023-11-08">Removed prices from treatment options, as signficantly out of date.</update>
+    <update Date="2025-20-03">Corrects age range for pyrethrins from ≥2 months to ≥2 years.</update>
   </statement>
   <statement ID="the-prevention-of-firearm-injuries-in-canadian-youth">
     <update Date="2018-04-16">Posted</update>
@@ -792,5 +793,6 @@
     <update Date="2024-12-10">Added link to Solutions for Kids in Pain PDF summary of statement reccomendations.</update>
   </statement>
 </root>
+
 
 
