@@ -786,6 +786,14 @@
     <DOI></DOI>
     <note>Replaced with 2025/2026 influzena vaccine statement</note>
   </statement>
+  <statement>
+    <name>Minimizing blood loss and the need for transfusions in very premature infants</name>
+    <posted>2015-12-04</posted>
+    <reaffirmed>2021-01-01</reaffirmed>
+    <retired>2025-10-02</retired>
+    <DOI>10.1093/pch/20.8.451</DOI>
+    <note></note>
+  </statement>
   <?ignore
   <statement>
     <name></name>
@@ -797,4 +805,5 @@
   </statement>
   ?>
 </root>
+
 
