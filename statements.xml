@@ -3137,6 +3137,22 @@
     <kwrd>Indigenous health</kwrd>
     <kwrd>Trauma-informed care</kwrd>
   </statement>
+  <statement>
+    <name>Caring for children and adolescents impacted by armed conflict: A rights-based approach</name>
+    <shortlink>armed-conflict</shortlink>
+    <posted>15-Oct-25</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>15-Oct-25</changed>
+    <Committee>Caring for Kids New to Canada Task Force</Committee>
+    <DOI></DOI>
+    <kwrd>Armed conflict</kwrd>
+    <kwrd>Health effects</kwrd>
+    <kwrd>Mental health effects</kwrd>
+    <kwrd>Paediatrics</kwrd>
+    <kwrd>War</kwrd>
+  </statement>
   <?ignore
   <statement>
     <name></name>
@@ -3152,6 +3168,7 @@
   </statement>
   ?>
 </root>
+
 
 
 
