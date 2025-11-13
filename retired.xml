@@ -802,6 +802,14 @@
     <DOI>10.1093/pch/9.7.487</DOI>
     <note>Replaced with new dieting in adolescence statement</note>
   </statement>
+  <statement>
+    <name>Red blood cell transfusion in newborn infants</name>
+    <posted>2014-04-14</posted>
+    <reaffirmed>2020-01-01</reaffirmed>
+    <retired>2025-11-12</retired>
+    <DOI>10.1093/pch/19.4.213</DOI>
+    <note>Replaced with new newborn transfusion statement</note>
+  </statement>
   <?ignore
   <statement>
     <name></name>
@@ -813,6 +821,7 @@
   </statement>
   ?>
 </root>
+
 
 
 
