@@ -127,23 +127,6 @@
     <kwrd>Vancomycin</kwrd>
   </statement>
   <statement>
-    <name>Red blood cell transfusion in newborn infants</name>
-    <shortlink>red-blood-cell-transfusion-newborn-infants</shortlink>
-    <posted>04-Apr-14</posted>
-    <Reaffirmed>01-Jan-20</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
-    <Committee>Fetus and Newborn Committee</Committee>
-    <DOI>10.1093/pch/19.4.213 </DOI>
-    <kwrd>Anemia</kwrd>
-    <kwrd>Blood grouping</kwrd>
-    <kwrd>Cross-matching</kwrd>
-    <kwrd>Erythrocyte</kwrd>
-    <kwrd>Hemorrhagic shock</kwrd>
-    <kwrd>Hyperkalemia</kwrd>
-  </statement>
-  <statement>
     <name>Antimicrobial stewardship in daily practice: Managing an important resource</name>
     <shortlink>antimicrobial-stewardship</shortlink>
     <posted>01-May-14</posted>
@@ -3155,6 +3138,20 @@
     <kwrd>Body image</kwrd>
     <kwrd>Disordered eating</kwrd>
   </statement>
+  <statement>
+    <name>Minimizing blood loss and need for transfusions in newborns</name>
+    <shortlink>minimizing-blood-loss-in-newborns</shortlink>
+    <posted>12-Nov-25</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>12-Nov-25</changed>
+    <Committee>Fetus and Newborn Committee</Committee>
+    <DOI></DOI>
+    <kwrd>Blood transfusion</kwrd>
+    <kwrd>Platelet transfusion</kwrd>
+    <kwrd>Preterm</kwrd>
+  </statement>
   <?ignore
   <statement>
     <name></name>
@@ -3170,6 +3167,7 @@
   </statement>
   ?>
 </root>
+
 
 
 
