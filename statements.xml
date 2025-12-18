@@ -2988,9 +2988,9 @@
     <shortlink>hyperbilirubinemia-newborns</shortlink>
     <posted>18-Mar-25</posted>
     <Reaffirmed></Reaffirmed>
-    <updated></updated>
-    <hasupdates>no</hasupdates>
-    <changed>18-Mar-25</changed>
+    <updated>10-Nov-25</updated>
+    <hasupdates>yes</hasupdates>
+    <changed>10-Nov-25</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI></DOI>
     <kwrd>Bilirubin</kwrd>
@@ -3152,6 +3152,20 @@
     <kwrd>Platelet transfusion</kwrd>
     <kwrd>Preterm</kwrd>
   </statement>
+  <statement>
+    <name>Pharmacological management of acute migraine attacks in children and adolescents presenting to the emergency department</name>
+    <shortlink>acute-migraine</shortlink>
+    <posted>12-Dec-25</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>12-Dec-25</changed>
+    <Committee>Acute Care Committee</Committee>
+    <DOI></DOI>
+    <kwrd>Headache</kwrd>
+    <kwrd>Migraine</kwrd>
+    <kwrd>Paediatric emergency medicine</kwrd>
+  </statement>
   <?ignore
   <statement>
     <name></name>
@@ -3167,6 +3181,7 @@
   </statement>
   ?>
 </root>
+
 
 
 
