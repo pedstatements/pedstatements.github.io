@@ -1557,9 +1557,9 @@
     <shortlink>prevention-management-neonatal-herpes-simplex-virus-infections</shortlink>
     <posted>06-Mar-20</posted>
     <Reaffirmed />
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>27-May-21</changed>
+    <updated>10-Oct-25</updated>
+    <hasupdates>yes</hasupdates>
+    <changed>10-Oct-25</changed>
     <Committee>Infectious Diseases and Immunization Committee</Committee>
     <DOI>10.1093/pch/19.4.201</DOI>
     <kwrd>Acyclovir</kwrd>
@@ -3181,6 +3181,7 @@
   </statement>
   ?>
 </root>
+
 
 
 
