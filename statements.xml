@@ -3166,6 +3166,23 @@
     <kwrd>Migraine</kwrd>
     <kwrd>Paediatric emergency medicine</kwrd>
   </statement>
+  <statement>
+    <name>Management of antenatal urinary tract dilation—A clinical practice point for neonatal care providers</name>
+    <shortlink>urinary-tract-dilation</shortlink>
+    <posted>19-Jan-26</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>19-Jan-26</changed>
+    <Committee>Community Paediatrics Committee</Committee>
+    <Committee>Nephrology Special Interest Group</Committee>
+    <DOI></DOI>
+    <kwrd>Antenatal hydronephrosis</kwrd>
+    <kwrd>Prophylactic antibiotics</kwrd>
+    <kwrd>Uretero-pelvic junction obstruction</kwrd>
+    <kwrd>Urinary tract dilation</kwrd>
+    <kwrd>Vesicoureteric reflux</kwrd>
+  </statement>
   <?ignore
   <statement>
     <name></name>
@@ -3181,20 +3198,3 @@
   </statement>
   ?>
 </root>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
