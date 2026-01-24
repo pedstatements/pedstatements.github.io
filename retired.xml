@@ -810,6 +810,86 @@
     <DOI>10.1093/pch/19.4.213</DOI>
     <note>Replaced with new newborn transfusion statement</note>
   </statement>
+  <statement>
+  <name>Diagnosis and management of asthma in preschoolers: A Canadian Thoracic Society and Canadian Paediatric Society position paper</name>
+  <posted>2015-10-05</posted>
+  <reaffirmed></reaffirmed>
+  <retired>2026-01-23</retired>
+  <DOI>10.1093/pch/20.7.353</DOI>
+  <note></note>
+</statement>
+<statement>
+  <name>Newborn male circumcision</name>
+  <posted>2015-09-08</posted>
+  <reaffirmed>2024-01-11</reaffirmed>
+  <retired>2026-01-23</retired>
+  <DOI>10.1093/pch/20.6.311</DOI>
+  <note></note>
+</statement>
+<statement>
+  <name>Screening for disruptive behaviour problems in preschool children in primary health care settings</name>
+  <posted>2017-11-27</posted>
+  <reaffirmed></reaffirmed>
+  <retired>2026-01-23</retired>
+  <DOI>10.1093/pch/pxx128</DOI>
+  <note></note>
+</statement>
+<statement>
+  <name>Emergency treatment of anaphylaxis in infants and children</name>
+  <posted>2011-01-01</posted>
+  <reaffirmed>2018-02-28</reaffirmed>
+  <retired>2026-01-23</retired>
+  <DOI>10.1093/pch/16.1.35</DOI>
+  <note></note>
+</statement>
+<statement>
+  <name>Nutritional evaluation of the neurologically impaired child</name>
+  <posted>2020-03-13</posted>
+  <reaffirmed></reaffirmed>
+  <retired>2026-01-23</retired>
+  <DOI>10.1093/pch/pxz174</DOI>
+  <note></note>
+</statement>
+<statement>
+  <name>Preventing ophthalmia neonatorum</name>
+  <posted>2015-03-06</posted>
+  <reaffirmed>2024-01-11</reaffirmed>
+  <retired>2026-01-23</retired>
+  <DOI>10.1093/pch/20.2.93</DOI>
+  <note></note>
+</statement>
+<statement>
+  <name>Paediatric asthma and COVID-19</name>
+  <posted>2020-04-01</posted>
+  <reaffirmed></reaffirmed>
+  <retired>2026-01-23</retired>
+  <DOI></DOI>
+  <note></note>
+</statement>
+<statement>
+  <name>Prophylactic antibiotics for children with recurrent urinary tract infections</name>
+  <posted>2015-02-06</posted>
+  <reaffirmed>2024-01-11</reaffirmed>
+  <retired>2026-01-23</retired>
+  <DOI>10.1093/pch/20.1.45</DOI>
+  <note></note>
+</statement>
+<statement>
+  <name>Tobacco use and misuse among Indigenous children and youth in Canada</name>
+  <posted>2017-10-06</posted>
+  <reaffirmed></reaffirmed>
+  <retired>2026-01-23</retired>
+  <DOI>10.1093/pch/pxx124</DOI>
+  <note></note>
+</statement>
+<statement>
+  <name>Canada's eight-component vaccine safety system: A primer for health care workers</name>
+  <posted>2017-06-15</posted>
+  <reaffirmed>2023-02-24</reaffirmed>
+  <retired>2026-01-23</retired>
+  <DOI>10.1093/pch/pxx073</DOI>
+  <note></note>
+</statement>
   <?ignore
   <statement>
     <name></name>
@@ -821,6 +901,7 @@
   </statement>
   ?>
 </root>
+
 
 
 
