@@ -3015,6 +3015,22 @@
     <kwrd>Urinary tract dilation</kwrd>
     <kwrd>Vesicoureteric reflux</kwrd>
   </statement>
+  <statement>
+    <name>Kawasaki disease: Practical guidance on diagnosis and management</name>
+    <shortlink>kawasaki-disease</shortlink>
+    <posted>02-Feb-26</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>02-Feb-26</changed>
+    <Committee>Community Paediatrics Committee</Committee>
+    <DOI></DOI>
+    <kwrd>Antiplatelet</kwrd>
+    <kwrd>Coronary artery aneurysm</kwrd>
+    <kwrd>Echocardiography</kwrd>
+    <kwrd>IVIG</kwrd>
+    <kwrd>Kawasaki disease</kwrd>
+  </statement>
   <?ignore
   <statement>
     <name></name>
@@ -3030,5 +3046,6 @@
   </statement>
   ?>
 </root>
+
 
 
