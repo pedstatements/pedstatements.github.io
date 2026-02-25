@@ -2772,9 +2772,9 @@
     <Reaffirmed></Reaffirmed>
     <updated></updated>
     <hasupdates>no</hasupdates>
-    <changed>18-Dec-24</changed>
+    <changed>24-Feb-26</changed>
     <Committee>Fetus and Newborn Committee</Committee>
-    <DOI></DOI>
+    <DOI>10.1093/pch/pxaf011</DOI>
     <kwrd>Guidelines</kwrd>
     <kwrd>Management</kwrd>
     <kwrd>Neonates</kwrd>
@@ -2788,9 +2788,9 @@
     <Reaffirmed></Reaffirmed>
     <updated></updated>
     <hasupdates>no</hasupdates>
-    <changed>13-Jan-25</changed>
+    <changed>24-Feb-26</changed>
     <Committee>Fetus and Newborn Committee</Committee>
-    <DOI></DOI>
+    <DOI>10.1093/pch/pxaf013</DOI>
     <kwrd>Eat Sleep Console (ESC)</kwrd>
     <kwrd>Discharge planning</kwrd>
     <kwrd>Neonatal abstinence syndrome (NAS)</kwrd>
@@ -2807,9 +2807,9 @@
     <Reaffirmed></Reaffirmed>
     <updated></updated>
     <hasupdates>no</hasupdates>
-    <changed>24-Feb-25</changed>
+    <changed>24-Feb-26</changed>
     <Committee>Injury Prevention Committee</Committee>
-    <DOI></DOI>
+    <DOI>10.1093/pch/pxaf027</DOI>
     <kwrd>All-terrain vehicle (ATV)</kwrd>
     <kwrd>Injury</kwrd>
     <kwrd>A Off-road vehicle (ORV)</kwrd>
@@ -2841,9 +2841,9 @@
     <Reaffirmed></Reaffirmed>
     <updated></updated>
     <hasupdates>no</hasupdates>
-    <changed>28-Mar-25</changed>
+    <changed>24-Feb-26</changed>
     <Committee>Acute Care Committee</Committee>
-    <DOI></DOI>
+    <DOI>10.1093/pch/pxaf032</DOI>
     <kwrd>Acute head trauma (AHT)</kwrd>
     <kwrd>Computed tomography (CT) scan)</kwrd>
     <kwrd>Prevention</kwrd>
@@ -3046,6 +3046,7 @@
   </statement>
   ?>
 </root>
+
 
 
 
