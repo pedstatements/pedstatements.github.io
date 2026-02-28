@@ -3031,6 +3031,22 @@
     <kwrd>IVIG</kwrd>
     <kwrd>Kawasaki disease</kwrd>
   </statement>
+  <statement>
+    <name>Dyslipidemia in children: Diagnosis, evaluation, and management</name>
+    <shortlink>lipid-disorders</shortlink>
+    <posted>27-Feb-26</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>27-Feb-26</changed>
+    <Committee>Community Paediatrics Committee</Committee>
+    <DOI></DOI>
+    <kwrd>Atherosclerosis</kwrd>
+    <kwrd>Dyslipidemia</kwrd>
+    <kwrd>Familial hypercholesterolemia</kwrd>
+    <kwrd>Hypertriglyceridemia</kwrd>
+    <kwrd>Lipid disorders</kwrd>
+  </statement>
   <?ignore
   <statement>
     <name></name>
@@ -3046,6 +3062,7 @@
   </statement>
   ?>
 </root>
+
 
 
 
