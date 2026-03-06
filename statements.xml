@@ -3047,6 +3047,20 @@
     <kwrd>Hypertriglyceridemia</kwrd>
     <kwrd>Lipid disorders</kwrd>
   </statement>
+  <statement>
+    <name>Preseptal and orbital cellulitis in otherwise healthy children and youth</name>
+    <shortlink>preseptal-orbital-cellulitis</shortlink>
+    <posted>03-Mar-26</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>03-Mar-26</changed>
+    <Committee>Hospital Paediatrics Section</Committee>
+    <DOI></DOI>
+    <kwrd>Hospital paediatrics</kwrd>
+    <kwrd>Orbital cellulitis</kwrd>
+    <kwrd>Preseptal cellulitis</kwrd>
+  </statement>
   <?ignore
   <statement>
     <name></name>
@@ -3062,6 +3076,7 @@
   </statement>
   ?>
 </root>
+
 
 
 
