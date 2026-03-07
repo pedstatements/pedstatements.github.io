@@ -391,8 +391,8 @@
     <shortlink>acute-management-of-croup</shortlink>
     <posted>24-May-17</posted>
     <Reaffirmed>12-Jan-26</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
+    <updated>30-Jan-26</updated>
+    <hasupdates>yes</hasupdates>
     <changed>07-Jul-23</changed>
     <Committee>Acute Care Committee</Committee>
     <DOI>10.1093/pch/pxx019 </DOI>
@@ -3076,6 +3076,7 @@
   </statement>
   ?>
 </root>
+
 
 
 
