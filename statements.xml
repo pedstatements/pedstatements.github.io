@@ -178,22 +178,6 @@
     <kwrd>Type 1 diabetes</kwrd>
   </statement>
   <statement>
-    <name>Ankyloglossia and breastfeeding</name>
-    <shortlink>ankyloglossia-breastfeeding</shortlink>
-    <posted>11-May-15</posted>
-    <Reaffirmed>11-Jan-24</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>11-Jan-24</changed>
-    <Committee>Community Paediatrics Committee</Committee>
-    <DOI>10.1093/pch/20.4.209</DOI>
-    <kwrd>Ankyloglossia</kwrd>
-    <kwrd>Breastfeeding</kwrd>
-    <kwrd>Frenotomy</kwrd>
-    <kwrd>Infant</kwrd>
-    <kwrd>Tongue-tie</kwrd>
-  </statement>
-  <statement>
     <name>Suicidal ideation and behaviour</name>
     <shortlink>suicidal-ideation-and-behaviour</shortlink>
     <posted>05-Jun-15</posted>
@@ -208,22 +192,6 @@
     <kwrd>Prevention</kwrd>
     <kwrd>Risk assessment</kwrd>
     <kwrd>Suicide</kwrd>
-  </statement>
-  <statement>
-    <name>Housing need in Canada: Healthy lives start at home</name>
-    <shortlink>housing-need</shortlink>
-    <posted>05-Oct-15</posted>
-    <Reaffirmed>11-Jan-24</Reaffirmed>
-    <updated>31-Oct-19</updated>
-    <hasupdates>no</hasupdates>
-    <changed>11-Jan-24</changed>
-    <Committee>Community Paediatrics Committee</Committee>
-    <DOI>10.1093/pch/20.7.403</DOI>
-    <kwrd>Determinants of health</kwrd>
-    <kwrd>Health advocacy</kwrd>
-    <kwrd>Housing</kwrd>
-    <kwrd>Public health</kwrd>
-    <kwrd>Social paediatrics</kwrd>
   </statement>
   <statement>
     <name>Management of acute otitis media in children six months of age and older</name>
@@ -391,7 +359,7 @@
     <shortlink>acute-management-of-croup</shortlink>
     <posted>24-May-17</posted>
     <Reaffirmed>12-Jan-26</Reaffirmed>
-    <updated>12-Jan-26</updated>
+    <updated>06-Mar-26</updated>
     <hasupdates>yes</hasupdates>
     <changed>09-Mar-26</changed>
     <Committee>Acute Care Committee</Committee>
