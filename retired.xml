@@ -890,16 +890,32 @@
   <DOI>10.1093/pch/pxx073</DOI>
   <note></note>
 </statement>
-  <?ignore
-  <statement>
-    <name></name>
-    <posted></posted>
-    <reaffirmed></reaffirmed>
-    <retired></retired>
-    <DOI></DOI>
-    <note></note>
-  </statement>
-  ?>
+<statement>
+  <name>Ankyloglossia and breastfeeding</name>
+  <posted>2015-05-11</posted>
+  <reaffirmed>2024-01-11</reaffirmed>
+  <retired>2026-03-23</retired>
+  <DOI>10.1093/pch/20.4.209</DOI>
+  <note></note>
+</statement>
+<statement>
+  <name>Housing need in Canada: Healthy lives start at home</name>
+  <posted>2015-10-15</posted>
+  <reaffirmed>2024-01-11</reaffirmed>
+  <retired>2026-03-23</retired>
+  <DOI>10.1093/pch/20.7.403</DOI>
+  <note></note>
+</statement>
+<?ignore
+<statement>
+  <name></name>
+  <posted></posted>
+  <reaffirmed></reaffirmed>
+  <retired></retired>
+  <DOI></DOI>
+  <note></note>
+</statement>
+?>
 </root>
 
 
