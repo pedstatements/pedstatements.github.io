@@ -914,6 +914,30 @@
   <DOI>10.1093/pch/pxy093</DOI>
   <note>Replaced with new GDD/ID statement.</note>
 </statement>
+<statement>
+  <name>Premedication for endotracheal intubation in the newborn infant</name>
+  <posted>2011-03-01</posted>
+  <reaffirmed>2018-02-28</reaffirmed>
+  <retired>2026-04-20</retired>
+  <DOI>10.1093/pch/16.3.159</DOI>
+  <note>Replaced with new intubation statement.</note>
+</statement>
+<statement>
+  <name>Management of community-associated methicillin-resistant Staphylococcus aureus skin abscesses in children</name>
+  <posted>2011-02-01</posted>
+  <reaffirmed>2020-01-01</reaffirmed>
+  <retired>2026-05-26</retired>
+  <DOI>10.1093/pch/16.2.115</DOI>
+  <note>Replaced with new soft tissue infection statement.</note>
+</statement>
+<statement>
+  <name>Child and youth injury prevention: A public health approach</name>
+  <posted>2012-11-02</posted>
+  <reaffirmed>2020-01-01</reaffirmed>
+  <retired>2026-06-26</retired>
+  <DOI>10.1093/pch/17.9.511</DOI>
+  <note>Replaced with new injury prevention statement.</note>
+</statement>
 <?ignore
 <statement>
   <name></name>
