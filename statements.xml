@@ -3059,6 +3059,24 @@
     <kwrd>LAIV</kwrd>
     <kwrd>NACI</kwrd>
   </statement>
+  <statement>
+    <name>Optimizing management of urinary tract infections in children: A need for improved stewardship</name>
+    <shortlink>management-urinary-tract-infections</shortlink>
+    <posted>25-Aug-26</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>14-Aug-26</changed>
+    <Committee>Infectious Diseases and Immunization Committee</Committee>
+    <DOI></DOI>
+    <kwrd>Antibiotic stewardship</kwrd>
+    <kwrd>Bacteriuria</kwrd>
+    <kwrd>Cystitis</kwrd>
+    <kwrd>Pyelonephritis</kwrd>
+    <kwrd>Pyuria</kwrd>
+    <kwrd>Urinalysis</kwrd>
+    <kwrd>UTI</kwrd>
+  </statement>
   <?ignore
   <statement>
     <name></name>
@@ -3074,10 +3092,3 @@
   </statement>
   ?>
 </root>
-
-
-
-
-
-
-
