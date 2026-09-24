@@ -946,6 +946,22 @@
   <DOI></DOI>
   <note>Replaced with 2026/2027 influenza vaccine reccomendation statement.</note>
 </statement>
+<statement>
+  <name>Urinary tract infection in infants and children: Diagnosis and management</name>
+  <posted>2013-06-14</posted>
+  <reaffirmed>2020-01-01</reaffirmed>
+  <retired>2026-08-25</retired>
+  <DOI>10.1093/pch/19.6.315</DOI>
+  <note>Replaced with new UTI statement.</note>
+</statement>
+<statement>
+  <name>Clostridium difficile in paediatric populations</name>
+  <posted>2010-01-14</posted>
+  <reaffirmed>2024-02-23</reaffirmed>
+  <retired>2026-09-23</retired>
+  <DOI>10.1093/pch/19.1.43</DOI>
+  <note>Replaced with new C. diff statement.</note>
+</statement>
 <?ignore
 <statement>
   <name></name>
