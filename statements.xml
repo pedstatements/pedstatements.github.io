@@ -42,25 +42,6 @@
     <kwrd>Maltreatment</kwrd>
   </statement>
   <statement>
-    <name>Clostridium difficile in paediatric populations</name>
-    <shortlink>clostridium-difficile-in-paediatric-populations</shortlink>
-    <posted>10-Jan-14</posted>
-    <Reaffirmed>24-Feb-23</Reaffirmed>
-    <updated>05-Mar-20</updated>
-    <hasupdates>no</hasupdates>
-    <changed>24-Feb-23</changed>
-    <Committee>Infectious Diseases and Immunization Committee</Committee>
-    <DOI>10.1093/pch/19.1.43</DOI>
-    <kwrd>CDI</kwrd>
-    <kwrd>Colitis</kwrd>
-    <kwrd>Diarrhea</kwrd>
-    <kwrd>Immunocompromise</kwrd>
-    <kwrd>Megacolon</kwrd>
-    <kwrd>Metronidazole</kwrd>
-    <kwrd>NAP1</kwrd>
-    <kwrd>Vancomycin</kwrd>
-  </statement>
-  <statement>
     <name>Antimicrobial stewardship in daily practice: Managing an important resource</name>
     <shortlink>antimicrobial-stewardship</shortlink>
     <posted>01-May-14</posted>
@@ -76,27 +57,6 @@
     <kwrd>Pneumonia</kwrd>
     <kwrd>Superbugs</kwrd>
     <kwrd>UTIs</kwrd>
-  </statement>
-  <statement>
-    <name>Urinary tract infection in infants and children: Diagnosis and management</name>
-    <shortlink>urinary-tract-infections-in-children</shortlink>
-    <posted>13-Jun-14</posted>
-    <Reaffirmed>01-Jan-20</Reaffirmed>
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>02-Feb-21</changed>
-    <Committee>Community Paediatrics Committee</Committee>
-    <Committee>Infectious Diseases and Immunization Committee</Committee>
-    <DOI>10.1093/pch/19.6.315 </DOI>
-    <kwrd>Bacteremia</kwrd>
-    <kwrd>Cefixime</kwrd>
-    <kwrd>Cystitis</kwrd>
-    <kwrd>Gentamicin</kwrd>
-    <kwrd>Pyelonephritis</kwrd>
-    <kwrd>Pyuria</kwrd>
-    <kwrd>Sepsis</kwrd>
-    <kwrd>UTI</kwrd>
-    <kwrd>VUR</kwrd>
   </statement>
   <statement>
     <name>Bronchiolitis: Recommendations for diagnosis, monitoring and management of children one to 24 months of age</name>
@@ -2944,7 +2904,7 @@
     <hasupdates>no</hasupdates>
     <changed>03-Mar-26</changed>
     <Committee>Hospital Paediatrics Section</Committee>
-    <DOI></DOI>
+    <DOI>10.1093/pch/pxag024</DOI>
     <kwrd>Hospital paediatrics</kwrd>
     <kwrd>Orbital cellulitis</kwrd>
     <kwrd>Preseptal cellulitis</kwrd>
@@ -2958,7 +2918,7 @@
     <hasupdates>no</hasupdates>
     <changed>27-Mar-26</changed>
     <Committee>Mental Health and Developmental Disabilities Committee</Committee>
-    <DOI></DOI>
+    <DOI>10.1093/pch/pxag032</DOI>
     <kwrd>Assessment</kwrd>
     <kwrd>Developmental disabilities</kwrd>
     <kwrd>Genetic testing</kwrd>
@@ -3076,6 +3036,39 @@
     <kwrd>Pyuria</kwrd>
     <kwrd>Urinalysis</kwrd>
     <kwrd>UTI</kwrd>
+  </statement>
+  <statement>
+    <name>Clostridioides difficile in children</name>
+    <shortlink>clostridium-difficile-in-paediatric-populations</shortlink>
+    <posted>23-Sep-26</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>23-Sep-26</changed>
+    <Committee>Infectious Diseases and Immunization Committee</Committee>
+    <DOI></DOI>
+    <kwrd>CDI</kwrd>
+    <kwrd>Colitis</kwrd>
+    <kwrd>CDiarrhea</kwrd>
+    <kwrd>Immunocompromise</kwrd>
+    <kwrd>Megacolon</kwrd>
+    <kwrd>Metronidazole</kwrd>
+    <kwrd>Vancomycin</kwrd>
+  </statement>
+  <statement>
+    <name>Evidence-informed diagnosis of cerebral palsy in community settings</name>
+    <shortlink>evidence-informed-diagnosis-of-cerebral-palsy-in-community-settings</shortlink>
+    <posted>23-Sep-26</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>23-Sep-26</changed>
+    <Committee>Mental Health and Developmental Disabilities Committee</Committee>
+    <Committee>Developmental Paediatrics Section</Committee>
+    <DOI></DOI>
+    <kwrd>Cerebral palsy</kwrd>
+    <kwrd>Diagnostic techniques</kwrd>
+    <kwrd>Early diagnosis</kwrd>
   </statement>
   <?ignore
   <statement>
