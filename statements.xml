@@ -121,20 +121,6 @@
     <kwrd>TM</kwrd>
   </statement>
   <statement>
-    <name>Retinopathy of prematurity: An update on screening and management</name>
-    <shortlink>retinopathy-of-prematurity-screening</shortlink>
-    <posted>07-Mar-16</posted>
-    <Reaffirmed />
-    <updated />
-    <hasupdates>no</hasupdates>
-    <changed>07-Aug-19</changed>
-    <Committee>Fetus and Newborn Committee</Committee>
-    <DOI>10.1093/pch/21.2.101</DOI>
-    <kwrd>Anti-VEGF therapy</kwrd>
-    <kwrd>Retinopathy of prematurity</kwrd>
-    <kwrd>ROP screening</kwrd>
-  </statement>
-  <statement>
     <name>Mental health problems in children with neuromotor disabilities</name>
     <shortlink>mental-health-problems-neuromotor-disabilities</shortlink>
     <posted>07-Mar-16</posted>
@@ -3069,6 +3055,20 @@
     <kwrd>Cerebral palsy</kwrd>
     <kwrd>Diagnostic techniques</kwrd>
     <kwrd>Early diagnosis</kwrd>
+  </statement>
+  <statement>
+    <name>Retinopathy of prematurity: Strategies to optimize screening and management</name>
+    <shortlink>retinopathy-of-prematurity-screening</shortlink>
+    <posted>23-Oct-26</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>23-OCt-26</changed>
+    <Committee>Fetus and Newborn Committee</Committee>
+    <DOI></DOI>
+    <kwrd>Anti-VEGF therapy</kwrd>
+    <kwrd>Retinopathy of prematurity</kwrd>
+    <kwrd>ROP screening</kwrd>
   </statement>
   <?ignore
   <statement>
