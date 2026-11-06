@@ -96,7 +96,7 @@
     <updated>03-Oct-19</updated>
     <hasupdates>no</hasupdates>
     <changed>11-Jan-24</changed>
-    <Committee>Mental Health and Developmental Disabilities Committee</Committee>
+    <Committee>Mental and Neurodevelopmental Health Committee</Committee>
     <DOI>10.1093/pch/20.5.257</DOI>
     <kwrd>Adolescents</kwrd>
     <kwrd>Mental health</kwrd>
@@ -128,7 +128,7 @@
     <updated />
     <hasupdates>no</hasupdates>
     <changed>02-Mar-22</changed>
-    <Committee>Mental Health and Developmental Disabilities Committee</Committee>
+    <Committee>Mental and Neurodevelopmental Health Committee</Committee>
     <DOI>10.1093/pch/21.2.93</DOI>
     <kwrd>CP</kwrd>
     <kwrd>Disability</kwrd>
@@ -686,7 +686,7 @@
     <updated />
     <hasupdates>no</hasupdates>
     <changed>11-Jan-24</changed>
-    <Committee>Mental Health and Developmental Disabilities Committee</Committee>
+    <Committee>Mental and Neurodevelopmental Health Committee</Committee>
     <DOI>10.1093/pch/pxy109</DOI>
     <kwrd>Attention-deficit hyperactivity disorder</kwrd>
     <kwrd>Comorbidity</kwrd>
@@ -701,7 +701,7 @@
     <updated />
     <hasupdates>yes</hasupdates>
     <changed>11-Jan-24</changed>
-    <Committee>Mental Health and Developmental Disabilities Committee</Committee>
+    <Committee>Mental and Neurodevelopmental Health Committee</Committee>
     <DOI>10.1093/pch/pxy113</DOI>
     <kwrd>ADHD</kwrd>
     <kwrd>Adverse effects</kwrd>
@@ -716,7 +716,7 @@
     <updated />
     <hasupdates>no</hasupdates>
     <changed>11-Jan-24</changed>
-    <Committee>Mental Health and Developmental Disabilities Committee</Committee>
+    <Committee>Mental and Neurodevelopmental Health Committee</Committee>
     <DOI>10.1093/pch/pxy111</DOI>
     <kwrd>Autism</kwrd>
     <kwrd>ADHD</kwrd>
@@ -1975,7 +1975,7 @@
     <updated />
     <hasupdates>no</hasupdates>
     <changed>28-Feb-23</changed>
-    <Committee>Mental Health and Developmental Disabilities Committee</Committee>
+    <Committee>Mental and Neurodevelopmental Health Committee</Committee>
     <DOI>10.1093/pch/pxac102</DOI>
     <kwrd>Adolescents</kwrd>
     <kwrd>Anxiety disordersh</kwrd>
@@ -1990,7 +1990,7 @@
     <updated />
     <hasupdates>no</hasupdates>
     <changed>28-Feb-23</changed>
-    <Committee>Mental Health and Developmental Disabilities Committee</Committee>
+    <Committee>Mental and Neurodevelopmental Health Committee</Committee>
     <DOI>10.1093/pch/pxac104</DOI>
     <kwrd>Adolescents</kwrd>
     <kwrd>Anxiety disordersh</kwrd>
@@ -2577,7 +2577,7 @@
     <updated></updated>
     <hasupdates>no</hasupdates>
     <changed>22-Oct-24</changed>
-    <Committee>Mental Health and Developmental Disabilities Committee</Committee>
+    <Committee>Mental and Neurodevelopmental Health Committee</Committee>
     <DOI></DOI>
     <kwrd>Evidence-based reading instruction</kwrd>
     <kwrd>Literacy</kwrd>
@@ -2607,7 +2607,7 @@
     <updated></updated>
     <hasupdates>no</hasupdates>
     <changed>20-Nov-24</changed>
-    <Committee>Mental Health and Developmental Disabilities Committee</Committee>
+    <Committee>Mental and Neurodevelopmental Health Committee</Committee>
     <DOI>10.1093/pch/pxae115</DOI>
     <kwrd>Conversion disorder</kwrd>
     <kwrd>Functional neurological symptom disorder</kwrd>
@@ -2751,7 +2751,7 @@
     <updated></updated>
     <hasupdates>no</hasupdates>
     <changed>19-Aug-25</changed>
-    <Committee>Mental Health and Developmental Disabilities Committee</Committee>
+    <Committee>Mental and Neurodevelopmental Health Committee</Committee>
     <DOI>10.1093/pch/pxaf107</DOI>
     <kwrd>Autism</kwrd>
     <kwrd>Healthy sleep</kwrd>
@@ -2903,7 +2903,7 @@
     <updated></updated>
     <hasupdates>no</hasupdates>
     <changed>27-Mar-26</changed>
-    <Committee>Mental Health and Developmental Disabilities Committee</Committee>
+    <Committee>Mental and Neurodevelopmental Health Committee</Committee>
     <DOI>10.1093/pch/pxag032</DOI>
     <kwrd>Assessment</kwrd>
     <kwrd>Developmental disabilities</kwrd>
@@ -3049,7 +3049,7 @@
     <updated></updated>
     <hasupdates>no</hasupdates>
     <changed>23-Sep-26</changed>
-    <Committee>Mental Health and Developmental Disabilities Committee</Committee>
+    <Committee>Mental and Neurodevelopmental Health Committee</Committee>
     <Committee>Developmental Paediatrics Section</Committee>
     <DOI></DOI>
     <kwrd>Cerebral palsy</kwrd>
@@ -3063,12 +3063,27 @@
     <Reaffirmed></Reaffirmed>
     <updated></updated>
     <hasupdates>no</hasupdates>
-    <changed>23-OCt-26</changed>
+    <changed>23-Oct-26</changed>
     <Committee>Fetus and Newborn Committee</Committee>
     <DOI></DOI>
     <kwrd>Anti-VEGF therapy</kwrd>
     <kwrd>Retinopathy of prematurity</kwrd>
     <kwrd>ROP screening</kwrd>
+  </statement>
+  <statement>
+    <name>Teen dating violence among adolescents</name>
+    <shortlink>teen-dating-violence-among-adolescents</shortlink>
+    <posted>05-Nov-26</posted>
+    <Reaffirmed></Reaffirmed>
+    <updated></updated>
+    <hasupdates>no</hasupdates>
+    <changed>05-Nov-26</changed>
+    <Committee>Adolescent Health Committee</Committee>
+    <DOI></DOI>
+    <kwrd>Adolescents</kwrd>
+    <kwrd>Dating violence</kwrd>
+    <kwrd>Intimate partner violence</kwrd>
+    <kwrd>Teens</kwrd>
   </statement>
   <?ignore
   <statement>
